@@ -2,6 +2,7 @@
 Your module description here
 """
 import argparse
+import time
 import boto3
 
 ap = argparse.ArgumentParser()
@@ -37,10 +38,15 @@ def main(args):
        
         
 def read_requests(rb, wb):
-    for object in rb.objects.limit(count=1):
-        print(object.key)
-    print(f"Request bucket: {rb}")
-    print(f"Widget bucket: {wb}")
+    timer = 0
+    while timer < 1000:
+        for object in rb.objects.limit(count=1):
+            if not object == None:
+                print(object.key)
+                timer = 0
+            else:
+                time.sleep(0.1) 
+                timer = 100
 
 
 def get_bucket_list(s3_resource):
