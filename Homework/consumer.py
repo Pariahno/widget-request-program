@@ -1,6 +1,3 @@
-"""
-Your module description here
-"""
 import argparse
 import time
 import json
@@ -20,9 +17,6 @@ def main(args):
 
     s3_resource = boto3.resource('s3')
     dynamo_db_resource = boto3.resource('dynamodb')
-    
-    #TODO: REMOVE THIS
-    print("-----------------------")
     
     # Checking for existing resources from arguments
     bucket_list = get_bucket_list(s3_resource)
