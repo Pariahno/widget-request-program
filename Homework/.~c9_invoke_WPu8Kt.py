@@ -71,30 +71,23 @@ def process_request(rb, wb, wt, object_key):
     contents = current_object['Body'].read().decode('utf-8')
     object_dict = json.loads(contents)
     if wb != None:
-        store_widget_in_bucket(wb, object_dict)
+        store_widget_in_bucket(s3_client, wb, object_dict)
     if wt != None:
-        store_widget_in_table(wt, object_dict)
+        store_widget_in_table()
     
 
 # Stores widget in S3 bucket
-def store_widget_in_bucket(wb, widget_contents):
+def store_widget_in_bucket(client, wb, widget_contents):
     widget_key = f"widgets/{widget_contents['owner']}/{widget_contents['widgetId']}"
     widget_body = json.dumps(widget_contents)
-    current_widget = wb.put_object(
+    current_widget = client.put_object(
         Body=widget_body,
+        Bucket=wb.name,
         Key=widget_key)
         
 
-# Stores widget in DynamoDB table
-def store_widget_in_table(wt, widget_contents):
-    for attribute in widget_contents['otherAttributes']:
-        att_name = attribute['name']
-        att_value = attribute['value']
-        widget_contents[att_name] = att_value
-    del widget_contents['otherAttributes']
-    widget_contents['id'] = widget_contents.pop('widgetId')
-    current_widget = wt.put_item(Item=widget_contents)
-        
+def store_widget_in_table()
+    
 
 # Returns a list of strings of existing bucket names
 def get_bucket_list(s3_resource):
@@ -104,7 +97,6 @@ def get_bucket_list(s3_resource):
     
     return bucket_list
     
-    
 # Returns a list of strings of existing table names
 def get_table_list(db_resource):
     table_list = []
@@ -112,7 +104,6 @@ def get_table_list(db_resource):
         table_list.append(table.name)
         
     return table_list
-
 
 main(args)
 
