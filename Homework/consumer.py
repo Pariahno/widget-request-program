@@ -46,9 +46,7 @@ def read_requests(rb, wb=None, wt=None):
     while timer < 3000:
         if len(list(rb.objects.limit(count=1))) > 0:
             for object in rb.objects.limit(count=1):
-                print(object.key)
-                if not wb == None:
-                    process_request(rb, wb, object.key)
+                process_request(rb, wb, wt, object.key)
                 rb.delete_objects(Delete={
                     'Objects': [{ 'Key': object.key }]
                     })
@@ -59,21 +57,26 @@ def read_requests(rb, wb=None, wt=None):
 
 
 # Gets object, read and parses it, then processes it
-def process_request(rb, wb, object_key):
+def process_request(rb, wb, wt, object_key):
     s3_client = boto3.client('s3')
     current_object = s3_client.get_object(
         Bucket=rb.name,
         Key=object_key)
     contents = current_object['Body'].read().decode('utf-8')
     object_dict = json.loads(contents)
-    print(object_dict['widgetId'])
-    widget_key = f"widgets/{object_dict['owner']}/{object_dict['widgetId']}"
-    widget_body = json.dumps(object_dict)
-    current_widget = s3_client.put_object(
+    if wb != None:
+        store_widget_in_bucket(s3_client, wb, object_dict)
+    
+
+# Stores widget in S3 bucket
+def store_widget_in_bucket(client, wb, widget_contents):
+    widget_key = f"widgets/{widget_contents['owner']}/{widget_contents['widgetId']}"
+    widget_body = json.dumps(widget_contents)
+    current_widget = client.put_object(
         Body=widget_body,
         Bucket=wb.name,
         Key=widget_key)
-
+    
 
 # Returns a list of strings of existing bucket names
 def get_bucket_list(s3_resource):
