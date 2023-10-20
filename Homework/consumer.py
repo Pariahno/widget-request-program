@@ -2,6 +2,10 @@ import argparse
 import time
 import json
 import boto3
+import logging
+
+#Set up logging
+logging.basicConfig(filename="consumer.log", level=logging.INFO)
 
 # Read and process command line arguments
 ap = argparse.ArgumentParser()
@@ -22,38 +26,45 @@ def main(args):
     bucket_list = get_bucket_list(s3_resource)
     table_list = get_table_list(dynamo_db_resource)
     if rb_name == None or (wb_name == None and wt_name == None):
+        logging.error('Insufficient arguments specified')
         print("Insufficient arguments specified")
         return
     elif not rb_name in bucket_list:
+        logging.error('Request bucket not found')
         print("Request bucket not found")
         return
-    elif wb_name in bucket_list:
-        rb = s3_resource.Bucket(rb_name)
-        wb = s3_resource.Bucket(wb_name)
-        read_requests(rb, wb=wb)
-    elif wt_name in table_list:
-        rb = s3_resource.Bucket(rb_name)
-        wt = dynamo_db_resource.Table(wt_name)
-        read_requests(rb, wt=wt)
-    else:
+    elif wb_name not in bucket_list or wt_name not in table_list:
+        logging.error('Destination bucket or table resources not found')
         print("Resources not found")
+    else:
+        rb = s3_resource.Bucket(rb_name)
+        wb = None
+        wt = None
+        if wb_name in bucket_list:
+            wb = s3_resource.Bucket(wb_name)
+        if wt_name in table_list:
+            wt = dynamo_db_resource.Table(wt_name)
+        read_requests(rb, wb, wt)
        
     
 # Reads objects from request bucket one at a time
 # Stops when no more objects appear for a few seconds
-def read_requests(rb, wb=None, wt=None):
+def read_requests(rb, wb, wt):
     timer = 0
     while timer < 3000:
         if len(list(rb.objects.limit(count=1))) > 0:
             for object in rb.objects.limit(count=1):
                 process_request(rb, wb, wt, object.key)
+                logging.info(f'Read request {object.key} from bucket {rb.name}')
                 rb.delete_objects(Delete={
                     'Objects': [{ 'Key': object.key }]
                     })
+                logging.info(f'Deleted request {object.key} from bucket {rb.name}')
                 timer = 0
         else:
             time.sleep(0.1) 
             timer += 100
+    logging.info('Timed out from reading requests')
 
 
 # Gets object, read and parses it, then processes it
@@ -64,6 +75,7 @@ def process_request(rb, wb, wt, object_key):
         Key=object_key)
     contents = current_object['Body'].read().decode('utf-8')
     object_dict = json.loads(contents)
+    logging.info(f'Processed request {object_key}')
     if wb != None:
         store_widget_in_bucket(wb, object_dict)
     if wt != None:
@@ -77,17 +89,20 @@ def store_widget_in_bucket(wb, widget_contents):
     current_widget = wb.put_object(
         Body=widget_body,
         Key=widget_key)
+    logging.info(f'Widget {widget_key} placed into bucket {wb.name}')
         
 
 # Stores widget in DynamoDB table
 def store_widget_in_table(wt, widget_contents):
-    for attribute in widget_contents['otherAttributes']:
-        att_name = attribute['name']
-        att_value = attribute['value']
-        widget_contents[att_name] = att_value
-    del widget_contents['otherAttributes']
+    if 'otherAttributes' in widget_contents:
+        for attribute in widget_contents['otherAttributes']:
+            att_name = attribute['name']
+            att_value = attribute['value']
+            widget_contents[att_name] = att_value
+        del widget_contents['otherAttributes']
     widget_contents['id'] = widget_contents.pop('widgetId')
     current_widget = wt.put_item(Item=widget_contents)
+    logging.info(f'Widget {widget_contents["id"]} placed into table {wt.name}')
         
 
 # Returns a list of strings of existing bucket names
@@ -95,7 +110,7 @@ def get_bucket_list(s3_resource):
     bucket_list = []
     for bucket in s3_resource.buckets.all():
         bucket_list.append(bucket.name)
-    
+
     return bucket_list
     
     
