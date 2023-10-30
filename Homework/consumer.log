@@ -1326,3 +1326,1330 @@ INFO:root:Widget 97147dac-4c13-4a67-9d66-145accbd4ca8 placed into table widgets
 INFO:root:Read request 1697775355285 from bucket usu-cs5260-jalapeno-requests
 INFO:root:Deleted request 1697775355285 from bucket usu-cs5260-jalapeno-requests
 INFO:root:Timed out from reading requests
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request 1697776193970
+INFO:root:Widget widgets/Sue Smith/d0e2a73e-620e-4c05-9b77-b1f6cf8097f9 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget d0e2a73e-620e-4c05-9b77-b1f6cf8097f9 placed into table widgets
+INFO:root:Read request 1697776193970 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776193970 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776195295
+INFO:root:Widget widgets/Sue Smith/8dc01430-62ef-47ae-b91d-05eb03af2d91 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 8dc01430-62ef-47ae-b91d-05eb03af2d91 placed into table widgets
+INFO:root:Read request 1697776195295 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776195295 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776195349
+INFO:root:Widget widgets/Sue Smith/e7981afc-8076-4be7-8054-70b4248aeb30 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget e7981afc-8076-4be7-8054-70b4248aeb30 placed into table widgets
+INFO:root:Read request 1697776195349 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776195349 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776195407
+INFO:root:Widget widgets/John Jones/014fcd41-8ce3-410d-bfa6-722726f89356 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 014fcd41-8ce3-410d-bfa6-722726f89356 placed into table widgets
+INFO:root:Read request 1697776195407 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776195407 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776195467
+INFO:root:Widget widgets/John Jones/9bd00bf6-7f1f-4fba-9d12-5e7cedceedf7 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 9bd00bf6-7f1f-4fba-9d12-5e7cedceedf7 placed into table widgets
+INFO:root:Read request 1697776195467 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776195467 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776195507
+INFO:root:Widget widgets/Mary Matthews/05aa4cb5-3ab7-43d9-98cd-b2080bd7ab63 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 05aa4cb5-3ab7-43d9-98cd-b2080bd7ab63 placed into table widgets
+INFO:root:Read request 1697776195507 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776195507 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776195557
+INFO:root:Widget widgets/Sue Smith/e7981afc-8076-4be7-8054-70b4248aeb30 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget e7981afc-8076-4be7-8054-70b4248aeb30 placed into table widgets
+INFO:root:Read request 1697776195557 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776195557 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776195737
+INFO:root:Widget widgets/John Jones/014fcd41-8ce3-410d-bfa6-722726f89356 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 014fcd41-8ce3-410d-bfa6-722726f89356 placed into table widgets
+INFO:root:Read request 1697776195737 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776195737 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776195987
+INFO:root:Widget widgets/Henry Hops/84b56d11-a3f0-457b-ad93-fbb862bc79b9 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 84b56d11-a3f0-457b-ad93-fbb862bc79b9 placed into table widgets
+INFO:root:Read request 1697776195987 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776195987 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776196042
+INFO:root:Widget widgets/Mary Matthews/a65ee285-2b0e-4d27-aa07-8b73e894cfd4 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget a65ee285-2b0e-4d27-aa07-8b73e894cfd4 placed into table widgets
+INFO:root:Read request 1697776196042 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776196042 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776196115
+INFO:root:Widget widgets/John Jones/014fcd41-8ce3-410d-bfa6-722726f89356 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 014fcd41-8ce3-410d-bfa6-722726f89356 placed into table widgets
+INFO:root:Read request 1697776196115 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776196115 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776196255
+INFO:root:Widget widgets/Mary Matthews/a65ee285-2b0e-4d27-aa07-8b73e894cfd4 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget a65ee285-2b0e-4d27-aa07-8b73e894cfd4 placed into table widgets
+INFO:root:Read request 1697776196255 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776196255 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776196419
+INFO:root:Widget widgets/Sue Smith/e7981afc-8076-4be7-8054-70b4248aeb30 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget e7981afc-8076-4be7-8054-70b4248aeb30 placed into table widgets
+INFO:root:Read request 1697776196419 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776196419 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776196652
+INFO:root:Widget widgets/John Jones/8df2c397-30e3-4d69-abc1-334374695bf4 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 8df2c397-30e3-4d69-abc1-334374695bf4 placed into table widgets
+INFO:root:Read request 1697776196652 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776196652 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776196725
+INFO:root:Widget widgets/Mary Matthews/a65ee285-2b0e-4d27-aa07-8b73e894cfd4 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget a65ee285-2b0e-4d27-aa07-8b73e894cfd4 placed into table widgets
+INFO:root:Read request 1697776196725 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776196725 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776196854
+INFO:root:Widget widgets/Sue Smith/e7981afc-8076-4be7-8054-70b4248aeb30 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget e7981afc-8076-4be7-8054-70b4248aeb30 placed into table widgets
+INFO:root:Read request 1697776196854 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776196854 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776197024
+INFO:root:Widget widgets/John Jones/9bd00bf6-7f1f-4fba-9d12-5e7cedceedf7 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 9bd00bf6-7f1f-4fba-9d12-5e7cedceedf7 placed into table widgets
+INFO:root:Read request 1697776197024 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776197024 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776197186
+INFO:root:Widget widgets/Mary Matthews/43bbb39c-ed4e-48b1-8bdf-e428fd089744 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 43bbb39c-ed4e-48b1-8bdf-e428fd089744 placed into table widgets
+INFO:root:Read request 1697776197186 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776197186 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776197223
+INFO:root:Widget widgets/Henry Hops/a881f2b5-408a-4951-ae21-9cd96f27821b placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget a881f2b5-408a-4951-ae21-9cd96f27821b placed into table widgets
+INFO:root:Read request 1697776197223 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776197223 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776197310
+INFO:root:Widget widgets/Mary Matthews/05aa4cb5-3ab7-43d9-98cd-b2080bd7ab63 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 05aa4cb5-3ab7-43d9-98cd-b2080bd7ab63 placed into table widgets
+INFO:root:Read request 1697776197310 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776197310 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776197445
+INFO:root:Widget widgets/Henry Hops/84b56d11-a3f0-457b-ad93-fbb862bc79b9 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 84b56d11-a3f0-457b-ad93-fbb862bc79b9 placed into table widgets
+INFO:root:Read request 1697776197445 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776197445 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776197579
+INFO:root:Widget widgets/Henry Hops/207ec78d-1ed6-4c8c-83a0-35066d03804c placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 207ec78d-1ed6-4c8c-83a0-35066d03804c placed into table widgets
+INFO:root:Read request 1697776197579 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776197579 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776197642
+INFO:root:Widget widgets/Henry Hops/3b3da7af-ee9d-4905-bccd-23ef681a595c placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 3b3da7af-ee9d-4905-bccd-23ef681a595c placed into table widgets
+INFO:root:Read request 1697776197642 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776197642 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776197739
+INFO:root:Widget widgets/Henry Hops/84b56d11-a3f0-457b-ad93-fbb862bc79b9 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 84b56d11-a3f0-457b-ad93-fbb862bc79b9 placed into table widgets
+INFO:root:Read request 1697776197739 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776197739 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776197962
+INFO:root:Widget widgets/John Jones/a4691c56-4872-411c-a27b-142dda8c7527 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget a4691c56-4872-411c-a27b-142dda8c7527 placed into table widgets
+INFO:root:Read request 1697776197962 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776197962 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776198047
+INFO:root:Widget widgets/Sue Smith/8dc01430-62ef-47ae-b91d-05eb03af2d91 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 8dc01430-62ef-47ae-b91d-05eb03af2d91 placed into table widgets
+INFO:root:Read request 1697776198047 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776198047 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776198172
+INFO:root:Widget widgets/John Jones/65cd09e9-618a-4f19-9b60-4e3018aa2c4f placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 65cd09e9-618a-4f19-9b60-4e3018aa2c4f placed into table widgets
+INFO:root:Read request 1697776198172 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776198172 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776198261
+INFO:root:Widget widgets/Mary Matthews/43bbb39c-ed4e-48b1-8bdf-e428fd089744 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 43bbb39c-ed4e-48b1-8bdf-e428fd089744 placed into table widgets
+INFO:root:Read request 1697776198261 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776198261 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776198432
+INFO:root:Widget widgets/John Jones/c9a6b565-a743-4ab0-a8d7-f264cc153024 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget c9a6b565-a743-4ab0-a8d7-f264cc153024 placed into table widgets
+INFO:root:Read request 1697776198432 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776198432 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776198477
+INFO:root:Widget widgets/Mary Matthews/876bde54-54b9-44cc-9676-8e82ed00643c placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 876bde54-54b9-44cc-9676-8e82ed00643c placed into table widgets
+INFO:root:Read request 1697776198477 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776198477 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776198528
+INFO:root:Widget widgets/Sue Smith/d0e2a73e-620e-4c05-9b77-b1f6cf8097f9 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget d0e2a73e-620e-4c05-9b77-b1f6cf8097f9 placed into table widgets
+INFO:root:Read request 1697776198528 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776198528 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776198732
+INFO:root:Widget widgets/John Jones/8505edad-436b-46ab-acad-15ecf93de988 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 8505edad-436b-46ab-acad-15ecf93de988 placed into table widgets
+INFO:root:Read request 1697776198732 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776198732 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776198766
+INFO:root:Widget widgets/Mary Matthews/eeb30848-d5b0-4451-bee7-bee3c9356005 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget eeb30848-d5b0-4451-bee7-bee3c9356005 placed into table widgets
+INFO:root:Read request 1697776198766 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776198766 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776198800
+INFO:root:Widget widgets/Henry Hops/3b3da7af-ee9d-4905-bccd-23ef681a595c placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 3b3da7af-ee9d-4905-bccd-23ef681a595c placed into table widgets
+INFO:root:Read request 1697776198800 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776198800 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776198934
+INFO:root:Widget widgets/Sue Smith/67dd1187-f638-4c3b-b86d-dc10ade0c2d6 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 67dd1187-f638-4c3b-b86d-dc10ade0c2d6 placed into table widgets
+INFO:root:Read request 1697776198934 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776198934 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776198969
+INFO:root:Widget widgets/John Jones/9bd00bf6-7f1f-4fba-9d12-5e7cedceedf7 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 9bd00bf6-7f1f-4fba-9d12-5e7cedceedf7 placed into table widgets
+INFO:root:Read request 1697776198969 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776198969 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776199190
+INFO:root:Widget widgets/Henry Hops/9d34099e-f389-4c78-ae90-be3d438bb3bd placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 9d34099e-f389-4c78-ae90-be3d438bb3bd placed into table widgets
+INFO:root:Read request 1697776199190 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776199190 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776199245
+INFO:root:Widget widgets/Mary Matthews/043dcfac-a4d4-4113-ab65-93692c85b1b6 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 043dcfac-a4d4-4113-ab65-93692c85b1b6 placed into table widgets
+INFO:root:Read request 1697776199245 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776199245 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776199279
+INFO:root:Widget widgets/Mary Matthews/05aa4cb5-3ab7-43d9-98cd-b2080bd7ab63 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 05aa4cb5-3ab7-43d9-98cd-b2080bd7ab63 placed into table widgets
+INFO:root:Read request 1697776199279 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776199279 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776199411
+INFO:root:Widget widgets/John Jones/5527d4bb-f4ba-4af0-ab63-584826c38a9c placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 5527d4bb-f4ba-4af0-ab63-584826c38a9c placed into table widgets
+INFO:root:Read request 1697776199411 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776199411 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776199619
+INFO:root:Widget widgets/Mary Matthews/d814801f-bdbe-41cc-b578-9471cead2328 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget d814801f-bdbe-41cc-b578-9471cead2328 placed into table widgets
+INFO:root:Read request 1697776199619 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776199619 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776199666
+INFO:root:Widget widgets/John Jones/a4691c56-4872-411c-a27b-142dda8c7527 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget a4691c56-4872-411c-a27b-142dda8c7527 placed into table widgets
+INFO:root:Read request 1697776199666 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776199666 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776199818
+INFO:root:Widget widgets/Mary Matthews/ca842adc-7fff-4e25-8b3a-403f4b76846b placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget ca842adc-7fff-4e25-8b3a-403f4b76846b placed into table widgets
+INFO:root:Read request 1697776199818 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776199818 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776199882
+INFO:root:Widget widgets/John Jones/8c8ad61c-6e7e-44fe-94f7-3c4b68d5e968 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 8c8ad61c-6e7e-44fe-94f7-3c4b68d5e968 placed into table widgets
+INFO:root:Read request 1697776199882 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776199882 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776199914
+INFO:root:Widget widgets/Mary Matthews/94fae260-fc92-4866-99a1-2d9fac73054c placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 94fae260-fc92-4866-99a1-2d9fac73054c placed into table widgets
+INFO:root:Read request 1697776199914 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776199914 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776199955
+INFO:root:Widget widgets/Mary Matthews/c56b4c00-058c-459a-b036-e8acfa99f960 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget c56b4c00-058c-459a-b036-e8acfa99f960 placed into table widgets
+INFO:root:Read request 1697776199955 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776199955 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776200022
+INFO:root:Widget widgets/Sue Smith/67dd1187-f638-4c3b-b86d-dc10ade0c2d6 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 67dd1187-f638-4c3b-b86d-dc10ade0c2d6 placed into table widgets
+INFO:root:Read request 1697776200022 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776200022 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776200200
+INFO:root:Widget widgets/Mary Matthews/876bde54-54b9-44cc-9676-8e82ed00643c placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 876bde54-54b9-44cc-9676-8e82ed00643c placed into table widgets
+INFO:root:Read request 1697776200200 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776200200 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776200327
+INFO:root:Widget widgets/John Jones/5527d4bb-f4ba-4af0-ab63-584826c38a9c placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 5527d4bb-f4ba-4af0-ab63-584826c38a9c placed into table widgets
+INFO:root:Read request 1697776200327 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776200327 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776200462
+INFO:root:Widget widgets/Henry Hops/5e229f7e-b6d0-4d2d-8bd8-5daaed3d18b8 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 5e229f7e-b6d0-4d2d-8bd8-5daaed3d18b8 placed into table widgets
+INFO:root:Read request 1697776200462 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776200462 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776200636
+INFO:root:Widget widgets/Henry Hops/5e229f7e-b6d0-4d2d-8bd8-5daaed3d18b8 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 5e229f7e-b6d0-4d2d-8bd8-5daaed3d18b8 placed into table widgets
+INFO:root:Read request 1697776200636 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776200636 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776200772
+INFO:root:Widget widgets/Sue Smith/ce16a104-3ae3-4541-b82a-505a1c71f926 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget ce16a104-3ae3-4541-b82a-505a1c71f926 placed into table widgets
+INFO:root:Read request 1697776200772 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776200772 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776200811
+INFO:root:Widget widgets/John Jones/c9a6b565-a743-4ab0-a8d7-f264cc153024 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget c9a6b565-a743-4ab0-a8d7-f264cc153024 placed into table widgets
+INFO:root:Read request 1697776200811 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776200811 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776200996
+INFO:root:Widget widgets/Mary Matthews/ca842adc-7fff-4e25-8b3a-403f4b76846b placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget ca842adc-7fff-4e25-8b3a-403f4b76846b placed into table widgets
+INFO:root:Read request 1697776200996 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776200996 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776201138
+INFO:root:Widget widgets/John Jones/3b0aa635-febd-4c52-8d58-b574955a2500 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 3b0aa635-febd-4c52-8d58-b574955a2500 placed into table widgets
+INFO:root:Read request 1697776201138 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776201138 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776201173
+INFO:root:Widget widgets/Sue Smith/70dc6963-cbc5-47ab-a095-1f4389dacbdd placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 70dc6963-cbc5-47ab-a095-1f4389dacbdd placed into table widgets
+INFO:root:Read request 1697776201173 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776201173 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776201253
+INFO:root:Widget widgets/John Jones/7d761aee-7981-4da7-b6d8-67bdfeb03c4e placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 7d761aee-7981-4da7-b6d8-67bdfeb03c4e placed into table widgets
+INFO:root:Read request 1697776201253 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776201253 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776201294
+INFO:root:Widget widgets/Henry Hops/3b3da7af-ee9d-4905-bccd-23ef681a595c placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 3b3da7af-ee9d-4905-bccd-23ef681a595c placed into table widgets
+INFO:root:Read request 1697776201294 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776201294 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776201433
+INFO:root:Widget widgets/Henry Hops/6fc81292-f677-47c2-a8ac-eae3e23e3784 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 6fc81292-f677-47c2-a8ac-eae3e23e3784 placed into table widgets
+INFO:root:Read request 1697776201433 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776201433 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776201487
+INFO:root:Widget widgets/John Jones/8c8ad61c-6e7e-44fe-94f7-3c4b68d5e968 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 8c8ad61c-6e7e-44fe-94f7-3c4b68d5e968 placed into table widgets
+INFO:root:Read request 1697776201487 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776201487 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776201668
+INFO:root:Widget widgets/Sue Smith/e7981afc-8076-4be7-8054-70b4248aeb30 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget e7981afc-8076-4be7-8054-70b4248aeb30 placed into table widgets
+INFO:root:Read request 1697776201668 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776201668 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776201875
+INFO:root:Widget widgets/Mary Matthews/f46cc220-d20b-4a6b-b1e5-2e5cecf5afbb placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget f46cc220-d20b-4a6b-b1e5-2e5cecf5afbb placed into table widgets
+INFO:root:Read request 1697776201875 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776201875 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776201914
+INFO:root:Widget widgets/Henry Hops/84b56d11-a3f0-457b-ad93-fbb862bc79b9 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 84b56d11-a3f0-457b-ad93-fbb862bc79b9 placed into table widgets
+INFO:root:Read request 1697776201914 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776201914 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776202078
+INFO:root:Widget widgets/Sue Smith/d0e2a73e-620e-4c05-9b77-b1f6cf8097f9 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget d0e2a73e-620e-4c05-9b77-b1f6cf8097f9 placed into table widgets
+INFO:root:Read request 1697776202078 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776202078 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776202229
+INFO:root:Widget widgets/Sue Smith/22691e8a-4f35-4d5e-947c-44c65c4a6bd8 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 22691e8a-4f35-4d5e-947c-44c65c4a6bd8 placed into table widgets
+INFO:root:Read request 1697776202229 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776202229 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776202360
+INFO:root:Widget widgets/John Jones/65cd09e9-618a-4f19-9b60-4e3018aa2c4f placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 65cd09e9-618a-4f19-9b60-4e3018aa2c4f placed into table widgets
+INFO:root:Read request 1697776202360 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776202360 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776202588
+INFO:root:Widget widgets/Mary Matthews/fddc0871-92d6-43a0-bff9-e3e85b6ee6f8 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget fddc0871-92d6-43a0-bff9-e3e85b6ee6f8 placed into table widgets
+INFO:root:Read request 1697776202588 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776202588 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776202773
+INFO:root:Widget widgets/Sue Smith/ba86701a-80be-4686-9f52-456ff0f3a879 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget ba86701a-80be-4686-9f52-456ff0f3a879 placed into table widgets
+INFO:root:Read request 1697776202773 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776202773 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776202815
+INFO:root:Widget widgets/John Jones/fe401347-a95c-4b3b-9d04-f4d62121ac08 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget fe401347-a95c-4b3b-9d04-f4d62121ac08 placed into table widgets
+INFO:root:Read request 1697776202815 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776202815 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776202865
+INFO:root:Widget widgets/Sue Smith/5f1d186a-4c78-4b90-bcf7-8eef489c7579 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 5f1d186a-4c78-4b90-bcf7-8eef489c7579 placed into table widgets
+INFO:root:Read request 1697776202865 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776202865 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776202938
+INFO:root:Widget widgets/Henry Hops/75d64692-7fd9-4846-8ec3-6b91148e760c placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 75d64692-7fd9-4846-8ec3-6b91148e760c placed into table widgets
+INFO:root:Read request 1697776202938 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776202938 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776203079
+INFO:root:Widget widgets/Mary Matthews/eeb30848-d5b0-4451-bee7-bee3c9356005 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget eeb30848-d5b0-4451-bee7-bee3c9356005 placed into table widgets
+INFO:root:Read request 1697776203079 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776203079 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776203209
+INFO:root:Widget widgets/Henry Hops/4f0b54e5-b88d-4807-9a6e-bc71118fa398 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 4f0b54e5-b88d-4807-9a6e-bc71118fa398 placed into table widgets
+INFO:root:Read request 1697776203209 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776203209 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776203240
+INFO:root:Widget widgets/John Jones/5f0171af-7492-4b58-bbdd-57611b5b4d57 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 5f0171af-7492-4b58-bbdd-57611b5b4d57 placed into table widgets
+INFO:root:Read request 1697776203240 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776203240 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776203341
+INFO:root:Widget widgets/John Jones/f3cf53a8-f623-4670-9cc5-b8d28acdb0b2 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget f3cf53a8-f623-4670-9cc5-b8d28acdb0b2 placed into table widgets
+INFO:root:Read request 1697776203341 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776203341 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776203384
+INFO:root:Widget widgets/John Jones/767e5420-eac6-4df3-aaf5-8b7f20dd96b7 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 767e5420-eac6-4df3-aaf5-8b7f20dd96b7 placed into table widgets
+INFO:root:Read request 1697776203384 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776203384 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776203435
+INFO:root:Widget widgets/John Jones/86db6eaf-d448-4fbd-89a3-b17f78860e06 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 86db6eaf-d448-4fbd-89a3-b17f78860e06 placed into table widgets
+INFO:root:Read request 1697776203435 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776203435 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776203535
+INFO:root:Widget widgets/Sue Smith/ce16a104-3ae3-4541-b82a-505a1c71f926 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget ce16a104-3ae3-4541-b82a-505a1c71f926 placed into table widgets
+INFO:root:Read request 1697776203535 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776203535 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776203709
+INFO:root:Widget widgets/John Jones/6679d7a6-786c-4317-bc30-2f5e578999ca placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 6679d7a6-786c-4317-bc30-2f5e578999ca placed into table widgets
+INFO:root:Read request 1697776203709 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776203709 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776203784
+INFO:root:Widget widgets/Henry Hops/33687e17-e84a-468f-80bf-602eba1c43b6 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 33687e17-e84a-468f-80bf-602eba1c43b6 placed into table widgets
+INFO:root:Read request 1697776203784 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776203784 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776203830
+INFO:root:Widget widgets/John Jones/8df2c397-30e3-4d69-abc1-334374695bf4 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 8df2c397-30e3-4d69-abc1-334374695bf4 placed into table widgets
+INFO:root:Read request 1697776203830 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776203830 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776203983
+INFO:root:Widget widgets/Mary Matthews/4ccc2d18-d861-4134-a8b8-097ae64cf679 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 4ccc2d18-d861-4134-a8b8-097ae64cf679 placed into table widgets
+INFO:root:Read request 1697776203983 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776203983 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776204093
+INFO:root:Widget widgets/Sue Smith/6b338428-fec8-4fd5-b5a4-04733947196b placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 6b338428-fec8-4fd5-b5a4-04733947196b placed into table widgets
+INFO:root:Read request 1697776204093 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776204093 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776204130
+INFO:root:Widget widgets/John Jones/65cd09e9-618a-4f19-9b60-4e3018aa2c4f placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 65cd09e9-618a-4f19-9b60-4e3018aa2c4f placed into table widgets
+INFO:root:Read request 1697776204130 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776204130 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776204276
+INFO:root:Widget widgets/Henry Hops/6fc81292-f677-47c2-a8ac-eae3e23e3784 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 6fc81292-f677-47c2-a8ac-eae3e23e3784 placed into table widgets
+INFO:root:Read request 1697776204276 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776204276 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776204413
+INFO:root:Widget widgets/Henry Hops/893695c1-d4c7-472a-8ea3-71928637d544 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 893695c1-d4c7-472a-8ea3-71928637d544 placed into table widgets
+INFO:root:Read request 1697776204413 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776204413 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776204447
+INFO:root:Widget widgets/John Jones/8c8ad61c-6e7e-44fe-94f7-3c4b68d5e968 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 8c8ad61c-6e7e-44fe-94f7-3c4b68d5e968 placed into table widgets
+INFO:root:Read request 1697776204447 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776204447 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776204580
+INFO:root:Widget widgets/Mary Matthews/6557683a-f6aa-463a-819e-b212a0bcb11f placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 6557683a-f6aa-463a-819e-b212a0bcb11f placed into table widgets
+INFO:root:Read request 1697776204580 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776204580 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776204634
+INFO:root:Widget widgets/Mary Matthews/55b4a7db-625e-4f66-8e6b-762e422f1e1a placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 55b4a7db-625e-4f66-8e6b-762e422f1e1a placed into table widgets
+INFO:root:Read request 1697776204634 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776204634 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776204687
+INFO:root:Widget widgets/John Jones/6baa0e7a-c5b1-4145-b077-47cea7c138af placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 6baa0e7a-c5b1-4145-b077-47cea7c138af placed into table widgets
+INFO:root:Read request 1697776204687 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776204687 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776204813
+INFO:root:Widget widgets/John Jones/8df2c397-30e3-4d69-abc1-334374695bf4 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 8df2c397-30e3-4d69-abc1-334374695bf4 placed into table widgets
+INFO:root:Read request 1697776204813 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776204813 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776204956
+INFO:root:Widget widgets/Henry Hops/5e229f7e-b6d0-4d2d-8bd8-5daaed3d18b8 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 5e229f7e-b6d0-4d2d-8bd8-5daaed3d18b8 placed into table widgets
+INFO:root:Read request 1697776204956 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776204956 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776205149
+INFO:root:Widget widgets/John Jones/8505edad-436b-46ab-acad-15ecf93de988 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 8505edad-436b-46ab-acad-15ecf93de988 placed into table widgets
+INFO:root:Read request 1697776205149 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776205149 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776205286
+INFO:root:Widget widgets/Mary Matthews/ca842adc-7fff-4e25-8b3a-403f4b76846b placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget ca842adc-7fff-4e25-8b3a-403f4b76846b placed into table widgets
+INFO:root:Read request 1697776205286 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776205286 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776205417
+INFO:root:Widget widgets/Henry Hops/989ca4b6-9e10-484f-b0c6-6fa40888939f placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 989ca4b6-9e10-484f-b0c6-6fa40888939f placed into table widgets
+INFO:root:Read request 1697776205417 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776205417 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776205448
+INFO:root:Widget widgets/Henry Hops/0cb8aeb5-a7f2-4c08-9373-8eecb2dd415c placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 0cb8aeb5-a7f2-4c08-9373-8eecb2dd415c placed into table widgets
+INFO:root:Read request 1697776205448 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776205448 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776205487
+INFO:root:Widget widgets/Mary Matthews/4ccc2d18-d861-4134-a8b8-097ae64cf679 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 4ccc2d18-d861-4134-a8b8-097ae64cf679 placed into table widgets
+INFO:root:Read request 1697776205487 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776205487 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776205664
+INFO:root:Widget widgets/John Jones/e655a11e-daf0-45b1-820f-8c139293af54 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget e655a11e-daf0-45b1-820f-8c139293af54 placed into table widgets
+INFO:root:Read request 1697776205664 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776205664 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776205738
+INFO:root:Widget widgets/Henry Hops/207ec78d-1ed6-4c8c-83a0-35066d03804c placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 207ec78d-1ed6-4c8c-83a0-35066d03804c placed into table widgets
+INFO:root:Read request 1697776205738 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776205738 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776205895
+INFO:root:Widget widgets/Sue Smith/ce16a104-3ae3-4541-b82a-505a1c71f926 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget ce16a104-3ae3-4541-b82a-505a1c71f926 placed into table widgets
+INFO:root:Read request 1697776205895 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776205895 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776206035
+INFO:root:Widget widgets/Sue Smith/96ce3269-3ecb-4c77-8cfb-b75f79667076 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 96ce3269-3ecb-4c77-8cfb-b75f79667076 placed into table widgets
+INFO:root:Read request 1697776206035 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776206035 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776206289
+INFO:root:Widget widgets/Henry Hops/6ca8fa2b-47f9-404f-a4c5-e062190f89d2 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 6ca8fa2b-47f9-404f-a4c5-e062190f89d2 placed into table widgets
+INFO:root:Read request 1697776206289 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776206289 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776206378
+INFO:root:Widget widgets/Henry Hops/6ca8fa2b-47f9-404f-a4c5-e062190f89d2 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 6ca8fa2b-47f9-404f-a4c5-e062190f89d2 placed into table widgets
+INFO:root:Read request 1697776206378 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776206378 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776206534
+INFO:root:Widget widgets/Sue Smith/96ce3269-3ecb-4c77-8cfb-b75f79667076 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 96ce3269-3ecb-4c77-8cfb-b75f79667076 placed into table widgets
+INFO:root:Read request 1697776206534 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776206534 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776206695
+INFO:root:Widget widgets/John Jones/c9a6b565-a743-4ab0-a8d7-f264cc153024 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget c9a6b565-a743-4ab0-a8d7-f264cc153024 placed into table widgets
+INFO:root:Read request 1697776206695 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776206695 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776206946
+INFO:root:Widget widgets/John Jones/9b95e7a5-0429-487b-9d4a-c35ec5ed04b6 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 9b95e7a5-0429-487b-9d4a-c35ec5ed04b6 placed into table widgets
+INFO:root:Read request 1697776206946 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776206946 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776206988
+INFO:root:Widget widgets/John Jones/9b95e7a5-0429-487b-9d4a-c35ec5ed04b6 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 9b95e7a5-0429-487b-9d4a-c35ec5ed04b6 placed into table widgets
+INFO:root:Read request 1697776206988 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776206988 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776207146
+INFO:root:Widget widgets/John Jones/767e5420-eac6-4df3-aaf5-8b7f20dd96b7 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 767e5420-eac6-4df3-aaf5-8b7f20dd96b7 placed into table widgets
+INFO:root:Read request 1697776207146 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776207146 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776207292
+INFO:root:Widget widgets/Mary Matthews/6557683a-f6aa-463a-819e-b212a0bcb11f placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 6557683a-f6aa-463a-819e-b212a0bcb11f placed into table widgets
+INFO:root:Read request 1697776207292 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776207292 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776207418
+INFO:root:Widget widgets/Mary Matthews/94fae260-fc92-4866-99a1-2d9fac73054c placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 94fae260-fc92-4866-99a1-2d9fac73054c placed into table widgets
+INFO:root:Read request 1697776207418 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776207418 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776207548
+INFO:root:Widget widgets/John Jones/8df2c397-30e3-4d69-abc1-334374695bf4 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 8df2c397-30e3-4d69-abc1-334374695bf4 placed into table widgets
+INFO:root:Read request 1697776207548 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776207548 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776207679
+INFO:root:Widget widgets/Sue Smith/ba86701a-80be-4686-9f52-456ff0f3a879 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget ba86701a-80be-4686-9f52-456ff0f3a879 placed into table widgets
+INFO:root:Read request 1697776207679 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776207679 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776207809
+INFO:root:Widget widgets/Mary Matthews/64f4bddd-0cf6-4021-ba87-d432413efa5d placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 64f4bddd-0cf6-4021-ba87-d432413efa5d placed into table widgets
+INFO:root:Read request 1697776207809 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776207809 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776207846
+INFO:root:Widget widgets/John Jones/f67369a5-c9ea-44d8-b9af-a6282f5d34ab placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget f67369a5-c9ea-44d8-b9af-a6282f5d34ab placed into table widgets
+INFO:root:Read request 1697776207846 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776207846 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776207918
+INFO:root:Widget widgets/John Jones/08ca9833-c978-4380-83c1-a0a929e6be99 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 08ca9833-c978-4380-83c1-a0a929e6be99 placed into table widgets
+INFO:root:Read request 1697776207918 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776207918 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776207950
+INFO:root:Widget widgets/John Jones/fe401347-a95c-4b3b-9d04-f4d62121ac08 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget fe401347-a95c-4b3b-9d04-f4d62121ac08 placed into table widgets
+INFO:root:Read request 1697776207950 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776207950 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776208107
+INFO:root:Widget widgets/John Jones/08ca9833-c978-4380-83c1-a0a929e6be99 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 08ca9833-c978-4380-83c1-a0a929e6be99 placed into table widgets
+INFO:root:Read request 1697776208107 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776208107 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776208244
+INFO:root:Widget widgets/Henry Hops/9e2e67ce-c82b-4120-8dad-05102a3bc4f5 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 9e2e67ce-c82b-4120-8dad-05102a3bc4f5 placed into table widgets
+INFO:root:Read request 1697776208244 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776208244 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776208330
+INFO:root:Widget widgets/John Jones/8505edad-436b-46ab-acad-15ecf93de988 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 8505edad-436b-46ab-acad-15ecf93de988 placed into table widgets
+INFO:root:Read request 1697776208330 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776208330 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776208458
+INFO:root:Widget widgets/Henry Hops/9e2e67ce-c82b-4120-8dad-05102a3bc4f5 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 9e2e67ce-c82b-4120-8dad-05102a3bc4f5 placed into table widgets
+INFO:root:Read request 1697776208458 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776208458 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776208609
+INFO:root:Widget widgets/Henry Hops/8f595c1b-1f0f-4b16-bee7-fb4da45978c7 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 8f595c1b-1f0f-4b16-bee7-fb4da45978c7 placed into table widgets
+INFO:root:Read request 1697776208609 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776208609 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776208670
+INFO:root:Widget widgets/John Jones/fe401347-a95c-4b3b-9d04-f4d62121ac08 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget fe401347-a95c-4b3b-9d04-f4d62121ac08 placed into table widgets
+INFO:root:Read request 1697776208670 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776208670 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776208832
+INFO:root:Widget widgets/Sue Smith/5f1d186a-4c78-4b90-bcf7-8eef489c7579 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 5f1d186a-4c78-4b90-bcf7-8eef489c7579 placed into table widgets
+INFO:root:Read request 1697776208832 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776208832 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776208968
+INFO:root:Widget widgets/Henry Hops/3b3da7af-ee9d-4905-bccd-23ef681a595c placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 3b3da7af-ee9d-4905-bccd-23ef681a595c placed into table widgets
+INFO:root:Read request 1697776208968 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776208968 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776209113
+INFO:root:Widget widgets/Henry Hops/8eb9597f-f721-402f-a061-5accb132d47b placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 8eb9597f-f721-402f-a061-5accb132d47b placed into table widgets
+INFO:root:Read request 1697776209113 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776209113 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776209148
+INFO:root:Widget widgets/John Jones/a4691c56-4872-411c-a27b-142dda8c7527 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget a4691c56-4872-411c-a27b-142dda8c7527 placed into table widgets
+INFO:root:Read request 1697776209148 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776209148 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776209282
+INFO:root:Widget widgets/John Jones/5f0171af-7492-4b58-bbdd-57611b5b4d57 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 5f0171af-7492-4b58-bbdd-57611b5b4d57 placed into table widgets
+INFO:root:Read request 1697776209282 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776209282 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776209421
+INFO:root:Widget widgets/Henry Hops/584ab93f-0a6c-47b7-9fcb-e6d76c2d7c36 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 584ab93f-0a6c-47b7-9fcb-e6d76c2d7c36 placed into table widgets
+INFO:root:Read request 1697776209421 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776209421 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776209452
+INFO:root:Widget widgets/Sue Smith/c11c4d20-9bf3-4685-a862-78aaf8e3d73d placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget c11c4d20-9bf3-4685-a862-78aaf8e3d73d placed into table widgets
+INFO:root:Read request 1697776209452 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776209452 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776209489
+INFO:root:Widget widgets/Henry Hops/989ca4b6-9e10-484f-b0c6-6fa40888939f placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 989ca4b6-9e10-484f-b0c6-6fa40888939f placed into table widgets
+INFO:root:Read request 1697776209489 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776209489 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776209617
+INFO:root:Widget widgets/Sue Smith/92fd162d-375d-4c1b-a873-26a7cdc28fde placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 92fd162d-375d-4c1b-a873-26a7cdc28fde placed into table widgets
+INFO:root:Read request 1697776209617 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776209617 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776209747
+INFO:root:Widget widgets/Henry Hops/f05e9b23-3fbb-444e-8822-6cc503e156e4 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget f05e9b23-3fbb-444e-8822-6cc503e156e4 placed into table widgets
+INFO:root:Read request 1697776209747 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776209747 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776209787
+INFO:root:Widget widgets/Henry Hops/a881f2b5-408a-4951-ae21-9cd96f27821b placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget a881f2b5-408a-4951-ae21-9cd96f27821b placed into table widgets
+INFO:root:Read request 1697776209787 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776209787 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776209979
+INFO:root:Widget widgets/Henry Hops/508914b6-1989-4903-8579-19ce7685fe03 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 508914b6-1989-4903-8579-19ce7685fe03 placed into table widgets
+INFO:root:Read request 1697776209979 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776209979 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776210013
+INFO:root:Widget widgets/Henry Hops/ec6978f1-7b8e-46df-8e04-234cf3e59740 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget ec6978f1-7b8e-46df-8e04-234cf3e59740 placed into table widgets
+INFO:root:Read request 1697776210013 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776210013 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776210045
+INFO:root:Widget widgets/Henry Hops/c4459ee0-acb2-484c-8b34-6c499d965624 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget c4459ee0-acb2-484c-8b34-6c499d965624 placed into table widgets
+INFO:root:Read request 1697776210045 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776210045 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776210077
+INFO:root:Widget widgets/Mary Matthews/43bbb39c-ed4e-48b1-8bdf-e428fd089744 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 43bbb39c-ed4e-48b1-8bdf-e428fd089744 placed into table widgets
+INFO:root:Read request 1697776210077 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776210077 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776210213
+INFO:root:Widget widgets/Henry Hops/7242f974-730f-488f-89d5-f186994f30b1 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 7242f974-730f-488f-89d5-f186994f30b1 placed into table widgets
+INFO:root:Read request 1697776210213 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776210213 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776210264
+INFO:root:Widget widgets/Henry Hops/4e0b9be8-8d82-4485-8a8c-1a90b918729d placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 4e0b9be8-8d82-4485-8a8c-1a90b918729d placed into table widgets
+INFO:root:Read request 1697776210264 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776210264 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776210354
+INFO:root:Widget widgets/Sue Smith/2ea4cf52-7dfc-46dc-884d-0a7bf158db53 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 2ea4cf52-7dfc-46dc-884d-0a7bf158db53 placed into table widgets
+INFO:root:Read request 1697776210354 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776210354 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776210390
+INFO:root:Widget widgets/John Jones/65cd09e9-618a-4f19-9b60-4e3018aa2c4f placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 65cd09e9-618a-4f19-9b60-4e3018aa2c4f placed into table widgets
+INFO:root:Read request 1697776210390 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776210390 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776210513
+INFO:root:Widget widgets/John Jones/7e9efa27-176f-4699-abea-481b15e698bd placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 7e9efa27-176f-4699-abea-481b15e698bd placed into table widgets
+INFO:root:Read request 1697776210513 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776210513 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776210571
+INFO:root:Widget widgets/Henry Hops/8eb9597f-f721-402f-a061-5accb132d47b placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 8eb9597f-f721-402f-a061-5accb132d47b placed into table widgets
+INFO:root:Read request 1697776210571 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776210571 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776210706
+INFO:root:Widget widgets/Henry Hops/6ca8fa2b-47f9-404f-a4c5-e062190f89d2 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 6ca8fa2b-47f9-404f-a4c5-e062190f89d2 placed into table widgets
+INFO:root:Read request 1697776210706 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776210706 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776210898
+INFO:root:Widget widgets/Henry Hops/4e0b9be8-8d82-4485-8a8c-1a90b918729d placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 4e0b9be8-8d82-4485-8a8c-1a90b918729d placed into table widgets
+INFO:root:Read request 1697776210898 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776210898 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776211029
+INFO:root:Widget widgets/Sue Smith/22691e8a-4f35-4d5e-947c-44c65c4a6bd8 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 22691e8a-4f35-4d5e-947c-44c65c4a6bd8 placed into table widgets
+INFO:root:Read request 1697776211029 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776211029 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776211236
+INFO:root:Widget widgets/Henry Hops/508914b6-1989-4903-8579-19ce7685fe03 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 508914b6-1989-4903-8579-19ce7685fe03 placed into table widgets
+INFO:root:Read request 1697776211236 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776211236 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776211364
+INFO:root:Widget widgets/Henry Hops/33e55ed2-8f38-4af5-82cd-929ddcac34bb placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 33e55ed2-8f38-4af5-82cd-929ddcac34bb placed into table widgets
+INFO:root:Read request 1697776211364 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776211364 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776211393
+INFO:root:Widget widgets/Sue Smith/9037a343-1d00-4339-8911-cb92369acb48 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 9037a343-1d00-4339-8911-cb92369acb48 placed into table widgets
+INFO:root:Read request 1697776211393 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776211393 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776211427
+INFO:root:Widget widgets/Henry Hops/28ad4876-0af1-41a6-ae70-bada9521f685 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 28ad4876-0af1-41a6-ae70-bada9521f685 placed into table widgets
+INFO:root:Read request 1697776211427 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776211427 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776211456
+INFO:root:Widget widgets/Mary Matthews/05aa4cb5-3ab7-43d9-98cd-b2080bd7ab63 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 05aa4cb5-3ab7-43d9-98cd-b2080bd7ab63 placed into table widgets
+INFO:root:Read request 1697776211456 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776211456 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776211589
+INFO:root:Widget widgets/Henry Hops/3a5e0b60-890d-4298-8519-d38d4873b0ad placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 3a5e0b60-890d-4298-8519-d38d4873b0ad placed into table widgets
+INFO:root:Read request 1697776211589 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776211589 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776211620
+INFO:root:Widget widgets/Sue Smith/ea812b63-944f-44d4-aa7c-0fdc7872d291 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget ea812b63-944f-44d4-aa7c-0fdc7872d291 placed into table widgets
+INFO:root:Read request 1697776211620 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776211620 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776211744
+INFO:root:Widget widgets/Henry Hops/33687e17-e84a-468f-80bf-602eba1c43b6 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 33687e17-e84a-468f-80bf-602eba1c43b6 placed into table widgets
+INFO:root:Read request 1697776211744 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776211744 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776211888
+INFO:root:Widget widgets/Sue Smith/d461a7e3-4983-4942-bb48-d03edbff4227 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget d461a7e3-4983-4942-bb48-d03edbff4227 placed into table widgets
+INFO:root:Read request 1697776211888 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776211888 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776211933
+INFO:root:Widget widgets/Henry Hops/9e2e67ce-c82b-4120-8dad-05102a3bc4f5 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 9e2e67ce-c82b-4120-8dad-05102a3bc4f5 placed into table widgets
+INFO:root:Read request 1697776211933 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776211933 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776212063
+INFO:root:Widget widgets/Henry Hops/9936f0e2-c4d9-431a-971c-37c36b31aab1 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 9936f0e2-c4d9-431a-971c-37c36b31aab1 placed into table widgets
+INFO:root:Read request 1697776212063 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776212063 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776212098
+INFO:root:Widget widgets/Sue Smith/22691e8a-4f35-4d5e-947c-44c65c4a6bd8 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 22691e8a-4f35-4d5e-947c-44c65c4a6bd8 placed into table widgets
+INFO:root:Read request 1697776212098 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776212098 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776212275
+INFO:root:Widget widgets/Mary Matthews/64f4bddd-0cf6-4021-ba87-d432413efa5d placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 64f4bddd-0cf6-4021-ba87-d432413efa5d placed into table widgets
+INFO:root:Read request 1697776212275 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776212275 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776212408
+INFO:root:Widget widgets/Henry Hops/ec6978f1-7b8e-46df-8e04-234cf3e59740 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget ec6978f1-7b8e-46df-8e04-234cf3e59740 placed into table widgets
+INFO:root:Read request 1697776212408 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776212408 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776212542
+INFO:root:Widget widgets/John Jones/c24da1c3-843d-4380-9365-0324038812f9 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget c24da1c3-843d-4380-9365-0324038812f9 placed into table widgets
+INFO:root:Read request 1697776212542 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776212542 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776212617
+INFO:root:Widget widgets/John Jones/6baa0e7a-c5b1-4145-b077-47cea7c138af placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 6baa0e7a-c5b1-4145-b077-47cea7c138af placed into table widgets
+INFO:root:Read request 1697776212617 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776212617 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776212750
+INFO:root:Widget widgets/Mary Matthews/043dcfac-a4d4-4113-ab65-93692c85b1b6 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 043dcfac-a4d4-4113-ab65-93692c85b1b6 placed into table widgets
+INFO:root:Read request 1697776212750 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776212750 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776212885
+INFO:root:Widget widgets/John Jones/fe401347-a95c-4b3b-9d04-f4d62121ac08 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget fe401347-a95c-4b3b-9d04-f4d62121ac08 placed into table widgets
+INFO:root:Read request 1697776212885 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776212885 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776213016
+INFO:root:Widget widgets/Sue Smith/bc369793-99fd-4d6f-a433-1cbc62378102 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget bc369793-99fd-4d6f-a433-1cbc62378102 placed into table widgets
+INFO:root:Read request 1697776213016 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776213016 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776213047
+INFO:root:Widget widgets/Sue Smith/b80d026d-a57b-432d-a575-7b0e41003aa7 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget b80d026d-a57b-432d-a575-7b0e41003aa7 placed into table widgets
+INFO:root:Read request 1697776213047 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776213047 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776213077
+INFO:root:Widget widgets/John Jones/5f0171af-7492-4b58-bbdd-57611b5b4d57 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 5f0171af-7492-4b58-bbdd-57611b5b4d57 placed into table widgets
+INFO:root:Read request 1697776213077 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776213077 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776213207
+INFO:root:Widget widgets/John Jones/507faf48-59d7-40ef-b8aa-4efdd24623b6 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 507faf48-59d7-40ef-b8aa-4efdd24623b6 placed into table widgets
+INFO:root:Read request 1697776213207 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776213207 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776213281
+INFO:root:Widget widgets/Sue Smith/f89f5146-ae63-420e-8e4f-c4bafe1f6749 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget f89f5146-ae63-420e-8e4f-c4bafe1f6749 placed into table widgets
+INFO:root:Read request 1697776213281 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776213281 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776213316
+INFO:root:Widget widgets/Henry Hops/33e55ed2-8f38-4af5-82cd-929ddcac34bb placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 33e55ed2-8f38-4af5-82cd-929ddcac34bb placed into table widgets
+INFO:root:Read request 1697776213316 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776213316 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776213521
+INFO:root:Widget widgets/Sue Smith/8c9b6ac3-bec6-422e-930e-a52699230ad6 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 8c9b6ac3-bec6-422e-930e-a52699230ad6 placed into table widgets
+INFO:root:Read request 1697776213521 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776213521 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776213631
+INFO:root:Widget widgets/Henry Hops/893695c1-d4c7-472a-8ea3-71928637d544 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 893695c1-d4c7-472a-8ea3-71928637d544 placed into table widgets
+INFO:root:Read request 1697776213631 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776213631 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776213761
+INFO:root:Widget widgets/Sue Smith/bc369793-99fd-4d6f-a433-1cbc62378102 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget bc369793-99fd-4d6f-a433-1cbc62378102 placed into table widgets
+INFO:root:Read request 1697776213761 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776213761 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776213894
+INFO:root:Widget widgets/John Jones/86db6eaf-d448-4fbd-89a3-b17f78860e06 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 86db6eaf-d448-4fbd-89a3-b17f78860e06 placed into table widgets
+INFO:root:Read request 1697776213894 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776213894 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776214024
+INFO:root:Widget widgets/Henry Hops/8f595c1b-1f0f-4b16-bee7-fb4da45978c7 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 8f595c1b-1f0f-4b16-bee7-fb4da45978c7 placed into table widgets
+INFO:root:Read request 1697776214024 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776214024 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776214238
+INFO:root:Widget widgets/Henry Hops/d495b789-54b3-4952-97c8-8e66d50205e7 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget d495b789-54b3-4952-97c8-8e66d50205e7 placed into table widgets
+INFO:root:Read request 1697776214238 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776214238 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776214269
+INFO:root:Widget widgets/Mary Matthews/3b9f9770-49e4-48be-b5ce-f57fded9febd placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 3b9f9770-49e4-48be-b5ce-f57fded9febd placed into table widgets
+INFO:root:Read request 1697776214269 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776214269 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776214311
+INFO:root:Widget widgets/Henry Hops/28ad4876-0af1-41a6-ae70-bada9521f685 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 28ad4876-0af1-41a6-ae70-bada9521f685 placed into table widgets
+INFO:root:Read request 1697776214311 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776214311 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776214460
+INFO:root:Widget widgets/Henry Hops/0cb8aeb5-a7f2-4c08-9373-8eecb2dd415c placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 0cb8aeb5-a7f2-4c08-9373-8eecb2dd415c placed into table widgets
+INFO:root:Read request 1697776214460 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776214460 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776214606
+INFO:root:Widget widgets/Mary Matthews/e4110ac2-39c7-4902-8064-47529004a9d1 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget e4110ac2-39c7-4902-8064-47529004a9d1 placed into table widgets
+INFO:root:Read request 1697776214606 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776214606 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776214639
+INFO:root:Widget widgets/Sue Smith/39bfdea1-b71d-4b79-84c5-eef94f5564c1 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 39bfdea1-b71d-4b79-84c5-eef94f5564c1 placed into table widgets
+INFO:root:Read request 1697776214639 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776214639 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776214721
+INFO:root:Widget widgets/Mary Matthews/1218ebf9-3db9-44cc-b689-3ef9bb8bc110 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 1218ebf9-3db9-44cc-b689-3ef9bb8bc110 placed into table widgets
+INFO:root:Read request 1697776214721 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776214721 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776214768
+INFO:root:Widget widgets/Mary Matthews/f1ccf9c6-8823-4450-a841-7cfec67a8635 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget f1ccf9c6-8823-4450-a841-7cfec67a8635 placed into table widgets
+INFO:root:Read request 1697776214768 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776214768 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776214855
+INFO:root:Widget widgets/John Jones/96260115-776d-44db-a991-6996201305e5 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 96260115-776d-44db-a991-6996201305e5 placed into table widgets
+INFO:root:Read request 1697776214855 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776214855 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776214885
+INFO:root:Widget widgets/Henry Hops/33687e17-e84a-468f-80bf-602eba1c43b6 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 33687e17-e84a-468f-80bf-602eba1c43b6 placed into table widgets
+INFO:root:Read request 1697776214885 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776214885 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776215033
+INFO:root:Widget widgets/Henry Hops/f05e9b23-3fbb-444e-8822-6cc503e156e4 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget f05e9b23-3fbb-444e-8822-6cc503e156e4 placed into table widgets
+INFO:root:Read request 1697776215033 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776215033 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776215211
+INFO:root:Widget widgets/John Jones/767e5420-eac6-4df3-aaf5-8b7f20dd96b7 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 767e5420-eac6-4df3-aaf5-8b7f20dd96b7 placed into table widgets
+INFO:root:Read request 1697776215211 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776215211 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776215408
+INFO:root:Widget widgets/Sue Smith/84fd38d5-8347-42d1-a1b6-46e9e6775f63 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 84fd38d5-8347-42d1-a1b6-46e9e6775f63 placed into table widgets
+INFO:root:Read request 1697776215408 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776215408 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776215462
+INFO:root:Widget widgets/Mary Matthews/28fc5f62-8333-4e60-8a45-3920a1dc88f6 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 28fc5f62-8333-4e60-8a45-3920a1dc88f6 placed into table widgets
+INFO:root:Read request 1697776215462 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776215462 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776215492
+INFO:root:Widget widgets/Sue Smith/2aeab200-e6c8-48a4-a667-17aa894cc99d placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 2aeab200-e6c8-48a4-a667-17aa894cc99d placed into table widgets
+INFO:root:Read request 1697776215492 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776215492 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776215524
+INFO:root:Widget widgets/Sue Smith/ea812b63-944f-44d4-aa7c-0fdc7872d291 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget ea812b63-944f-44d4-aa7c-0fdc7872d291 placed into table widgets
+INFO:root:Read request 1697776215524 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776215524 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776215676
+INFO:root:Widget widgets/John Jones/ee50902c-3526-435d-9ea3-5a31ca081d63 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget ee50902c-3526-435d-9ea3-5a31ca081d63 placed into table widgets
+INFO:root:Read request 1697776215676 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776215676 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776215709
+INFO:root:Widget widgets/Sue Smith/d0e72671-fdfb-47f4-826b-4588fe00419c placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget d0e72671-fdfb-47f4-826b-4588fe00419c placed into table widgets
+INFO:root:Read request 1697776215709 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776215709 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776215852
+INFO:root:Widget widgets/Henry Hops/42712647-a53b-46f6-b232-13273b974dda placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 42712647-a53b-46f6-b232-13273b974dda placed into table widgets
+INFO:root:Read request 1697776215852 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776215852 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776215970
+INFO:root:Widget widgets/Sue Smith/16a6d0da-650d-4022-9530-8322740056da placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 16a6d0da-650d-4022-9530-8322740056da placed into table widgets
+INFO:root:Read request 1697776215970 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776215970 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776215998
+INFO:root:Widget widgets/John Jones/ae4d2fea-d1bb-42a4-a6e2-a90497320c85 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget ae4d2fea-d1bb-42a4-a6e2-a90497320c85 placed into table widgets
+INFO:root:Read request 1697776215998 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776215998 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776216030
+INFO:root:Widget widgets/Mary Matthews/c9c5ef39-fb29-48c3-be40-a30705c7b482 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget c9c5ef39-fb29-48c3-be40-a30705c7b482 placed into table widgets
+INFO:root:Read request 1697776216030 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776216030 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776216101
+INFO:root:Widget widgets/Henry Hops/cafa8a8b-d53a-4f20-a19d-291480725774 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget cafa8a8b-d53a-4f20-a19d-291480725774 placed into table widgets
+INFO:root:Read request 1697776216101 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776216101 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776216133
+INFO:root:Widget widgets/John Jones/93043cac-5108-45c7-b4d2-07f47604a435 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 93043cac-5108-45c7-b4d2-07f47604a435 placed into table widgets
+INFO:root:Read request 1697776216133 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776216133 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776216172
+INFO:root:Widget widgets/Henry Hops/56211b88-595d-4011-a755-a060963e6622 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 56211b88-595d-4011-a755-a060963e6622 placed into table widgets
+INFO:root:Read request 1697776216172 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776216172 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776216220
+INFO:root:Widget widgets/Mary Matthews/4ccc2d18-d861-4134-a8b8-097ae64cf679 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 4ccc2d18-d861-4134-a8b8-097ae64cf679 placed into table widgets
+INFO:root:Read request 1697776216220 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776216220 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776216394
+INFO:root:Widget widgets/Mary Matthews/8bda6c08-dc65-44d2-bef8-48101588227b placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 8bda6c08-dc65-44d2-bef8-48101588227b placed into table widgets
+INFO:root:Read request 1697776216394 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776216394 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776216546
+INFO:root:Widget widgets/Sue Smith/6b338428-fec8-4fd5-b5a4-04733947196b placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 6b338428-fec8-4fd5-b5a4-04733947196b placed into table widgets
+INFO:root:Read request 1697776216546 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776216546 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776216677
+INFO:root:Widget widgets/Henry Hops/f37b74ef-28ff-45cf-a9c4-6a059b592e09 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget f37b74ef-28ff-45cf-a9c4-6a059b592e09 placed into table widgets
+INFO:root:Read request 1697776216677 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776216677 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776216732
+INFO:root:Widget widgets/Sue Smith/86230587-59be-4e9d-ab01-960d2129a6e5 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 86230587-59be-4e9d-ab01-960d2129a6e5 placed into table widgets
+INFO:root:Read request 1697776216732 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776216732 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776216771
+INFO:root:Widget widgets/Henry Hops/584ab93f-0a6c-47b7-9fcb-e6d76c2d7c36 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 584ab93f-0a6c-47b7-9fcb-e6d76c2d7c36 placed into table widgets
+INFO:root:Read request 1697776216771 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776216771 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776216900
+INFO:root:Widget widgets/Henry Hops/33e55ed2-8f38-4af5-82cd-929ddcac34bb placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 33e55ed2-8f38-4af5-82cd-929ddcac34bb placed into table widgets
+INFO:root:Read request 1697776216900 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776216900 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776217076
+INFO:root:Widget widgets/Sue Smith/39bfdea1-b71d-4b79-84c5-eef94f5564c1 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 39bfdea1-b71d-4b79-84c5-eef94f5564c1 placed into table widgets
+INFO:root:Read request 1697776217076 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776217076 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776217209
+INFO:root:Widget widgets/Mary Matthews/f46cc220-d20b-4a6b-b1e5-2e5cecf5afbb placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget f46cc220-d20b-4a6b-b1e5-2e5cecf5afbb placed into table widgets
+INFO:root:Read request 1697776217209 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776217209 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776217338
+INFO:root:Widget widgets/John Jones/fc9444df-2b05-4724-8845-c0ded831b22f placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget fc9444df-2b05-4724-8845-c0ded831b22f placed into table widgets
+INFO:root:Read request 1697776217338 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776217338 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776217371
+INFO:root:Widget widgets/Sue Smith/e916fe1b-f5d7-49dd-ad94-e0c3b4bd9c24 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget e916fe1b-f5d7-49dd-ad94-e0c3b4bd9c24 placed into table widgets
+INFO:root:Read request 1697776217371 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776217371 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776217407
+INFO:root:Widget widgets/Mary Matthews/30633693-4d9f-4614-b300-85e71179195b placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 30633693-4d9f-4614-b300-85e71179195b placed into table widgets
+INFO:root:Read request 1697776217407 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776217407 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776217438
+INFO:root:Widget widgets/John Jones/7d761aee-7981-4da7-b6d8-67bdfeb03c4e placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 7d761aee-7981-4da7-b6d8-67bdfeb03c4e placed into table widgets
+INFO:root:Read request 1697776217438 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776217438 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776217567
+INFO:root:Widget widgets/Henry Hops/75d64692-7fd9-4846-8ec3-6b91148e760c placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 75d64692-7fd9-4846-8ec3-6b91148e760c placed into table widgets
+INFO:root:Read request 1697776217567 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776217567 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776217702
+INFO:root:Widget widgets/Henry Hops/d495b789-54b3-4952-97c8-8e66d50205e7 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget d495b789-54b3-4952-97c8-8e66d50205e7 placed into table widgets
+INFO:root:Read request 1697776217702 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776217702 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776217890
+INFO:root:Widget widgets/Sue Smith/ea812b63-944f-44d4-aa7c-0fdc7872d291 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget ea812b63-944f-44d4-aa7c-0fdc7872d291 placed into table widgets
+INFO:root:Read request 1697776217890 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776217890 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776218050
+INFO:root:Widget widgets/Henry Hops/214c8c14-a706-4042-b642-6e98fd5c48b0 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 214c8c14-a706-4042-b642-6e98fd5c48b0 placed into table widgets
+INFO:root:Read request 1697776218050 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776218050 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776218109
+INFO:root:Widget widgets/Henry Hops/56211b88-595d-4011-a755-a060963e6622 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 56211b88-595d-4011-a755-a060963e6622 placed into table widgets
+INFO:root:Read request 1697776218109 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776218109 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776218241
+INFO:root:Widget widgets/Henry Hops/9d34099e-f389-4c78-ae90-be3d438bb3bd placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 9d34099e-f389-4c78-ae90-be3d438bb3bd placed into table widgets
+INFO:root:Read request 1697776218241 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776218241 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776218362
+INFO:root:Widget widgets/Mary Matthews/30633693-4d9f-4614-b300-85e71179195b placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 30633693-4d9f-4614-b300-85e71179195b placed into table widgets
+INFO:root:Read request 1697776218362 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776218362 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776218500
+INFO:root:Widget widgets/John Jones/1fe12c7e-54a1-4fb1-a7f4-4b866a2b6108 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 1fe12c7e-54a1-4fb1-a7f4-4b866a2b6108 placed into table widgets
+INFO:root:Read request 1697776218500 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776218500 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776218620
+INFO:root:Widget widgets/Mary Matthews/c9c5ef39-fb29-48c3-be40-a30705c7b482 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget c9c5ef39-fb29-48c3-be40-a30705c7b482 placed into table widgets
+INFO:root:Read request 1697776218620 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776218620 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776218790
+INFO:root:Widget widgets/Sue Smith/22691e8a-4f35-4d5e-947c-44c65c4a6bd8 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 22691e8a-4f35-4d5e-947c-44c65c4a6bd8 placed into table widgets
+INFO:root:Read request 1697776218790 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776218790 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776218925
+INFO:root:Widget widgets/Mary Matthews/3e0bdf34-0d99-4479-9d20-e5873495edfa placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 3e0bdf34-0d99-4479-9d20-e5873495edfa placed into table widgets
+INFO:root:Read request 1697776218925 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776218925 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776218955
+INFO:root:Widget widgets/Sue Smith/a9ba33a3-2e43-453c-abcd-81ad2561891b placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget a9ba33a3-2e43-453c-abcd-81ad2561891b placed into table widgets
+INFO:root:Read request 1697776218955 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776218955 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776218987
+INFO:root:Widget widgets/Mary Matthews/43bbb39c-ed4e-48b1-8bdf-e428fd089744 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 43bbb39c-ed4e-48b1-8bdf-e428fd089744 placed into table widgets
+INFO:root:Read request 1697776218987 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776218987 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776219141
+INFO:root:Widget widgets/Henry Hops/3b3da7af-ee9d-4905-bccd-23ef681a595c placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 3b3da7af-ee9d-4905-bccd-23ef681a595c placed into table widgets
+INFO:root:Read request 1697776219141 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776219141 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776219277
+INFO:root:Widget widgets/Henry Hops/c3a32b8b-ca5c-4fd3-88ce-e3102abc0d76 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget c3a32b8b-ca5c-4fd3-88ce-e3102abc0d76 placed into table widgets
+INFO:root:Read request 1697776219277 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776219277 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776219319
+INFO:root:Widget widgets/John Jones/b8c0124c-0e8a-41d9-88ee-789750a9f2a2 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget b8c0124c-0e8a-41d9-88ee-789750a9f2a2 placed into table widgets
+INFO:root:Read request 1697776219319 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776219319 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776219395
+INFO:root:Widget widgets/John Jones/5f0171af-7492-4b58-bbdd-57611b5b4d57 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 5f0171af-7492-4b58-bbdd-57611b5b4d57 placed into table widgets
+INFO:root:Read request 1697776219395 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776219395 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776219575
+INFO:root:Widget widgets/Sue Smith/6b338428-fec8-4fd5-b5a4-04733947196b placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 6b338428-fec8-4fd5-b5a4-04733947196b placed into table widgets
+INFO:root:Read request 1697776219575 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776219575 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776219738
+INFO:root:Widget widgets/John Jones/b8c0124c-0e8a-41d9-88ee-789750a9f2a2 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget b8c0124c-0e8a-41d9-88ee-789750a9f2a2 placed into table widgets
+INFO:root:Read request 1697776219738 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776219738 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776219925
+INFO:root:Widget widgets/Sue Smith/f89f5146-ae63-420e-8e4f-c4bafe1f6749 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget f89f5146-ae63-420e-8e4f-c4bafe1f6749 placed into table widgets
+INFO:root:Read request 1697776219925 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776219925 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776220075
+INFO:root:Widget widgets/Henry Hops/0320c953-477a-4146-83b1-a4a941d0957d placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 0320c953-477a-4146-83b1-a4a941d0957d placed into table widgets
+INFO:root:Read request 1697776220075 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776220075 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776220106
+INFO:root:Widget widgets/John Jones/2904fc6d-9942-425d-be9b-5ef1a47277aa placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 2904fc6d-9942-425d-be9b-5ef1a47277aa placed into table widgets
+INFO:root:Read request 1697776220106 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776220106 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776220143
+INFO:root:Widget widgets/John Jones/a4691c56-4872-411c-a27b-142dda8c7527 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget a4691c56-4872-411c-a27b-142dda8c7527 placed into table widgets
+INFO:root:Read request 1697776220143 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776220143 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776220270
+INFO:root:Widget widgets/Henry Hops/8eb9597f-f721-402f-a061-5accb132d47b placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 8eb9597f-f721-402f-a061-5accb132d47b placed into table widgets
+INFO:root:Read request 1697776220270 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776220270 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776220394
+INFO:root:Widget widgets/Sue Smith/e7981afc-8076-4be7-8054-70b4248aeb30 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget e7981afc-8076-4be7-8054-70b4248aeb30 placed into table widgets
+INFO:root:Read request 1697776220394 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776220394 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776220523
+INFO:root:Widget widgets/Henry Hops/d0d1a895-6738-4582-8f1b-230b6d44094b placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget d0d1a895-6738-4582-8f1b-230b6d44094b placed into table widgets
+INFO:root:Read request 1697776220523 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776220523 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776220607
+INFO:root:Widget widgets/Henry Hops/6e613432-c60d-4b28-bf87-51e1b31847c3 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 6e613432-c60d-4b28-bf87-51e1b31847c3 placed into table widgets
+INFO:root:Read request 1697776220607 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776220607 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776220684
+INFO:root:Widget widgets/Henry Hops/ab86366c-f35b-41ab-ab13-63ad66813ac0 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget ab86366c-f35b-41ab-ab13-63ad66813ac0 placed into table widgets
+INFO:root:Read request 1697776220684 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776220684 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776220803
+INFO:root:Widget widgets/Sue Smith/d461a7e3-4983-4942-bb48-d03edbff4227 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget d461a7e3-4983-4942-bb48-d03edbff4227 placed into table widgets
+INFO:root:Read request 1697776220803 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776220803 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776220945
+INFO:root:Widget widgets/Henry Hops/56211b88-595d-4011-a755-a060963e6622 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 56211b88-595d-4011-a755-a060963e6622 placed into table widgets
+INFO:root:Read request 1697776220945 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776220945 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776221071
+INFO:root:Widget widgets/John Jones/f67369a5-c9ea-44d8-b9af-a6282f5d34ab placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget f67369a5-c9ea-44d8-b9af-a6282f5d34ab placed into table widgets
+INFO:root:Read request 1697776221071 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776221071 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776221242
+INFO:root:Widget widgets/Sue Smith/55ef2387-45ef-49c7-a0ee-8df64542e3f1 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 55ef2387-45ef-49c7-a0ee-8df64542e3f1 placed into table widgets
+INFO:root:Read request 1697776221242 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776221242 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776221277
+INFO:root:Widget widgets/Henry Hops/28ad4876-0af1-41a6-ae70-bada9521f685 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 28ad4876-0af1-41a6-ae70-bada9521f685 placed into table widgets
+INFO:root:Read request 1697776221277 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776221277 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776221425
+INFO:root:Widget widgets/John Jones/1fe12c7e-54a1-4fb1-a7f4-4b866a2b6108 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 1fe12c7e-54a1-4fb1-a7f4-4b866a2b6108 placed into table widgets
+INFO:root:Read request 1697776221425 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776221425 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776221560
+INFO:root:Widget widgets/Henry Hops/63a06099-5fb6-4b08-93e2-fe3208d5e2bf placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 63a06099-5fb6-4b08-93e2-fe3208d5e2bf placed into table widgets
+INFO:root:Read request 1697776221560 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776221560 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776221590
+INFO:root:Widget widgets/Sue Smith/40ff1c16-5722-44bd-b854-52268abe18c3 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 40ff1c16-5722-44bd-b854-52268abe18c3 placed into table widgets
+INFO:root:Read request 1697776221590 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776221590 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776221622
+INFO:root:Widget widgets/Sue Smith/2aeab200-e6c8-48a4-a667-17aa894cc99d placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 2aeab200-e6c8-48a4-a667-17aa894cc99d placed into table widgets
+INFO:root:Read request 1697776221622 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776221622 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776221757
+INFO:root:Widget widgets/Sue Smith/d0e2a73e-620e-4c05-9b77-b1f6cf8097f9 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget d0e2a73e-620e-4c05-9b77-b1f6cf8097f9 placed into table widgets
+INFO:root:Read request 1697776221757 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776221757 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776221898
+INFO:root:Widget widgets/Henry Hops/a4384057-d669-462d-8db8-341dc36558f2 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget a4384057-d669-462d-8db8-341dc36558f2 placed into table widgets
+INFO:root:Read request 1697776221898 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776221898 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776222006
+INFO:root:Widget widgets/Henry Hops/5f6ad9c6-55d7-4996-83cb-fadb35bda9dc placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 5f6ad9c6-55d7-4996-83cb-fadb35bda9dc placed into table widgets
+INFO:root:Read request 1697776222006 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776222006 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776222046
+INFO:root:Widget widgets/Sue Smith/d461a7e3-4983-4942-bb48-d03edbff4227 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget d461a7e3-4983-4942-bb48-d03edbff4227 placed into table widgets
+INFO:root:Read request 1697776222046 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776222046 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776222185
+INFO:root:Widget widgets/Mary Matthews/6f48be56-a054-497a-92bd-de4e203d12ca placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 6f48be56-a054-497a-92bd-de4e203d12ca placed into table widgets
+INFO:root:Read request 1697776222185 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776222185 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776222225
+INFO:root:Widget widgets/Sue Smith/70dc6963-cbc5-47ab-a095-1f4389dacbdd placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 70dc6963-cbc5-47ab-a095-1f4389dacbdd placed into table widgets
+INFO:root:Read request 1697776222225 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776222225 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776222387
+INFO:root:Widget widgets/Henry Hops/6ca8fa2b-47f9-404f-a4c5-e062190f89d2 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 6ca8fa2b-47f9-404f-a4c5-e062190f89d2 placed into table widgets
+INFO:root:Read request 1697776222387 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776222387 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776222517
+INFO:root:Widget widgets/John Jones/ae4d2fea-d1bb-42a4-a6e2-a90497320c85 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget ae4d2fea-d1bb-42a4-a6e2-a90497320c85 placed into table widgets
+INFO:root:Read request 1697776222517 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776222517 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776222649
+INFO:root:Widget widgets/Sue Smith/a460c628-0f9b-40ec-8bb9-dc45821593e5 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget a460c628-0f9b-40ec-8bb9-dc45821593e5 placed into table widgets
+INFO:root:Read request 1697776222649 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776222649 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776222711
+INFO:root:Widget widgets/Sue Smith/84fd38d5-8347-42d1-a1b6-46e9e6775f63 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 84fd38d5-8347-42d1-a1b6-46e9e6775f63 placed into table widgets
+INFO:root:Read request 1697776222711 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776222711 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776222903
+INFO:root:Widget widgets/John Jones/767e5420-eac6-4df3-aaf5-8b7f20dd96b7 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 767e5420-eac6-4df3-aaf5-8b7f20dd96b7 placed into table widgets
+INFO:root:Read request 1697776222903 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776222903 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776223081
+INFO:root:Widget widgets/John Jones/6679d7a6-786c-4317-bc30-2f5e578999ca placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 6679d7a6-786c-4317-bc30-2f5e578999ca placed into table widgets
+INFO:root:Read request 1697776223081 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776223081 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776223202
+INFO:root:Widget widgets/John Jones/2904fc6d-9942-425d-be9b-5ef1a47277aa placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 2904fc6d-9942-425d-be9b-5ef1a47277aa placed into table widgets
+INFO:root:Read request 1697776223202 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776223202 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776223331
+INFO:root:Widget widgets/John Jones/2904fc6d-9942-425d-be9b-5ef1a47277aa placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget 2904fc6d-9942-425d-be9b-5ef1a47277aa placed into table widgets
+INFO:root:Read request 1697776223331 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776223331 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776223516
+INFO:root:Widget widgets/Henry Hops/f05e9b23-3fbb-444e-8822-6cc503e156e4 placed into bucket usu-cs5260-jalapeno-web
+INFO:root:Widget f05e9b23-3fbb-444e-8822-6cc503e156e4 placed into table widgets
+INFO:root:Read request 1697776223516 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Deleted request 1697776223516 from bucket usu-cs5260-jalapeno-requests
+INFO:root:Processed request 1697776223661
