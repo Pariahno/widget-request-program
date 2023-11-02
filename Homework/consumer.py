@@ -54,35 +54,52 @@ def main(args):
             wb = s3_resource.Bucket(wb_name)
         if wt_name in table_list:
             wt = dynamo_db_resource.Table(wt_name)
-        read_requests(rb, wb, wt)
+        read_requests(rb, rq, wb, wt)
        
     
 # Reads objects from request bucket one at a time
 # Stops when no more objects appear for a few seconds
-def read_requests(rb, wb, wt):
-    timer = 0
-    while timer < 3000:
-        if len(list(rb.objects.limit(count=1))) > 0:
-            for object in rb.objects.limit(count=1):
-                process_request(rb, wb, wt, object.key)
-                logging.info(f'Read request {object.key} from bucket {rb.name}')
-                rb.delete_objects(Delete={
-                    'Objects': [{ 'Key': object.key }]
-                    })
-                logging.info(f'Deleted request {object.key} from bucket {rb.name}')
-                timer = 0
-        else:
-            time.sleep(0.1) 
-            timer += 100
-    logging.info('Timed out from reading requests')
+def read_requests(rb, rq, wb, wt):
+    if rb != None:
+        timer = 0
+        while timer < 3000:
+            if len(list(rb.objects.limit(count=1))) > 0:
+                for object in rb.objects.limit(count=1):
+                    process_request(rb, None, wb, wt, object.key)
+                    logging.info(f'Read request {object.key} from bucket {rb.name}')
+                    rb.delete_objects(Delete={
+                        'Objects': [{ 'Key': object.key }]
+                        })
+                    logging.info(f'Deleted request {object.key} from bucket {rb.name}')
+                    timer = 0
+            else:
+                time.sleep(0.1) 
+                timer += 100
+        logging.info('Timed out from reading requests')
+        
+    #TODO: Enable reading and processing from the queue
+        
+    if rq != None:
+        process_request(None, rq, wb, wt, object.key)
+        
 
 
 # Gets object, read and parses it, then processes it
-def process_request(rb, wb, wt, object_key):
-    s3_client = boto3.client('s3')
-    current_object = s3_client.get_object(
-        Bucket=rb.name,
-        Key=object_key)
+def process_request(rb, rq, wb, wt, object_key):
+    if rb != None:
+        s3_client = boto3.client('s3')
+        current_object = s3_client.get_object(
+            Bucket=rb.name,
+            Key=object_key)
+    
+    #TODO: Enable reading and processing from queue
+    
+    elif rq != None:
+        sqs_client = boto3.client('sqs')
+        
+    else:
+        logging.error('Enountered an error processing requests from source')
+        return
     contents = current_object['Body'].read().decode('utf-8')
     object_dict = json.loads(contents)
     logging.info(f'Processed request {object_key}')
@@ -90,7 +107,6 @@ def process_request(rb, wb, wt, object_key):
         store_widget_in_bucket(wb, object_dict)
     if wt != None:
         store_widget_in_table(wt, object_dict)
-    
 
 # Stores widget in S3 bucket
 def store_widget_in_bucket(wb, widget_contents):
