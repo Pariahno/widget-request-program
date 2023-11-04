@@ -67,15 +67,7 @@ def read_requests(rb, rq, wb, wt):
             if len(list(rb.objects.limit(count=1))) > 0:
                 for object in rb.objects.limit(count=1):
                     logging.info(f'Read request {object.key} from bucket {rb.name}')
-                    object_dict = process_request_from_bucket(rb, object.key)
-                    if wb != None:
-                        store_widget_in_bucket(wb, object_dict)
-                    if wt != None:
-                        store_widget_in_table(wt, object_dict)
-                    rb.delete_objects(Delete={
-                        'Objects': [{ 'Key': object.key }]
-                        })
-                    logging.info(f'Deleted request {object.key} from bucket {rb.name}')
+                    process_request_from_bucket(object.key, rb, wb, wt)
                     timer = 0
             else:
                 time.sleep(0.1) 
@@ -95,20 +87,48 @@ def read_requests(rb, rq, wb, wt):
         
 
 #Processes request recieved from an S3 bucket and returns a dictionary
-def process_request_from_bucket(rb, object_key):
+def process_request_from_bucket(object_key, rb, wb, wt):
     s3_client = boto3.client('s3')
     current_object = s3_client.get_object(
         Bucket=rb.name,
         Key=object_key)
     contents = current_object['Body'].read().decode('utf-8')
-    object_dict = json.loads(contents)
-    logging.info(f'Processed request {object_key}')
+    process_request_type(contents, wb, wt)
+    rb.delete_objects(Delete={
+        'Objects': [{ 'Key': object_key }]
+        })
+    logging.info(f'Deleted request {object_key} from bucket {rb.name}')
     
-    return object_dict
     
 #Processes list of requests received from SQS and passes them to destination bucket/table
 def process_requests_from_queue(messages, wb, wt):
-    print(messages)
+    for m in messages:
+        contents = m.body
+        process_request_type(contents, wb, wt)
+        
+        #TODO: Uncomment
+        #m.delete()
+        object_dict = json.loads(contents)
+        logging.info(f"Deleted request {object_dict['requestId']} from queue")
+  
+        
+#Given request contents, determines if is create, delete, or update and calls appropriate functions
+def process_request_type(widget_contents, wb, wt):
+    object_dict = json.loads(widget_contents)
+    logging.info(f"Processed request {object_dict['requestId']}")
+    request_type = object_dict['type']
+    print(request_type)
+    if request_type == 'create':
+        if wb != None:
+            store_widget_in_bucket(wb, object_dict)
+        if wt != None:
+            store_widget_in_table(wt, object_dict)
+    elif request_type == 'delete':
+        if wb != None:
+            delete_widget_from_bucket(wb, object_dict)
+        if wt != None:
+            delete_widget_from_table(wt, object_dict)
+
 
 # Stores widget in S3 bucket
 def store_widget_in_bucket(wb, widget_contents):
@@ -131,6 +151,41 @@ def store_widget_in_table(wt, widget_contents):
     widget_contents['id'] = widget_contents.pop('widgetId')
     current_widget = wt.put_item(Item=widget_contents)
     logging.info(f'Widget {widget_contents["id"]} placed into table {wt.name}')
+    
+    
+# Deletes widget from S3 bucket, if it is found
+def delete_widget_from_bucket(wb, widget_contents):
+    widget_key = f"widgets/{widget_contents['owner']}/{widget_contents['widgetId']}"
+    object_exists = check_bucket_object_exists(wb.name, widget_key)
+    if object_exists:
+        response = wb.delete_objects(
+            Delete={
+                'Objects': [
+                    {
+                       'Key': widget_key 
+                    }
+                ]
+            }
+        )
+        logging.info(f'Deleted widget {widget_key} from bucket {wb.name}')
+    else:
+        logging.warning(f'Widget {widget_key} not found to delete from bucket {wb.name}')
+
+
+# Deletes widget from DynamoDB table, if it is found
+def delete_widget_from_table(wt, widget_contents):
+    widget_id = widget_contents['widgetId']
+    try:
+        response = wt.delete_item(
+            Key={
+                'id': widget_id
+            },
+            ConditionExpression='attribute_exists(id)'
+        )
+        logging.info(f'Deleted widget {widget_id} from table {wt.name}')
+    except wt.meta.client.exceptions.ConditionalCheckFailedException as e:
+        logging.warning(f'Widget {widget_id} not found to delete from table {wt.name}')
+        
         
 
 # Returns a list of strings of existing bucket names
@@ -140,6 +195,7 @@ def get_bucket_list(s3_resource):
         bucket_list.append(bucket.name)
 
     return bucket_list
+    
     
 # Finds url from sqs client through given queue name in arguments
 def get_queue_url(sqs_resource, queue_name):
@@ -162,11 +218,20 @@ def get_table_list(db_resource):
         table_list.append(table.name)
         
     return table_list
+    
+    
+# Returns boolean of whether given widget exists in bucket or not
+def check_bucket_object_exists(bucket_name, widget_key):
+    s3_client = boto3.client('s3')
+    object_exists = False
+    try:
+        s3_client.head_object(Bucket=bucket_name, Key=widget_key)
+        object_exists = True
+    except s3_client.exceptions.ClientError as e:
+        if e.response['Error']['Code'] == '404':
+            object_exists = False
+        
+    return object_exists
 
 
 main(args)
-
-
-
-
-    
