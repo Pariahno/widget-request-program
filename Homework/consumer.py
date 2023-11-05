@@ -120,7 +120,7 @@ def process_request_type(widget_contents, wb, wt):
     print(request_type)
     if request_type == 'create':
         if wb != None:
-            store_widget_in_bucket(wb, object_dict)
+            store_widget_in_bucket(wb, object_dict, request_type)
         if wt != None:
             store_widget_in_table(wt, object_dict)
     elif request_type == 'delete':
