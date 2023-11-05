@@ -128,17 +128,31 @@ def process_request_type(widget_contents, wb, wt):
             delete_widget_from_bucket(wb, object_dict)
         if wt != None:
             delete_widget_from_table(wt, object_dict)
+    elif request_type == 'update':
+        if wb != None:
+            store_widget_in_bucket(wb, object_dict, request_type)
+        if wt != None:
+            update_widget_in_table(wb, object_dict)
 
 
-# Stores widget in S3 bucket
-def store_widget_in_bucket(wb, widget_contents):
+# Stores widget in S3 bucket. Will also update an object if an object of the same key already exists
+def store_widget_in_bucket(wb, widget_contents, request_type):
     widget_key = f"widgets/{widget_contents['owner']}/{widget_contents['widgetId']}"
-    widget_body = json.dumps(widget_contents)
-    current_widget = wb.put_object(
-        Body=widget_body,
-        Key=widget_key)
-    logging.info(f'Widget {widget_key} placed into bucket {wb.name}')
-        
+    object_exists = True #True if create new widget. If otherwise updating, checks if object already exists
+    if request_type == 'update':
+        object_exists = check_bucket_object_exists(wb.name, widget_key)
+    if object_exists:
+        widget_body = json.dumps(widget_contents)
+        current_widget = wb.put_object(
+            Body=widget_body,
+            Key=widget_key)
+        if request_type == 'create':
+            logging.info(f'Widget {widget_key} placed into bucket {wb.name}')
+        elif request_type == 'update':
+            logging.info(f'Widget {widget_key} updated in bucket {wb.name}')
+    else:
+        logging.warning(f'Widget {widget_key} not found to update in bucket {wb.name}')
+
 
 # Stores widget in DynamoDB table
 def store_widget_in_table(wt, widget_contents):
@@ -185,8 +199,12 @@ def delete_widget_from_table(wt, widget_contents):
         logging.info(f'Deleted widget {widget_id} from table {wt.name}')
     except wt.meta.client.exceptions.ConditionalCheckFailedException as e:
         logging.warning(f'Widget {widget_id} not found to delete from table {wt.name}')
-        
-        
+  
+  
+#Updates a widget's attributes in a table, if it is found 
+def update_widget_in_table(wt, widget_contents):
+    return
+
 
 # Returns a list of strings of existing bucket names
 def get_bucket_list(s3_resource):
