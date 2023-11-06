@@ -1,4 +1,5 @@
 import argparse
+import sys
 import time
 import json
 import boto3
@@ -6,6 +7,7 @@ import logging
 
 #Set up logging
 logging.basicConfig(filename="consumer.log", level=logging.INFO)
+logging.getLogger().addHandler(logging.StreamHandler(sys.stdout))
 
 # Read and process command line arguments
 ap = argparse.ArgumentParser()
@@ -105,9 +107,7 @@ def process_requests_from_queue(messages, wb, wt):
     for m in messages:
         contents = m.body
         process_request_type(contents, wb, wt)
-        
-        #TODO: Uncomment
-        #m.delete()
+        m.delete()
         object_dict = json.loads(contents)
         logging.info(f"Deleted request {object_dict['requestId']} from queue")
   
