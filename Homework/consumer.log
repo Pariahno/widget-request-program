@@ -1395,3 +1395,1911 @@ INFO:root:Processed request cef56878-217b-483b-a4f0-fadf0abff0aa
 INFO:root:Widget 48c826b0-c237-440a-9b45-93bcd194fc79 placed into table widgets
 INFO:root:Deleted request cef56878-217b-483b-a4f0-fadf0abff0aa from queue
 INFO:root:Timed out from reading requests from queue
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request 394055f7-4b45-4fde-a75d-a55f89106040
+INFO:root:Widget 04d236a3-90e4-44a8-9478-1dafb2f78543 placed into table widgets
+INFO:root:Deleted request 394055f7-4b45-4fde-a75d-a55f89106040 from queue
+INFO:root:Processed request f57fa271-5d4d-43e8-bee1-71fe418bba71
+INFO:root:Widget 31d5680a-ae54-4a21-a26f-d2cf9cdd9c1f placed into table widgets
+INFO:root:Deleted request f57fa271-5d4d-43e8-bee1-71fe418bba71 from queue
+INFO:root:Processed request 14727679-6854-4901-8563-50c4a176061a
+INFO:root:Widget ae29fce8-ea9c-4b38-adf4-c46f34608dd4 placed into table widgets
+INFO:root:Deleted request 14727679-6854-4901-8563-50c4a176061a from queue
+INFO:root:Processed request 9c86bd13-0db2-41a3-b4c5-c8e5c3c390c0
+INFO:root:Widget 9f5f0ca8-2e7d-4868-bb44-4f18430f8c43 placed into table widgets
+INFO:root:Deleted request 9c86bd13-0db2-41a3-b4c5-c8e5c3c390c0 from queue
+INFO:root:Processed request 1cc0b187-56a8-4423-afe0-2795a4643be4
+INFO:root:Widget 77a9712c-8e66-4404-b74a-a0f930b4deac placed into table widgets
+INFO:root:Deleted request 1cc0b187-56a8-4423-afe0-2795a4643be4 from queue
+INFO:root:Processed request 34a78b4f-1eb7-416a-9b4d-056ce29a4907
+INFO:root:Widget 4e80fffb-0522-4663-9b41-554bd244cdcc placed into table widgets
+INFO:root:Deleted request 34a78b4f-1eb7-416a-9b4d-056ce29a4907 from queue
+INFO:root:Processed request 7bf17447-55a8-42b1-85d5-9244dc96f461
+INFO:root:Widget 9e94ac82-59d5-40df-b992-e999bc22021a placed into table widgets
+INFO:root:Deleted request 7bf17447-55a8-42b1-85d5-9244dc96f461 from queue
+INFO:root:Processed request 504fd2ec-7c89-459a-b5df-86f4d4878c91
+INFO:root:Widget 19f087b9-6c89-427a-9968-928a9b7c0dd2 placed into table widgets
+INFO:root:Deleted request 504fd2ec-7c89-459a-b5df-86f4d4878c91 from queue
+INFO:root:Processed request 32875ee3-8388-48bd-9801-3942f595f1b0
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request 63e715fb-70e3-4f0c-bc5b-f3d6904bf523
+INFO:root:Widget 47c66729-511b-4d9a-b889-8382fdc6bcd4 placed into table widgets
+INFO:root:Deleted request 63e715fb-70e3-4f0c-bc5b-f3d6904bf523 from queue
+INFO:root:Processed request ecc1d1cf-79ba-403f-a2be-bb1368d2ed3d
+INFO:root:Widget 51f28843-9796-4ea0-86a6-d0c0d7a1c56c placed into table widgets
+INFO:root:Deleted request ecc1d1cf-79ba-403f-a2be-bb1368d2ed3d from queue
+INFO:root:Processed request d513e9d9-3eb0-4683-a4d2-cf3a9e6727e8
+INFO:root:Widget 57dd4b41-00bd-4ab1-b5fb-f7ea4d828188 placed into table widgets
+INFO:root:Deleted request d513e9d9-3eb0-4683-a4d2-cf3a9e6727e8 from queue
+INFO:root:Processed request 398caf85-5eca-4f94-a74f-9293f2755251
+INFO:root:Widget 6a95da51-79a2-4060-81ec-be166d88cd6a placed into table widgets
+INFO:root:Deleted request 398caf85-5eca-4f94-a74f-9293f2755251 from queue
+INFO:root:Processed request 076649e3-77a2-4e57-a352-5a0ed773cca1
+INFO:root:Widget 0c70382d-bbfc-490c-a85b-85a19f48d193 placed into table widgets
+INFO:root:Deleted request 076649e3-77a2-4e57-a352-5a0ed773cca1 from queue
+INFO:root:Processed request 0570dca4-8d5d-4ea3-87d9-213ba9c92b43
+INFO:root:Widget 33e99173-7540-4484-9d43-62b3dd3982fd placed into table widgets
+INFO:root:Deleted request 0570dca4-8d5d-4ea3-87d9-213ba9c92b43 from queue
+INFO:root:Processed request a8dd610d-628f-4ea9-befb-d77ac6ab4cf7
+INFO:root:Widget 4d69c9c0-6e89-4a4d-bd37-0d866e82af78 placed into table widgets
+INFO:root:Deleted request a8dd610d-628f-4ea9-befb-d77ac6ab4cf7 from queue
+INFO:root:Processed request 52d8a7a0-c18d-4571-a74e-9a87415c2dc1
+INFO:root:Widget ca7da1c7-2825-406a-883f-70497deddecd placed into table widgets
+INFO:root:Deleted request 52d8a7a0-c18d-4571-a74e-9a87415c2dc1 from queue
+INFO:root:Processed request 22acad22-e0d4-49af-af45-69bb4305a629
+INFO:root:Widget dd4a7cb0-42d2-46b2-923d-cacd72e5bbb3 placed into table widgets
+INFO:root:Deleted request 22acad22-e0d4-49af-af45-69bb4305a629 from queue
+INFO:root:Processed request b2f97aec-84fe-45a6-a34e-3537ce881b6c
+INFO:root:Widget 62b07033-9317-421d-b31e-fd96ad13fe15 placed into table widgets
+INFO:root:Deleted request b2f97aec-84fe-45a6-a34e-3537ce881b6c from queue
+INFO:root:Processed request df5fe648-cc7d-4503-a3a4-3c5c053f1b35
+INFO:root:Widget d1653662-8b34-405c-8040-1ea2a9e92a23 placed into table widgets
+INFO:root:Deleted request df5fe648-cc7d-4503-a3a4-3c5c053f1b35 from queue
+INFO:root:Processed request 91b2ea16-269f-47ae-abd8-a58da386c08d
+INFO:root:Widget 9f1bf4e5-98e8-4e12-8240-e19d1b6fd674 placed into table widgets
+INFO:root:Deleted request 91b2ea16-269f-47ae-abd8-a58da386c08d from queue
+INFO:root:Processed request 681b9f6b-9800-4d3f-86b6-cb905e78fbea
+INFO:root:Widget e5582cd9-9a47-4624-a397-493d4ef63037 placed into table widgets
+INFO:root:Deleted request 681b9f6b-9800-4d3f-86b6-cb905e78fbea from queue
+INFO:root:Processed request a3bff38d-acbc-4558-b561-a1679d65fc62
+INFO:root:Widget 14b6f80b-bba6-4e85-9ab7-b96172239bd4 placed into table widgets
+INFO:root:Deleted request a3bff38d-acbc-4558-b561-a1679d65fc62 from queue
+INFO:root:Processed request 8f029bd1-d18d-4e68-8087-067bea1394c0
+INFO:root:Widget 0486d5e9-6e55-499f-b492-93f495223916 placed into table widgets
+INFO:root:Deleted request 8f029bd1-d18d-4e68-8087-067bea1394c0 from queue
+INFO:root:Processed request 4b40d957-572c-4584-b9eb-ca97c805f731
+INFO:root:Widget 90b2a24c-cbc3-4a6a-8cc7-bca2c9961023 placed into table widgets
+INFO:root:Deleted request 4b40d957-572c-4584-b9eb-ca97c805f731 from queue
+INFO:root:Processed request fb8927e1-b51a-4996-9b51-27af842aa8c7
+INFO:root:Widget 168d5c75-92ec-4a1c-83d3-ade73f28a90b placed into table widgets
+INFO:root:Deleted request fb8927e1-b51a-4996-9b51-27af842aa8c7 from queue
+INFO:root:Processed request 2231efb9-27f7-447c-bd97-5f7f332d08c0
+INFO:root:Widget 84763535-a0b6-4106-87aa-d1043d739cf1 placed into table widgets
+INFO:root:Deleted request 2231efb9-27f7-447c-bd97-5f7f332d08c0 from queue
+INFO:root:Processed request ebbcc02f-29f4-456e-b37e-877cecfc0897
+INFO:root:Widget 4d585595-3c1c-4dd0-ba5c-8708c52e57a9 placed into table widgets
+INFO:root:Deleted request ebbcc02f-29f4-456e-b37e-877cecfc0897 from queue
+INFO:root:Processed request 24e00801-ec5b-4872-a3ec-4bc94da3d092
+INFO:root:Widget 221c9819-6b48-4d5b-8077-3376af136500 placed into table widgets
+INFO:root:Deleted request 24e00801-ec5b-4872-a3ec-4bc94da3d092 from queue
+INFO:root:Processed request 7e7ae606-7797-48d6-b210-ac553e280862
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request 01d0b6cb-393f-4b54-888c-dd7df1a0a9d2
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request e7c76f65-4675-45b5-b3cb-b5bcabc8ae25
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request 62a17dfc-0586-451f-b0e9-d4fd2c2a71f3
+INFO:root:Widget d8730b3a-c051-492b-ab08-1aaaf2ac7520 placed into table widgets
+INFO:root:Deleted request 62a17dfc-0586-451f-b0e9-d4fd2c2a71f3 from queue
+INFO:root:Processed request e85b0c1f-6dc1-4241-be8d-64c3c6ce2f48
+INFO:root:Widget 69fa9499-a11f-4be5-8b42-69eb55d5fae2 placed into table widgets
+INFO:root:Deleted request e85b0c1f-6dc1-4241-be8d-64c3c6ce2f48 from queue
+INFO:root:Processed request 7837c07e-b4a5-4c5b-9876-660f0be2db3b
+INFO:root:Widget b97d450d-c1a0-4483-a123-f85261f36613 placed into table widgets
+INFO:root:Deleted request 7837c07e-b4a5-4c5b-9876-660f0be2db3b from queue
+INFO:root:Processed request cff11df1-36b7-41db-86fd-bd43200df9b5
+INFO:root:Widget 683db7c2-67d7-4f61-a03a-27a71d1a14b1 placed into table widgets
+INFO:root:Deleted request cff11df1-36b7-41db-86fd-bd43200df9b5 from queue
+INFO:root:Processed request b9cb2bbd-bdb2-4e8d-af5c-dc24f5bb0c55
+INFO:root:Widget 85b8bd45-e9a1-4c95-82da-26acb7f01fd0 placed into table widgets
+INFO:root:Deleted request b9cb2bbd-bdb2-4e8d-af5c-dc24f5bb0c55 from queue
+INFO:root:Processed request 5bff020c-f98e-40fa-a50d-8b7cc69ea62b
+INFO:root:Widget 44ce8fda-77a2-489b-ad7e-2f7538dfb8f3 placed into table widgets
+INFO:root:Deleted request 5bff020c-f98e-40fa-a50d-8b7cc69ea62b from queue
+INFO:root:Processed request 0db98bf4-c693-4d2a-bed6-4ab889b6882a
+INFO:root:Widget 853bd755-9238-4dcb-9f72-e2f2501ebe94 placed into table widgets
+INFO:root:Deleted request 0db98bf4-c693-4d2a-bed6-4ab889b6882a from queue
+INFO:root:Processed request 3713ae4c-f7b6-4272-9e39-e2ff1746badc
+INFO:root:Deleted widget 57dd4b41-00bd-4ab1-b5fb-f7ea4d828188 from table widgets
+INFO:root:Deleted request 3713ae4c-f7b6-4272-9e39-e2ff1746badc from queue
+INFO:root:Processed request e2982dde-eafd-4a12-9051-6e62dcae9eaa
+INFO:root:Widget 59741a6e-bb28-4ac8-96e6-a1dd50d6eadb placed into table widgets
+INFO:root:Deleted request e2982dde-eafd-4a12-9051-6e62dcae9eaa from queue
+INFO:root:Processed request f6fe2668-d9ea-4f77-b684-85cac87d9f78
+INFO:root:Widget 101cbaaf-119d-4038-8d84-12b48415bfe9 placed into table widgets
+INFO:root:Deleted request f6fe2668-d9ea-4f77-b684-85cac87d9f78 from queue
+INFO:root:Processed request 03eb7b06-005b-47ee-b3a7-20bdf8689d81
+INFO:root:Deleted widget cf0d33c5-0947-4196-9dc5-a65804a91f84 from table widgets
+INFO:root:Deleted request 03eb7b06-005b-47ee-b3a7-20bdf8689d81 from queue
+INFO:root:Processed request c96e4327-412b-46cc-9b00-e8bd9ce6a828
+INFO:root:Widget d02a35fb-185e-4b6d-83bf-f4c86918174c placed into table widgets
+INFO:root:Deleted request c96e4327-412b-46cc-9b00-e8bd9ce6a828 from queue
+INFO:root:Processed request d8f7538d-7f9e-4712-aa36-746f59e82546
+INFO:root:Widget 60350cd3-54af-4c53-89da-3e02d45e3e9a placed into table widgets
+INFO:root:Deleted request d8f7538d-7f9e-4712-aa36-746f59e82546 from queue
+INFO:root:Processed request 77e7ee45-65e6-484e-bea2-a474d8ecb399
+INFO:root:Widget 266f9e4e-e72d-482f-b8fd-473393afed98 placed into table widgets
+INFO:root:Deleted request 77e7ee45-65e6-484e-bea2-a474d8ecb399 from queue
+INFO:root:Processed request 090e01d2-0f14-417e-b2fb-b912080594fb
+INFO:root:Widget 57826570-c6dd-4b6d-aae8-5c769f2362a0 placed into table widgets
+INFO:root:Deleted request 090e01d2-0f14-417e-b2fb-b912080594fb from queue
+INFO:root:Processed request 12385922-3c5d-44e2-b078-8fc4d32bb342
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request c9adeb9d-c923-4bfd-b3bc-209a5f2d64bb
+INFO:root:Widget 5450aedf-60a4-442a-a4a6-0dbed5811f81 placed into table widgets
+INFO:root:Deleted request c9adeb9d-c923-4bfd-b3bc-209a5f2d64bb from queue
+INFO:root:Processed request 96bc1b95-eaf1-4b39-aaf9-18e90e978f39
+INFO:root:Widget 19eb4110-3ed5-48e6-a517-660c0c115d83 placed into table widgets
+INFO:root:Deleted request 96bc1b95-eaf1-4b39-aaf9-18e90e978f39 from queue
+INFO:root:Processed request ae01de96-eb25-4f25-b0a3-b9babb73a1d6
+INFO:root:Widget 20786ae3-e088-4c51-ae04-ecd4b7b95953 placed into table widgets
+INFO:root:Deleted request ae01de96-eb25-4f25-b0a3-b9babb73a1d6 from queue
+INFO:root:Processed request 7217ab24-09f8-42f1-a2ad-d0928d6c7e62
+INFO:root:Widget 5e846676-d392-420e-b596-88d2569d71ff placed into table widgets
+INFO:root:Deleted request 7217ab24-09f8-42f1-a2ad-d0928d6c7e62 from queue
+INFO:root:Processed request 829a2945-6e70-4eac-8cd0-8c34c73be218
+INFO:root:Widget 471faa02-5743-47c2-a3af-e8396d14b0aa placed into table widgets
+INFO:root:Deleted request 829a2945-6e70-4eac-8cd0-8c34c73be218 from queue
+INFO:root:Processed request 4ec2caf4-3d73-484a-b459-b1eef4ccb17d
+INFO:root:Widget fd27ebd3-de39-459d-9228-45b775606eab placed into table widgets
+INFO:root:Deleted request 4ec2caf4-3d73-484a-b459-b1eef4ccb17d from queue
+INFO:root:Processed request af98882c-29a5-48ab-8a40-84c4a7893b8b
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request 37724cd2-cdcb-400d-b0af-e3d4e3998c81
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request d9fbeab9-ffe8-45c6-b250-a3c4c53e418e
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request c6af0e79-267a-49d4-912e-960283a0e657
+INFO:root:Deleted widget 101cbaaf-119d-4038-8d84-12b48415bfe9 from table widgets
+INFO:root:Deleted request c6af0e79-267a-49d4-912e-960283a0e657 from queue
+INFO:root:Processed request a8a169aa-2403-4452-b69d-c0a2c1e0afe2
+INFO:root:Widget 6964a1e4-c564-4d9d-9910-f499653f9905 placed into table widgets
+INFO:root:Deleted request a8a169aa-2403-4452-b69d-c0a2c1e0afe2 from queue
+INFO:root:Processed request df5fe648-cc7d-4503-a3a4-3c5c053f1b35
+INFO:root:Widget d1653662-8b34-405c-8040-1ea2a9e92a23 placed into table widgets
+INFO:root:Deleted request df5fe648-cc7d-4503-a3a4-3c5c053f1b35 from queue
+INFO:root:Processed request 91b2ea16-269f-47ae-abd8-a58da386c08d
+INFO:root:Widget 9f1bf4e5-98e8-4e12-8240-e19d1b6fd674 placed into table widgets
+INFO:root:Deleted request 91b2ea16-269f-47ae-abd8-a58da386c08d from queue
+INFO:root:Processed request 681b9f6b-9800-4d3f-86b6-cb905e78fbea
+INFO:root:Widget e5582cd9-9a47-4624-a397-493d4ef63037 placed into table widgets
+INFO:root:Deleted request 681b9f6b-9800-4d3f-86b6-cb905e78fbea from queue
+INFO:root:Processed request a3bff38d-acbc-4558-b561-a1679d65fc62
+INFO:root:Widget 14b6f80b-bba6-4e85-9ab7-b96172239bd4 placed into table widgets
+INFO:root:Deleted request a3bff38d-acbc-4558-b561-a1679d65fc62 from queue
+INFO:root:Processed request 8f029bd1-d18d-4e68-8087-067bea1394c0
+INFO:root:Widget 0486d5e9-6e55-499f-b492-93f495223916 placed into table widgets
+INFO:root:Deleted request 8f029bd1-d18d-4e68-8087-067bea1394c0 from queue
+INFO:root:Processed request 4b40d957-572c-4584-b9eb-ca97c805f731
+INFO:root:Widget 90b2a24c-cbc3-4a6a-8cc7-bca2c9961023 placed into table widgets
+INFO:root:Deleted request 4b40d957-572c-4584-b9eb-ca97c805f731 from queue
+INFO:root:Processed request fb8927e1-b51a-4996-9b51-27af842aa8c7
+INFO:root:Widget 168d5c75-92ec-4a1c-83d3-ade73f28a90b placed into table widgets
+INFO:root:Deleted request fb8927e1-b51a-4996-9b51-27af842aa8c7 from queue
+INFO:root:Processed request 2231efb9-27f7-447c-bd97-5f7f332d08c0
+INFO:root:Widget 84763535-a0b6-4106-87aa-d1043d739cf1 placed into table widgets
+INFO:root:Deleted request 2231efb9-27f7-447c-bd97-5f7f332d08c0 from queue
+INFO:root:Processed request 65eb0970-e2be-4ec5-bc22-17f993fb76da
+INFO:root:Widget f9055ddd-ad94-4ec9-83b9-e52a8014c2f5 placed into table widgets
+INFO:root:Deleted request 65eb0970-e2be-4ec5-bc22-17f993fb76da from queue
+INFO:root:Processed request c3a56d09-ee42-4208-a15e-a17814dbce0b
+INFO:root:Widget 31c8dfda-98fd-4272-8cea-550e01ce3285 placed into table widgets
+INFO:root:Deleted request c3a56d09-ee42-4208-a15e-a17814dbce0b from queue
+INFO:root:Processed request d0644a13-31ff-4390-ba4b-d28c5d779fdc
+INFO:root:Widget d88475e5-73a4-416f-90cd-e533b3a66cd6 placed into table widgets
+INFO:root:Deleted request d0644a13-31ff-4390-ba4b-d28c5d779fdc from queue
+INFO:root:Processed request b121ffa8-6f8c-4e9d-b512-0210b1047884
+INFO:root:Widget 00329326-356b-4662-9689-66ffeb7d3eed placed into table widgets
+INFO:root:Deleted request b121ffa8-6f8c-4e9d-b512-0210b1047884 from queue
+INFO:root:Processed request 34888426-dfc8-4e4e-97a1-ffd24a1fb0c3
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request 75e6ecff-9a37-4f03-b361-79f5bf6c688f
+INFO:root:Widget e96f4849-92e2-4905-a8ba-fea47b8ed71e placed into table widgets
+INFO:root:Deleted request 75e6ecff-9a37-4f03-b361-79f5bf6c688f from queue
+INFO:root:Processed request 8db5a164-0465-40b1-865c-3776d0f65b5c
+INFO:root:Widget 16b00e14-c536-497f-9a94-3062d90af899 placed into table widgets
+INFO:root:Deleted request 8db5a164-0465-40b1-865c-3776d0f65b5c from queue
+INFO:root:Processed request 3523c568-ec91-4435-ae01-0b3ea6573f91
+INFO:root:Widget af67cc17-344a-428e-bc0f-f92398725bed placed into table widgets
+INFO:root:Deleted request 3523c568-ec91-4435-ae01-0b3ea6573f91 from queue
+INFO:root:Processed request 01d0b6cb-393f-4b54-888c-dd7df1a0a9d2
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request 1062be08-0c3e-4de3-aead-4b5204be1ad7
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request 1a72d493-a403-4757-bbe5-0f9f56c034cc
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request 6e77f4f5-e388-440d-995b-64ca1d70e3c7
+INFO:root:Widget 6cb1a5a0-b68a-4c7b-b728-2d43301d8d81 placed into table widgets
+INFO:root:Deleted request 6e77f4f5-e388-440d-995b-64ca1d70e3c7 from queue
+INFO:root:Processed request f0a20426-738e-4ac1-a68a-f3af94e00d8c
+INFO:root:Widget d117fbc0-4771-49d5-9354-9fb68b8b7039 placed into table widgets
+INFO:root:Deleted request f0a20426-738e-4ac1-a68a-f3af94e00d8c from queue
+INFO:root:Processed request 4e9f725f-36b4-406d-a6bf-f624f781cef9
+INFO:root:Widget 2e1bfe9b-bc5a-4169-8c58-6e650bb1dfe5 placed into table widgets
+INFO:root:Deleted request 4e9f725f-36b4-406d-a6bf-f624f781cef9 from queue
+INFO:root:Processed request ef729288-7d2b-4dce-aade-631f1a541810
+INFO:root:Widget 4508c815-9f3b-412f-8c56-364ac7e8bcfb placed into table widgets
+INFO:root:Deleted request ef729288-7d2b-4dce-aade-631f1a541810 from queue
+INFO:root:Processed request e231cf08-c829-41fa-a58b-f4f5fc2cddc6
+INFO:root:Widget 24d95ac2-1761-43a6-9346-425ba192425a placed into table widgets
+INFO:root:Deleted request e231cf08-c829-41fa-a58b-f4f5fc2cddc6 from queue
+INFO:root:Processed request 7265562a-d7bf-4728-a393-ca40da047447
+INFO:root:Widget 7ff29cdf-c022-4b0e-992a-6066115f2415 placed into table widgets
+INFO:root:Deleted request 7265562a-d7bf-4728-a393-ca40da047447 from queue
+INFO:root:Processed request c7b1a376-0276-41f9-9f71-52294e5d273c
+INFO:root:Widget 702cfcfd-6868-46f3-ac9d-86570a671c76 placed into table widgets
+INFO:root:Deleted request c7b1a376-0276-41f9-9f71-52294e5d273c from queue
+INFO:root:Processed request 1724b46f-935f-4179-b4ba-3478f0a0c98c
+INFO:root:Widget 7481c433-2cb5-4896-8319-103e24bfab94 placed into table widgets
+INFO:root:Deleted request 1724b46f-935f-4179-b4ba-3478f0a0c98c from queue
+INFO:root:Processed request 32ab51a5-eef0-4c06-b385-fbc8995ae786
+INFO:root:Deleted widget 702cfcfd-6868-46f3-ac9d-86570a671c76 from table widgets
+INFO:root:Deleted request 32ab51a5-eef0-4c06-b385-fbc8995ae786 from queue
+INFO:root:Processed request 25f27724-1671-4b03-bbd3-366fc025c69f
+INFO:root:Widget abf99026-6b1f-4696-99e0-b1c0496d62c3 placed into table widgets
+INFO:root:Deleted request 25f27724-1671-4b03-bbd3-366fc025c69f from queue
+INFO:root:Processed request 985f9a49-d16a-4b72-a351-ba005df2057e
+INFO:root:Widget f98f9912-9a29-4d74-8e34-ab7f726b9b69 placed into table widgets
+INFO:root:Deleted request 985f9a49-d16a-4b72-a351-ba005df2057e from queue
+INFO:root:Processed request 11e80ea5-77f0-4de4-afab-f1a71843924f
+INFO:root:Widget 7d247e76-b4c1-488c-8ab8-fcf228b866f6 placed into table widgets
+INFO:root:Deleted request 11e80ea5-77f0-4de4-afab-f1a71843924f from queue
+INFO:root:Processed request 9ae71ee9-3589-4a20-8034-c36dce806c97
+INFO:root:Widget 603de8a1-4765-4d04-823a-aee0f8d0cdb4 placed into table widgets
+INFO:root:Deleted request 9ae71ee9-3589-4a20-8034-c36dce806c97 from queue
+INFO:root:Processed request 5b0833f7-c0c0-42d3-b094-0d2786f75261
+INFO:root:Widget 65dfcce0-5d2f-463b-a0ff-f2f3ac9249a5 placed into table widgets
+INFO:root:Deleted request 5b0833f7-c0c0-42d3-b094-0d2786f75261 from queue
+INFO:root:Processed request 7d914a3a-1b0e-4f1c-a38a-e53ab08923d3
+INFO:root:Widget 1d32c3ae-582c-4315-b767-973414d43afc placed into table widgets
+INFO:root:Deleted request 7d914a3a-1b0e-4f1c-a38a-e53ab08923d3 from queue
+INFO:root:Processed request 6231859e-52cc-49b9-8e0c-9ffe8fcf0876
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request 38cb0cdc-c8da-4039-aad9-7be4689e8388
+INFO:root:Widget f09a9f50-1fdc-4ad1-b019-f1f624e3f3ce placed into table widgets
+INFO:root:Deleted request 38cb0cdc-c8da-4039-aad9-7be4689e8388 from queue
+INFO:root:Processed request 974abe05-7cbd-4870-9011-070f29a3d2b7
+INFO:root:Widget 10fc14ba-162f-49d5-85ae-1feed67cfeef placed into table widgets
+INFO:root:Deleted request 974abe05-7cbd-4870-9011-070f29a3d2b7 from queue
+INFO:root:Processed request adcfda4b-f4c5-486d-bc27-e7fb80324220
+INFO:root:Widget 40532733-ca8e-42d3-943b-7ea7285aaac0 placed into table widgets
+INFO:root:Deleted request adcfda4b-f4c5-486d-bc27-e7fb80324220 from queue
+INFO:root:Processed request 37724cd2-cdcb-400d-b0af-e3d4e3998c81
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request ebbcc02f-29f4-456e-b37e-877cecfc0897
+INFO:root:Widget 4d585595-3c1c-4dd0-ba5c-8708c52e57a9 placed into table widgets
+INFO:root:Deleted request ebbcc02f-29f4-456e-b37e-877cecfc0897 from queue
+INFO:root:Processed request 24e00801-ec5b-4872-a3ec-4bc94da3d092
+INFO:root:Widget 221c9819-6b48-4d5b-8077-3376af136500 placed into table widgets
+INFO:root:Deleted request 24e00801-ec5b-4872-a3ec-4bc94da3d092 from queue
+INFO:root:Processed request 03eb7b06-005b-47ee-b3a7-20bdf8689d81
+WARNING:root:Widget cf0d33c5-0947-4196-9dc5-a65804a91f84 not found to delete from table widgets
+INFO:root:Deleted request 03eb7b06-005b-47ee-b3a7-20bdf8689d81 from queue
+INFO:root:Processed request c96e4327-412b-46cc-9b00-e8bd9ce6a828
+INFO:root:Widget d02a35fb-185e-4b6d-83bf-f4c86918174c placed into table widgets
+INFO:root:Deleted request c96e4327-412b-46cc-9b00-e8bd9ce6a828 from queue
+INFO:root:Processed request d8f7538d-7f9e-4712-aa36-746f59e82546
+INFO:root:Widget 60350cd3-54af-4c53-89da-3e02d45e3e9a placed into table widgets
+INFO:root:Deleted request d8f7538d-7f9e-4712-aa36-746f59e82546 from queue
+INFO:root:Processed request 77e7ee45-65e6-484e-bea2-a474d8ecb399
+INFO:root:Widget 266f9e4e-e72d-482f-b8fd-473393afed98 placed into table widgets
+INFO:root:Deleted request 77e7ee45-65e6-484e-bea2-a474d8ecb399 from queue
+INFO:root:Processed request 090e01d2-0f14-417e-b2fb-b912080594fb
+INFO:root:Widget 57826570-c6dd-4b6d-aae8-5c769f2362a0 placed into table widgets
+INFO:root:Deleted request 090e01d2-0f14-417e-b2fb-b912080594fb from queue
+INFO:root:Processed request 12385922-3c5d-44e2-b078-8fc4d32bb342
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request bb05fcc9-c63a-4261-93ef-763db9b1d01d
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request a1d8e355-a0a5-4f1c-a6cb-a05c105b0da5
+INFO:root:Widget c91d2780-43e7-4661-8850-9ca73f626bdd placed into table widgets
+INFO:root:Deleted request a1d8e355-a0a5-4f1c-a6cb-a05c105b0da5 from queue
+INFO:root:Processed request ed64aa06-0870-447e-af50-7a9e13181438
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request 4215b4df-e3dd-4d49-b890-acbb1e6e68d6
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request 3713ae4c-f7b6-4272-9e39-e2ff1746badc
+WARNING:root:Widget 57dd4b41-00bd-4ab1-b5fb-f7ea4d828188 not found to delete from table widgets
+INFO:root:Deleted request 3713ae4c-f7b6-4272-9e39-e2ff1746badc from queue
+INFO:root:Processed request e2982dde-eafd-4a12-9051-6e62dcae9eaa
+INFO:root:Widget 59741a6e-bb28-4ac8-96e6-a1dd50d6eadb placed into table widgets
+INFO:root:Deleted request e2982dde-eafd-4a12-9051-6e62dcae9eaa from queue
+INFO:root:Processed request f6fe2668-d9ea-4f77-b684-85cac87d9f78
+INFO:root:Widget 101cbaaf-119d-4038-8d84-12b48415bfe9 placed into table widgets
+INFO:root:Deleted request f6fe2668-d9ea-4f77-b684-85cac87d9f78 from queue
+INFO:root:Processed request d9fbeab9-ffe8-45c6-b250-a3c4c53e418e
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request 42814943-ec6c-49ea-aa63-f7a237608bfe
+INFO:root:Widget 7a9dfee2-1b7a-4b18-a233-50cbf7a8d07f placed into table widgets
+INFO:root:Deleted request 42814943-ec6c-49ea-aa63-f7a237608bfe from queue
+INFO:root:Processed request 8f9e64c5-3b38-41a0-a476-68967cdf9b47
+INFO:root:Widget 2cde6121-b493-4b4a-b32f-9e1ad24ce20d placed into table widgets
+INFO:root:Deleted request 8f9e64c5-3b38-41a0-a476-68967cdf9b47 from queue
+INFO:root:Processed request 23a3eb36-ca24-4cca-9750-86624e8ee617
+INFO:root:Widget 7b1fe867-4ffd-467d-9c99-7446912ad3ed placed into table widgets
+INFO:root:Deleted request 23a3eb36-ca24-4cca-9750-86624e8ee617 from queue
+INFO:root:Processed request 18341367-40a5-4122-84d6-ac53edca9b52
+INFO:root:Widget 5e97b669-ec75-4a36-b663-209b7660341e placed into table widgets
+INFO:root:Deleted request 18341367-40a5-4122-84d6-ac53edca9b52 from queue
+INFO:root:Processed request 01e3024a-55da-472d-82ae-4598384caff7
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request 6fdbfcf6-8809-4051-b20c-6fe98e9b34bf
+INFO:root:Widget fca47289-cfff-41e2-9416-95f95fecd128 placed into table widgets
+INFO:root:Deleted request 6fdbfcf6-8809-4051-b20c-6fe98e9b34bf from queue
+INFO:root:Processed request 9d7627d3-cf1f-421d-beb0-5ef75936a414
+INFO:root:Widget 8c0c84c9-23e0-40a4-9a0c-4625cc3e3087 placed into table widgets
+INFO:root:Deleted request 9d7627d3-cf1f-421d-beb0-5ef75936a414 from queue
+INFO:root:Processed request 9a63a0ab-e3a5-4885-98fc-5f52a3c3cf81
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request 92342b8e-7adc-4750-b9c0-e5484e73e367
+INFO:root:Widget 5f118a3d-504e-4a7c-9c67-ba34f3d9029c placed into table widgets
+INFO:root:Deleted request 92342b8e-7adc-4750-b9c0-e5484e73e367 from queue
+INFO:root:Processed request 5321b9d1-bf02-4bd6-8afb-669518e1956d
+INFO:root:Widget 12ac3d28-e182-4cdf-ac22-bfbf00ac06bb placed into table widgets
+INFO:root:Deleted request 5321b9d1-bf02-4bd6-8afb-669518e1956d from queue
+INFO:root:Processed request 5f3f61d1-b321-4e73-b2f8-b5dd459cec90
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request 42a4786c-6ffc-48d1-8e51-1145d3057a75
+INFO:root:Widget 3e5a59de-afa6-4850-9490-c2c7ec6fdd16 placed into table widgets
+INFO:root:Deleted request 42a4786c-6ffc-48d1-8e51-1145d3057a75 from queue
+INFO:root:Processed request b1439489-1dec-42c0-8e57-123cc3935aac
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request c743dabf-3a53-4229-81fe-c14a39a4c218
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request 13990e5d-a4c6-442e-81bd-2742e5cfbdb8
+INFO:root:Widget cb21acc2-4513-4a9e-b569-f8777d02314d placed into table widgets
+INFO:root:Deleted request 13990e5d-a4c6-442e-81bd-2742e5cfbdb8 from queue
+INFO:root:Processed request 6a8cbcb9-4dc6-4a8e-a2b4-c717aa9e4136
+INFO:root:Widget 775b0b12-1a12-4ca3-b4f7-47beff6d4b57 placed into table widgets
+INFO:root:Deleted request 6a8cbcb9-4dc6-4a8e-a2b4-c717aa9e4136 from queue
+INFO:root:Processed request 7480f990-e7e0-48fa-ab53-ecfa836d52f5
+WARNING:root:Widget 9b3c6105-3a0d-4cda-989f-a0a744f85d2f not found to delete from table widgets
+INFO:root:Deleted request 7480f990-e7e0-48fa-ab53-ecfa836d52f5 from queue
+INFO:root:Processed request 26958c7e-4f1a-40ed-ba96-dc2588da77eb
+INFO:root:Widget db8586a3-39c1-471e-b955-8e08ee071c87 placed into table widgets
+INFO:root:Deleted request 26958c7e-4f1a-40ed-ba96-dc2588da77eb from queue
+INFO:root:Processed request 7b875da8-e5ce-412d-ae7a-b23e6ca1c6f3
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request b6bed38f-1bc8-42b5-888b-3f71d572de24
+INFO:root:Updated widget 40cb25cb-d7fa-4e08-9d29-d76d38cf742a in table widgets
+INFO:root:Deleted request b6bed38f-1bc8-42b5-888b-3f71d572de24 from queue
+INFO:root:Processed request c0938e53-1cfc-4cf8-a2d6-2c3f91b109ff
+INFO:root:Updated widget 5450aedf-60a4-442a-a4a6-0dbed5811f81 in table widgets
+INFO:root:Deleted request c0938e53-1cfc-4cf8-a2d6-2c3f91b109ff from queue
+INFO:root:Processed request ba1fdecd-f7db-47cc-848a-8d3ae097af3a
+INFO:root:Deleted widget 04d236a3-90e4-44a8-9478-1dafb2f78543 from table widgets
+INFO:root:Deleted request ba1fdecd-f7db-47cc-848a-8d3ae097af3a from queue
+INFO:root:Processed request 62a17dfc-0586-451f-b0e9-d4fd2c2a71f3
+INFO:root:Widget d8730b3a-c051-492b-ab08-1aaaf2ac7520 placed into table widgets
+INFO:root:Deleted request 62a17dfc-0586-451f-b0e9-d4fd2c2a71f3 from queue
+INFO:root:Processed request e85b0c1f-6dc1-4241-be8d-64c3c6ce2f48
+INFO:root:Widget 69fa9499-a11f-4be5-8b42-69eb55d5fae2 placed into table widgets
+INFO:root:Deleted request e85b0c1f-6dc1-4241-be8d-64c3c6ce2f48 from queue
+INFO:root:Processed request 7837c07e-b4a5-4c5b-9876-660f0be2db3b
+INFO:root:Widget b97d450d-c1a0-4483-a123-f85261f36613 placed into table widgets
+INFO:root:Deleted request 7837c07e-b4a5-4c5b-9876-660f0be2db3b from queue
+INFO:root:Processed request cff11df1-36b7-41db-86fd-bd43200df9b5
+INFO:root:Widget 683db7c2-67d7-4f61-a03a-27a71d1a14b1 placed into table widgets
+INFO:root:Deleted request cff11df1-36b7-41db-86fd-bd43200df9b5 from queue
+INFO:root:Processed request b9cb2bbd-bdb2-4e8d-af5c-dc24f5bb0c55
+INFO:root:Widget 85b8bd45-e9a1-4c95-82da-26acb7f01fd0 placed into table widgets
+INFO:root:Deleted request b9cb2bbd-bdb2-4e8d-af5c-dc24f5bb0c55 from queue
+INFO:root:Processed request 5bff020c-f98e-40fa-a50d-8b7cc69ea62b
+INFO:root:Widget 44ce8fda-77a2-489b-ad7e-2f7538dfb8f3 placed into table widgets
+INFO:root:Deleted request 5bff020c-f98e-40fa-a50d-8b7cc69ea62b from queue
+INFO:root:Processed request 0db98bf4-c693-4d2a-bed6-4ab889b6882a
+INFO:root:Widget 853bd755-9238-4dcb-9f72-e2f2501ebe94 placed into table widgets
+INFO:root:Deleted request 0db98bf4-c693-4d2a-bed6-4ab889b6882a from queue
+INFO:root:Processed request 108d5e9a-d0c4-4274-8edd-35adcfb17097
+INFO:root:Widget 9b3c6105-3a0d-4cda-989f-a0a744f85d2f placed into table widgets
+INFO:root:Deleted request 108d5e9a-d0c4-4274-8edd-35adcfb17097 from queue
+INFO:root:Processed request ffee5235-eadb-43dd-be8c-b7da7a12c2cc
+INFO:root:Widget fc4aee1e-895e-4db6-b10b-9a1a4f261968 placed into table widgets
+INFO:root:Deleted request ffee5235-eadb-43dd-be8c-b7da7a12c2cc from queue
+INFO:root:Processed request 30f8c532-18d5-46d4-8983-3031c880e814
+INFO:root:Deleted widget 6a95da51-79a2-4060-81ec-be166d88cd6a from table widgets
+INFO:root:Deleted request 30f8c532-18d5-46d4-8983-3031c880e814 from queue
+INFO:root:Processed request 29c856b8-3fda-4e4b-b5a6-2311c220da1a
+INFO:root:Widget f4ef9dea-61ca-4b56-90d3-2ff731120603 placed into table widgets
+INFO:root:Deleted request 29c856b8-3fda-4e4b-b5a6-2311c220da1a from queue
+INFO:root:Processed request ab139380-a6c0-42cc-9cea-17e1c94be7bf
+INFO:root:Updated widget bb16497c-934a-4102-85f8-8084e729aa35 in table widgets
+INFO:root:Deleted request ab139380-a6c0-42cc-9cea-17e1c94be7bf from queue
+INFO:root:Processed request b386d5be-7572-448a-b5e3-88f0bd9bafeb
+INFO:root:Updated widget 76f9f461-30e1-4091-8d66-8780f4f395f1 in table widgets
+INFO:root:Deleted request b386d5be-7572-448a-b5e3-88f0bd9bafeb from queue
+INFO:root:Processed request 633471c4-767d-44ea-a761-c0aa5d917020
+INFO:root:Widget 399b4abf-6e2f-4a96-ad8f-ae0feedd7747 placed into table widgets
+INFO:root:Deleted request 633471c4-767d-44ea-a761-c0aa5d917020 from queue
+INFO:root:Processed request 7d90d3d3-362c-4711-9fcb-14cd12d6a3d0
+INFO:root:Widget 220b6790-9e2a-4451-a7d2-fc1ec455dac4 placed into table widgets
+INFO:root:Deleted request 7d90d3d3-362c-4711-9fcb-14cd12d6a3d0 from queue
+INFO:root:Processed request e219b39e-7680-4a7a-8f05-92f130acae0b
+INFO:root:Deleted widget 2cde6121-b493-4b4a-b32f-9e1ad24ce20d from table widgets
+INFO:root:Deleted request e219b39e-7680-4a7a-8f05-92f130acae0b from queue
+INFO:root:Processed request e22bf627-ef41-42d9-9e60-7f2dc8aeefad
+INFO:root:Updated widget 426f8965-2bf7-473c-80b2-751e801332bb in table widgets
+INFO:root:Deleted request e22bf627-ef41-42d9-9e60-7f2dc8aeefad from queue
+INFO:root:Processed request 3713ae4c-f7b6-4272-9e39-e2ff1746badc
+WARNING:root:Widget 57dd4b41-00bd-4ab1-b5fb-f7ea4d828188 not found to delete from table widgets
+INFO:root:Deleted request 3713ae4c-f7b6-4272-9e39-e2ff1746badc from queue
+INFO:root:Processed request e2982dde-eafd-4a12-9051-6e62dcae9eaa
+INFO:root:Widget 59741a6e-bb28-4ac8-96e6-a1dd50d6eadb placed into table widgets
+INFO:root:Deleted request e2982dde-eafd-4a12-9051-6e62dcae9eaa from queue
+INFO:root:Processed request f6fe2668-d9ea-4f77-b684-85cac87d9f78
+INFO:root:Widget 101cbaaf-119d-4038-8d84-12b48415bfe9 placed into table widgets
+INFO:root:Deleted request f6fe2668-d9ea-4f77-b684-85cac87d9f78 from queue
+INFO:root:Processed request d9fbeab9-ffe8-45c6-b250-a3c4c53e418e
+INFO:root:Updated widget 853bd755-9238-4dcb-9f72-e2f2501ebe94 in table widgets
+INFO:root:Deleted request d9fbeab9-ffe8-45c6-b250-a3c4c53e418e from queue
+INFO:root:Processed request 23b795ac-7590-4faa-bb0e-7dee643aaeea
+INFO:root:Widget a1407985-8b08-4027-a4bd-c9c7595dedf2 placed into table widgets
+INFO:root:Deleted request 23b795ac-7590-4faa-bb0e-7dee643aaeea from queue
+INFO:root:Processed request 64fc2674-7d4a-41d4-8d6e-76e8dfdceb33
+INFO:root:Updated widget 85b8bd45-e9a1-4c95-82da-26acb7f01fd0 in table widgets
+INFO:root:Deleted request 64fc2674-7d4a-41d4-8d6e-76e8dfdceb33 from queue
+INFO:root:Processed request 899ff544-691e-4993-99ae-ed690019da36
+INFO:root:Widget 41f9c23d-65a9-4c00-b7e7-eb7b5165b8b8 placed into table widgets
+INFO:root:Deleted request 899ff544-691e-4993-99ae-ed690019da36 from queue
+INFO:root:Processed request 329e3b32-291b-4d34-b4ec-ea6f4e269b08
+INFO:root:Widget a6b75ba5-be00-4ac7-8609-ece5fdcc3cc1 placed into table widgets
+INFO:root:Deleted request 329e3b32-291b-4d34-b4ec-ea6f4e269b08 from queue
+INFO:root:Processed request 256a8f3a-c3af-43ca-9d55-a6a24c3c031c
+INFO:root:Updated widget 603de8a1-4765-4d04-823a-aee0f8d0cdb4 in table widgets
+INFO:root:Deleted request 256a8f3a-c3af-43ca-9d55-a6a24c3c031c from queue
+INFO:root:Processed request f60611eb-1c8b-45c4-9b0b-64961e12a307
+INFO:root:Deleted widget 7481c433-2cb5-4896-8319-103e24bfab94 from table widgets
+INFO:root:Deleted request f60611eb-1c8b-45c4-9b0b-64961e12a307 from queue
+INFO:root:Processed request c52212d6-3219-4d80-afe9-c65f1675b1a7
+INFO:root:Widget b23adbdb-3f2b-4ddd-bc28-c6f4722597d8 placed into table widgets
+INFO:root:Deleted request c52212d6-3219-4d80-afe9-c65f1675b1a7 from queue
+INFO:root:Processed request a30c44c9-c4d8-4e33-9051-1e5ebdaa3db0
+INFO:root:Widget f034a3d1-8453-4860-9ad0-79af4c2ca804 placed into table widgets
+INFO:root:Deleted request a30c44c9-c4d8-4e33-9051-1e5ebdaa3db0 from queue
+INFO:root:Processed request c6af0e79-267a-49d4-912e-960283a0e657
+INFO:root:Deleted widget 101cbaaf-119d-4038-8d84-12b48415bfe9 from table widgets
+INFO:root:Deleted request c6af0e79-267a-49d4-912e-960283a0e657 from queue
+INFO:root:Processed request a8a169aa-2403-4452-b69d-c0a2c1e0afe2
+INFO:root:Widget 6964a1e4-c564-4d9d-9910-f499653f9905 placed into table widgets
+INFO:root:Deleted request a8a169aa-2403-4452-b69d-c0a2c1e0afe2 from queue
+INFO:root:Processed request b7b1c5b0-e606-4555-b6bc-d086dcad7b8f
+INFO:root:Widget ca7fbcd5-c6a8-4031-be1c-46944686412f placed into table widgets
+INFO:root:Deleted request b7b1c5b0-e606-4555-b6bc-d086dcad7b8f from queue
+INFO:root:Processed request 7ee620e4-875e-46ca-bdbb-553d0de5cc17
+INFO:root:Widget 2a9e0bb8-d658-4dee-a620-bacf43682764 placed into table widgets
+INFO:root:Deleted request 7ee620e4-875e-46ca-bdbb-553d0de5cc17 from queue
+INFO:root:Processed request 21ba96a7-5af7-466e-adaa-909cb3db66db
+INFO:root:Widget f110b6f6-cdd1-4ad5-add5-4067d800efda placed into table widgets
+INFO:root:Deleted request 21ba96a7-5af7-466e-adaa-909cb3db66db from queue
+INFO:root:Processed request df5fe648-cc7d-4503-a3a4-3c5c053f1b35
+INFO:root:Widget d1653662-8b34-405c-8040-1ea2a9e92a23 placed into table widgets
+INFO:root:Deleted request df5fe648-cc7d-4503-a3a4-3c5c053f1b35 from queue
+INFO:root:Processed request 91b2ea16-269f-47ae-abd8-a58da386c08d
+INFO:root:Widget 9f1bf4e5-98e8-4e12-8240-e19d1b6fd674 placed into table widgets
+INFO:root:Deleted request 91b2ea16-269f-47ae-abd8-a58da386c08d from queue
+INFO:root:Processed request 681b9f6b-9800-4d3f-86b6-cb905e78fbea
+INFO:root:Widget e5582cd9-9a47-4624-a397-493d4ef63037 placed into table widgets
+INFO:root:Deleted request 681b9f6b-9800-4d3f-86b6-cb905e78fbea from queue
+INFO:root:Processed request e7c76f65-4675-45b5-b3cb-b5bcabc8ae25
+INFO:root:Updated widget 77a9712c-8e66-4404-b74a-a0f930b4deac in table widgets
+INFO:root:Deleted request e7c76f65-4675-45b5-b3cb-b5bcabc8ae25 from queue
+INFO:root:Processed request ee1bae23-4382-4e42-b45a-869f5d51c437
+INFO:root:Deleted widget 4e80fffb-0522-4663-9b41-554bd244cdcc from table widgets
+INFO:root:Deleted request ee1bae23-4382-4e42-b45a-869f5d51c437 from queue
+INFO:root:Processed request 357191c8-81a5-4ac5-b7ab-9d40a6f0445a
+INFO:root:Widget ef4c7b10-ea2a-427d-a81d-7702c05689aa placed into table widgets
+INFO:root:Deleted request 357191c8-81a5-4ac5-b7ab-9d40a6f0445a from queue
+INFO:root:Processed request 3d247194-1478-4903-8e55-a67bd9b1da22
+INFO:root:Deleted widget 4508c815-9f3b-412f-8c56-364ac7e8bcfb from table widgets
+INFO:root:Deleted request 3d247194-1478-4903-8e55-a67bd9b1da22 from queue
+INFO:root:Processed request d9a9bfab-114f-46a7-bb7c-cb728b6a20be
+INFO:root:Updated widget a1407985-8b08-4027-a4bd-c9c7595dedf2 in table widgets
+INFO:root:Deleted request d9a9bfab-114f-46a7-bb7c-cb728b6a20be from queue
+INFO:root:Processed request 244a448b-c6e7-467c-badf-7202729a6edb
+INFO:root:Deleted widget ae29fce8-ea9c-4b38-adf4-c46f34608dd4 from table widgets
+INFO:root:Deleted request 244a448b-c6e7-467c-badf-7202729a6edb from queue
+INFO:root:Processed request fdd43b6d-13b0-4d0f-ba6e-588e1b66ca94
+INFO:root:Deleted widget 7a9dfee2-1b7a-4b18-a233-50cbf7a8d07f from table widgets
+INFO:root:Deleted request fdd43b6d-13b0-4d0f-ba6e-588e1b66ca94 from queue
+INFO:root:Processed request 85f24ab9-6e42-4daa-b2bc-97c02ee77eb3
+INFO:root:Widget e9603069-3042-49d3-a54a-9d105688e308 placed into table widgets
+INFO:root:Deleted request 85f24ab9-6e42-4daa-b2bc-97c02ee77eb3 from queue
+INFO:root:Processed request 197dca07-8042-490c-a18c-16b5dcd25874
+WARNING:root:Widget 3d6d7112-8b32-4463-beb6-183127da56aa not found to delete from table widgets
+INFO:root:Deleted request 197dca07-8042-490c-a18c-16b5dcd25874 from queue
+INFO:root:Processed request 0ef0ff6a-59a7-4d2d-9860-3bda3a0553d4
+INFO:root:Widget d79c1580-54c9-42b1-8a38-e36f11618f77 placed into table widgets
+INFO:root:Deleted request 0ef0ff6a-59a7-4d2d-9860-3bda3a0553d4 from queue
+INFO:root:Processed request 12cc88f4-fe8f-4ebf-a1bb-db4459ac5911
+INFO:root:Updated widget 2e1bfe9b-bc5a-4169-8c58-6e650bb1dfe5 in table widgets
+INFO:root:Deleted request 12cc88f4-fe8f-4ebf-a1bb-db4459ac5911 from queue
+INFO:root:Processed request 8c0fae70-718c-45be-9b35-49a91b63c2ef
+INFO:root:Widget c2531060-8fca-4065-9295-5f8daac331c7 placed into table widgets
+INFO:root:Deleted request 8c0fae70-718c-45be-9b35-49a91b63c2ef from queue
+INFO:root:Processed request 63e715fb-70e3-4f0c-bc5b-f3d6904bf523
+INFO:root:Widget 47c66729-511b-4d9a-b889-8382fdc6bcd4 placed into table widgets
+INFO:root:Deleted request 63e715fb-70e3-4f0c-bc5b-f3d6904bf523 from queue
+INFO:root:Processed request ecc1d1cf-79ba-403f-a2be-bb1368d2ed3d
+INFO:root:Widget 51f28843-9796-4ea0-86a6-d0c0d7a1c56c placed into table widgets
+INFO:root:Deleted request ecc1d1cf-79ba-403f-a2be-bb1368d2ed3d from queue
+INFO:root:Processed request d513e9d9-3eb0-4683-a4d2-cf3a9e6727e8
+INFO:root:Widget 57dd4b41-00bd-4ab1-b5fb-f7ea4d828188 placed into table widgets
+INFO:root:Deleted request d513e9d9-3eb0-4683-a4d2-cf3a9e6727e8 from queue
+INFO:root:Processed request 398caf85-5eca-4f94-a74f-9293f2755251
+INFO:root:Widget 6a95da51-79a2-4060-81ec-be166d88cd6a placed into table widgets
+INFO:root:Deleted request 398caf85-5eca-4f94-a74f-9293f2755251 from queue
+INFO:root:Processed request 076649e3-77a2-4e57-a352-5a0ed773cca1
+INFO:root:Widget 0c70382d-bbfc-490c-a85b-85a19f48d193 placed into table widgets
+INFO:root:Deleted request 076649e3-77a2-4e57-a352-5a0ed773cca1 from queue
+INFO:root:Processed request 0570dca4-8d5d-4ea3-87d9-213ba9c92b43
+INFO:root:Widget 33e99173-7540-4484-9d43-62b3dd3982fd placed into table widgets
+INFO:root:Deleted request 0570dca4-8d5d-4ea3-87d9-213ba9c92b43 from queue
+INFO:root:Processed request a8dd610d-628f-4ea9-befb-d77ac6ab4cf7
+INFO:root:Widget 4d69c9c0-6e89-4a4d-bd37-0d866e82af78 placed into table widgets
+INFO:root:Deleted request a8dd610d-628f-4ea9-befb-d77ac6ab4cf7 from queue
+INFO:root:Processed request 52d8a7a0-c18d-4571-a74e-9a87415c2dc1
+INFO:root:Widget ca7da1c7-2825-406a-883f-70497deddecd placed into table widgets
+INFO:root:Deleted request 52d8a7a0-c18d-4571-a74e-9a87415c2dc1 from queue
+INFO:root:Processed request 4215b4df-e3dd-4d49-b890-acbb1e6e68d6
+INFO:root:Updated widget 77a9712c-8e66-4404-b74a-a0f930b4deac in table widgets
+INFO:root:Deleted request 4215b4df-e3dd-4d49-b890-acbb1e6e68d6 from queue
+INFO:root:Processed request 04ad7843-a55c-4820-a00c-6476cbe552db
+INFO:root:Widget 19bf8fad-551b-4af7-979f-913e32aaa51e placed into table widgets
+INFO:root:Deleted request 04ad7843-a55c-4820-a00c-6476cbe552db from queue
+INFO:root:Processed request 20fb6998-7be5-49a8-af9e-e9c3568d2706
+INFO:root:Deleted widget 9f1bf4e5-98e8-4e12-8240-e19d1b6fd674 from table widgets
+INFO:root:Deleted request 20fb6998-7be5-49a8-af9e-e9c3568d2706 from queue
+INFO:root:Processed request 777fe2cf-2282-48ba-a73b-24a6be7b151b
+INFO:root:Widget e095a283-3011-4f5a-b991-c0042ccfd7f5 placed into table widgets
+INFO:root:Deleted request 777fe2cf-2282-48ba-a73b-24a6be7b151b from queue
+INFO:root:Processed request 55d03f5d-983f-40d9-953f-6cca526e8e4b
+INFO:root:Widget 25a10f24-0b19-44e2-a2c8-a9218dbcb811 placed into table widgets
+INFO:root:Deleted request 55d03f5d-983f-40d9-953f-6cca526e8e4b from queue
+INFO:root:Processed request e89cc364-e1b6-46cf-a7e9-4da622590ec4
+INFO:root:Updated widget d117fbc0-4771-49d5-9354-9fb68b8b7039 in table widgets
+INFO:root:Deleted request e89cc364-e1b6-46cf-a7e9-4da622590ec4 from queue
+INFO:root:Processed request 2b2e2762-ca4d-4405-9ff0-378de8ac1a95
+INFO:root:Deleted widget f4ef9dea-61ca-4b56-90d3-2ff731120603 from table widgets
+INFO:root:Deleted request 2b2e2762-ca4d-4405-9ff0-378de8ac1a95 from queue
+INFO:root:Processed request 7f1096e7-f040-4248-875a-83e7407542d4
+INFO:root:Widget 8891d832-3ef8-4dd5-a616-6ae009feba1b placed into table widgets
+INFO:root:Deleted request 7f1096e7-f040-4248-875a-83e7407542d4 from queue
+INFO:root:Processed request 556e5b5d-f221-4667-9650-1ed7cda5775b
+INFO:root:Widget 40cb25cb-d7fa-4e08-9d29-d76d38cf742a placed into table widgets
+INFO:root:Deleted request 556e5b5d-f221-4667-9650-1ed7cda5775b from queue
+INFO:root:Processed request f0129b97-8910-4087-85b6-b9d575250b49
+INFO:root:Deleted widget 65dfcce0-5d2f-463b-a0ff-f2f3ac9249a5 from table widgets
+INFO:root:Deleted request f0129b97-8910-4087-85b6-b9d575250b49 from queue
+INFO:root:Processed request 07585c36-95ba-4bb7-a81b-5b2fbad53c93
+INFO:root:Widget 73ee7d74-fe27-4e28-8f14-8270cd2d4f2b placed into table widgets
+INFO:root:Deleted request 07585c36-95ba-4bb7-a81b-5b2fbad53c93 from queue
+INFO:root:Processed request 67a7fd5a-1b5c-4944-bb6d-0ca903f080c3
+INFO:root:Deleted widget d02a35fb-185e-4b6d-83bf-f4c86918174c from table widgets
+INFO:root:Deleted request 67a7fd5a-1b5c-4944-bb6d-0ca903f080c3 from queue
+INFO:root:Processed request 0f602580-074c-43ab-9b78-aea019b5f113
+INFO:root:Updated widget 168d5c75-92ec-4a1c-83d3-ade73f28a90b in table widgets
+INFO:root:Deleted request 0f602580-074c-43ab-9b78-aea019b5f113 from queue
+INFO:root:Processed request b14dc1d9-b07e-414d-981b-c5175fdce645
+INFO:root:Updated widget 1d32c3ae-582c-4315-b767-973414d43afc in table widgets
+INFO:root:Deleted request b14dc1d9-b07e-414d-981b-c5175fdce645 from queue
+INFO:root:Processed request 4ec74ac6-2986-42d0-9533-f2e1c8213b37
+INFO:root:Widget 96eff0c4-17db-4dbb-b08f-9aa01ec5791f placed into table widgets
+INFO:root:Deleted request 4ec74ac6-2986-42d0-9533-f2e1c8213b37 from queue
+INFO:root:Processed request bbbc9a00-9fe2-4ea0-9d36-3d6fa13a73c1
+INFO:root:Widget 5dec4489-1dc6-48fd-a558-55cc45bc0f9f placed into table widgets
+INFO:root:Deleted request bbbc9a00-9fe2-4ea0-9d36-3d6fa13a73c1 from queue
+INFO:root:Processed request 01790b2b-18e1-4120-ba5f-a3a059466702
+INFO:root:Deleted widget 40532733-ca8e-42d3-943b-7ea7285aaac0 from table widgets
+INFO:root:Deleted request 01790b2b-18e1-4120-ba5f-a3a059466702 from queue
+INFO:root:Processed request 2a892da7-93f4-42dd-aba5-94b3f5fa0405
+INFO:root:Updated widget 5f118a3d-504e-4a7c-9c67-ba34f3d9029c in table widgets
+INFO:root:Deleted request 2a892da7-93f4-42dd-aba5-94b3f5fa0405 from queue
+INFO:root:Processed request ebf0f3ac-ad4d-48f9-935f-d0a155278122
+INFO:root:Updated widget 31c8dfda-98fd-4272-8cea-550e01ce3285 in table widgets
+INFO:root:Deleted request ebf0f3ac-ad4d-48f9-935f-d0a155278122 from queue
+INFO:root:Processed request a9ff927e-55ae-4658-a660-3bafa83953be
+INFO:root:Widget 55a11c67-0d9d-4fec-846d-9552c2793365 placed into table widgets
+INFO:root:Deleted request a9ff927e-55ae-4658-a660-3bafa83953be from queue
+INFO:root:Processed request 92342b8e-7adc-4750-b9c0-e5484e73e367
+INFO:root:Widget 5f118a3d-504e-4a7c-9c67-ba34f3d9029c placed into table widgets
+INFO:root:Deleted request 92342b8e-7adc-4750-b9c0-e5484e73e367 from queue
+INFO:root:Processed request 5321b9d1-bf02-4bd6-8afb-669518e1956d
+INFO:root:Widget 12ac3d28-e182-4cdf-ac22-bfbf00ac06bb placed into table widgets
+INFO:root:Deleted request 5321b9d1-bf02-4bd6-8afb-669518e1956d from queue
+INFO:root:Processed request 5f3f61d1-b321-4e73-b2f8-b5dd459cec90
+INFO:root:Updated widget 8891d832-3ef8-4dd5-a616-6ae009feba1b in table widgets
+INFO:root:Deleted request 5f3f61d1-b321-4e73-b2f8-b5dd459cec90 from queue
+INFO:root:Processed request 171cd5d9-53e1-4a9f-ba33-d91498c0f99a
+INFO:root:Widget 3bc3e41a-c400-4ec2-8def-26f8527144db placed into table widgets
+INFO:root:Deleted request 171cd5d9-53e1-4a9f-ba33-d91498c0f99a from queue
+INFO:root:Processed request 41972ff5-685d-40da-ba69-ceac2d3d645d
+WARNING:root:Widget e00c88b1-dbe8-461c-8bf1-c5286f2d02d1 not found to delete from table widgets
+INFO:root:Deleted request 41972ff5-685d-40da-ba69-ceac2d3d645d from queue
+INFO:root:Processed request c83cebac-2fa9-4f30-a862-be29f72a2fb6
+INFO:root:Updated widget 94b8132c-c237-4e9c-8f8e-e9b493fefabc in table widgets
+INFO:root:Deleted request c83cebac-2fa9-4f30-a862-be29f72a2fb6 from queue
+INFO:root:Processed request 2075eee4-8cb2-4897-a4e4-6e96da58a4ef
+INFO:root:Widget adb67b3b-97b6-42e8-a814-679bcfb310ee placed into table widgets
+INFO:root:Deleted request 2075eee4-8cb2-4897-a4e4-6e96da58a4ef from queue
+INFO:root:Processed request 9e5087d5-2a5e-49ac-b482-195065583e36
+INFO:root:Updated widget 60651254-ab10-43a9-8cba-5d29523144b1 in table widgets
+INFO:root:Deleted request 9e5087d5-2a5e-49ac-b482-195065583e36 from queue
+INFO:root:Processed request 3dc0eb76-8870-46cf-a7f2-13b40500b1ac
+INFO:root:Widget 9a084340-cb48-4db0-b782-c00ca683b5d6 placed into table widgets
+INFO:root:Deleted request 3dc0eb76-8870-46cf-a7f2-13b40500b1ac from queue
+INFO:root:Processed request cef56878-217b-483b-a4f0-fadf0abff0aa
+INFO:root:Widget 48c826b0-c237-440a-9b45-93bcd194fc79 placed into table widgets
+INFO:root:Deleted request cef56878-217b-483b-a4f0-fadf0abff0aa from queue
+INFO:root:Processed request 3ae69286-7c11-4d8d-a997-26f4a82e3f18
+INFO:root:Updated widget dd4a7cb0-42d2-46b2-923d-cacd72e5bbb3 in table widgets
+INFO:root:Deleted request 3ae69286-7c11-4d8d-a997-26f4a82e3f18 from queue
+INFO:root:Processed request 65e00890-c1f7-4472-8d02-0f7c9f4ce6fa
+INFO:root:Widget 9008f11f-a85e-4fe9-b5fa-7f4ec288345a placed into table widgets
+INFO:root:Deleted request 65e00890-c1f7-4472-8d02-0f7c9f4ce6fa from queue
+INFO:root:Processed request 114e358c-5026-45f8-b719-62d8cca8a8db
+INFO:root:Widget 52124250-939c-4f85-843a-11d89b168943 placed into table widgets
+INFO:root:Deleted request 114e358c-5026-45f8-b719-62d8cca8a8db from queue
+INFO:root:Processed request 394055f7-4b45-4fde-a75d-a55f89106040
+INFO:root:Widget 04d236a3-90e4-44a8-9478-1dafb2f78543 placed into table widgets
+INFO:root:Deleted request 394055f7-4b45-4fde-a75d-a55f89106040 from queue
+INFO:root:Processed request f57fa271-5d4d-43e8-bee1-71fe418bba71
+INFO:root:Widget 31d5680a-ae54-4a21-a26f-d2cf9cdd9c1f placed into table widgets
+INFO:root:Deleted request f57fa271-5d4d-43e8-bee1-71fe418bba71 from queue
+INFO:root:Processed request 14727679-6854-4901-8563-50c4a176061a
+INFO:root:Widget ae29fce8-ea9c-4b38-adf4-c46f34608dd4 placed into table widgets
+INFO:root:Deleted request 14727679-6854-4901-8563-50c4a176061a from queue
+INFO:root:Processed request 9c86bd13-0db2-41a3-b4c5-c8e5c3c390c0
+INFO:root:Widget 9f5f0ca8-2e7d-4868-bb44-4f18430f8c43 placed into table widgets
+INFO:root:Deleted request 9c86bd13-0db2-41a3-b4c5-c8e5c3c390c0 from queue
+INFO:root:Processed request 1cc0b187-56a8-4423-afe0-2795a4643be4
+INFO:root:Widget 77a9712c-8e66-4404-b74a-a0f930b4deac placed into table widgets
+INFO:root:Deleted request 1cc0b187-56a8-4423-afe0-2795a4643be4 from queue
+INFO:root:Processed request 34a78b4f-1eb7-416a-9b4d-056ce29a4907
+INFO:root:Widget 4e80fffb-0522-4663-9b41-554bd244cdcc placed into table widgets
+INFO:root:Deleted request 34a78b4f-1eb7-416a-9b4d-056ce29a4907 from queue
+INFO:root:Processed request 7bf17447-55a8-42b1-85d5-9244dc96f461
+INFO:root:Widget 9e94ac82-59d5-40df-b992-e999bc22021a placed into table widgets
+INFO:root:Deleted request 7bf17447-55a8-42b1-85d5-9244dc96f461 from queue
+INFO:root:Processed request 32875ee3-8388-48bd-9801-3942f595f1b0
+WARNING:root:Widget 702cfcfd-6868-46f3-ac9d-86570a671c76 not found to update in table widgets
+INFO:root:Deleted request 32875ee3-8388-48bd-9801-3942f595f1b0 from queue
+INFO:root:Processed request 315ee876-0a2f-4e93-bf37-ead1874d31fb
+INFO:root:Widget 6047d05b-d8a4-4610-a689-67a9dee40f2a placed into table widgets
+INFO:root:Deleted request 315ee876-0a2f-4e93-bf37-ead1874d31fb from queue
+INFO:root:Processed request 504fd2ec-7c89-459a-b5df-86f4d4878c91
+INFO:root:Widget 19f087b9-6c89-427a-9968-928a9b7c0dd2 placed into table widgets
+INFO:root:Deleted request 504fd2ec-7c89-459a-b5df-86f4d4878c91 from queue
+INFO:root:Processed request d84b9f4e-93ce-4f9b-bca0-db2a3c4c6b80
+INFO:root:Updated widget bb16497c-934a-4102-85f8-8084e729aa35 in table widgets
+INFO:root:Deleted request d84b9f4e-93ce-4f9b-bca0-db2a3c4c6b80 from queue
+INFO:root:Processed request 569c834f-64c6-44d6-88a9-678cb97262a8
+INFO:root:Widget 1e0f2088-90f4-4fae-afa1-a859d370417b placed into table widgets
+INFO:root:Deleted request 569c834f-64c6-44d6-88a9-678cb97262a8 from queue
+INFO:root:Processed request 72409ab3-9a8a-4c88-a2f1-d2e87dbc6a9f
+INFO:root:Updated widget 1df375ac-6797-4c08-8599-142e9dce8322 in table widgets
+INFO:root:Deleted request 72409ab3-9a8a-4c88-a2f1-d2e87dbc6a9f from queue
+INFO:root:Processed request dec1cf7c-8041-47ad-84cf-ecf1b981098f
+INFO:root:Widget 39a91305-1c34-4b11-b397-9d48104f418e placed into table widgets
+INFO:root:Deleted request dec1cf7c-8041-47ad-84cf-ecf1b981098f from queue
+INFO:root:Processed request a5e9fde8-ca8f-45c1-8c94-48d312b9871d
+INFO:root:Deleted widget 9e94ac82-59d5-40df-b992-e999bc22021a from table widgets
+INFO:root:Deleted request a5e9fde8-ca8f-45c1-8c94-48d312b9871d from queue
+INFO:root:Processed request bf0cde7f-d0fa-47af-b428-f02bf1c5a904
+INFO:root:Widget a0711d6d-a9dc-42ee-a79b-63726c14f027 placed into table widgets
+INFO:root:Deleted request bf0cde7f-d0fa-47af-b428-f02bf1c5a904 from queue
+INFO:root:Processed request b2538737-3155-4e23-9294-0a23fb475df2
+INFO:root:Widget 9497db51-87a6-4cda-becb-d8988a995226 placed into table widgets
+INFO:root:Deleted request b2538737-3155-4e23-9294-0a23fb475df2 from queue
+INFO:root:Processed request 8ce22d46-1fc2-4fe1-8d63-9776bfb5a790
+INFO:root:Updated widget 5e97b669-ec75-4a36-b663-209b7660341e in table widgets
+INFO:root:Deleted request 8ce22d46-1fc2-4fe1-8d63-9776bfb5a790 from queue
+INFO:root:Processed request dc7e5d70-55f8-4896-9a64-370e9a457192
+INFO:root:Widget 5e8b148e-8490-4519-9c73-3fcb14c25a9e placed into table widgets
+INFO:root:Deleted request dc7e5d70-55f8-4896-9a64-370e9a457192 from queue
+INFO:root:Processed request 1cf94244-05a7-424f-a615-c736eddea91c
+INFO:root:Widget a8fa67de-8e75-44ce-8f25-be039a035b1c placed into table widgets
+INFO:root:Deleted request 1cf94244-05a7-424f-a615-c736eddea91c from queue
+INFO:root:Processed request 6fdbfcf6-8809-4051-b20c-6fe98e9b34bf
+INFO:root:Widget fca47289-cfff-41e2-9416-95f95fecd128 placed into table widgets
+INFO:root:Deleted request 6fdbfcf6-8809-4051-b20c-6fe98e9b34bf from queue
+INFO:root:Processed request 1062be08-0c3e-4de3-aead-4b5204be1ad7
+INFO:root:Updated widget 7b1fe867-4ffd-467d-9c99-7446912ad3ed in table widgets
+INFO:root:Deleted request 1062be08-0c3e-4de3-aead-4b5204be1ad7 from queue
+INFO:root:Processed request 04e60062-8c3f-48d3-a909-bac379d6aa6c
+INFO:root:Widget b8717d1a-8037-496e-a93f-d21eb152b912 placed into table widgets
+INFO:root:Deleted request 04e60062-8c3f-48d3-a909-bac379d6aa6c from queue
+INFO:root:Processed request 35e60f15-2091-4b0e-a63c-bb696293e676
+INFO:root:Widget 680c4eb6-173a-400c-8259-d70b6e7e53d4 placed into table widgets
+INFO:root:Deleted request 35e60f15-2091-4b0e-a63c-bb696293e676 from queue
+INFO:root:Processed request 95710771-fdc1-4f86-bda0-ce6c882ed28a
+INFO:root:Updated widget 7d247e76-b4c1-488c-8ab8-fcf228b866f6 in table widgets
+INFO:root:Deleted request 95710771-fdc1-4f86-bda0-ce6c882ed28a from queue
+INFO:root:Processed request 9d7627d3-cf1f-421d-beb0-5ef75936a414
+INFO:root:Widget 8c0c84c9-23e0-40a4-9a0c-4625cc3e3087 placed into table widgets
+INFO:root:Deleted request 9d7627d3-cf1f-421d-beb0-5ef75936a414 from queue
+INFO:root:Processed request 16d61a73-ff9b-4993-9cf8-1ab218aa1b44
+INFO:root:Updated widget 0486d5e9-6e55-499f-b492-93f495223916 in table widgets
+INFO:root:Deleted request 16d61a73-ff9b-4993-9cf8-1ab218aa1b44 from queue
+INFO:root:Processed request f8824381-10f8-41ba-867a-b9bc0a126f32
+INFO:root:Widget b6d24945-c9a6-4a55-b370-eade22aa6d51 placed into table widgets
+INFO:root:Deleted request f8824381-10f8-41ba-867a-b9bc0a126f32 from queue
+INFO:root:Processed request 8a86073e-81b0-4494-b742-aaa0e4b8bc38
+INFO:root:Updated widget 9b126a0c-f734-445c-a220-d7073800e2cb in table widgets
+INFO:root:Deleted request 8a86073e-81b0-4494-b742-aaa0e4b8bc38 from queue
+INFO:root:Processed request 9a63a0ab-e3a5-4885-98fc-5f52a3c3cf81
+INFO:root:Updated widget 7ff29cdf-c022-4b0e-992a-6066115f2415 in table widgets
+INFO:root:Deleted request 9a63a0ab-e3a5-4885-98fc-5f52a3c3cf81 from queue
+INFO:root:Processed request 42ea5552-51b9-443f-9b33-906123842f80
+INFO:root:Widget c3582391-ef62-4ab8-8ce0-e2e508a0d7e3 placed into table widgets
+INFO:root:Deleted request 42ea5552-51b9-443f-9b33-906123842f80 from queue
+INFO:root:Processed request 5f57ee69-e301-480b-9b5a-68db7616454d
+INFO:root:Updated widget ca7da1c7-2825-406a-883f-70497deddecd in table widgets
+INFO:root:Deleted request 5f57ee69-e301-480b-9b5a-68db7616454d from queue
+INFO:root:Processed request 7d8db7f7-32a5-471f-a6bc-37013b08dfda
+INFO:root:Widget 52d065ef-6f20-4be6-8f48-76cb5004f246 placed into table widgets
+INFO:root:Deleted request 7d8db7f7-32a5-471f-a6bc-37013b08dfda from queue
+INFO:root:Processed request cd084831-955b-4818-ba13-d4805a982002
+INFO:root:Widget e0629524-04a9-4e32-a1fc-b68e86d74c58 placed into table widgets
+INFO:root:Deleted request cd084831-955b-4818-ba13-d4805a982002 from queue
+INFO:root:Processed request 6a8b5bed-0a74-4bf8-b6f9-110a976b1332
+INFO:root:Widget e6327327-6c09-4360-8c42-88b34689030d placed into table widgets
+INFO:root:Deleted request 6a8b5bed-0a74-4bf8-b6f9-110a976b1332 from queue
+INFO:root:Processed request 36bb1afc-d35e-4795-ade4-f6d55cf59e4c
+INFO:root:Widget 45f3ca4b-a9ff-43af-87bd-54aded096d19 placed into table widgets
+INFO:root:Deleted request 36bb1afc-d35e-4795-ade4-f6d55cf59e4c from queue
+INFO:root:Processed request 743b47ab-9a58-465f-9f48-3d8d1591be80
+INFO:root:Widget a6aca38a-55ca-4b53-aed8-59a12f0a9dd6 placed into table widgets
+INFO:root:Deleted request 743b47ab-9a58-465f-9f48-3d8d1591be80 from queue
+INFO:root:Processed request 3ed73427-4e32-4813-a2ff-378e55add6af
+INFO:root:Widget c9970158-53ef-4b75-bfe9-bf9a232dae09 placed into table widgets
+INFO:root:Deleted request 3ed73427-4e32-4813-a2ff-378e55add6af from queue
+INFO:root:Processed request 404ac1d1-09ba-4921-ac90-cacf5ded772c
+INFO:root:Updated widget f9055ddd-ad94-4ec9-83b9-e52a8014c2f5 in table widgets
+INFO:root:Deleted request 404ac1d1-09ba-4921-ac90-cacf5ded772c from queue
+INFO:root:Processed request 25a4cd30-a808-4a73-8d62-a3872bf46ddc
+INFO:root:Widget cad1cf02-4d6a-4531-bf93-026ffe35744a placed into table widgets
+INFO:root:Deleted request 25a4cd30-a808-4a73-8d62-a3872bf46ddc from queue
+INFO:root:Processed request a3bff38d-acbc-4558-b561-a1679d65fc62
+INFO:root:Widget 14b6f80b-bba6-4e85-9ab7-b96172239bd4 placed into table widgets
+INFO:root:Deleted request a3bff38d-acbc-4558-b561-a1679d65fc62 from queue
+INFO:root:Processed request 8f029bd1-d18d-4e68-8087-067bea1394c0
+INFO:root:Widget 0486d5e9-6e55-499f-b492-93f495223916 placed into table widgets
+INFO:root:Deleted request 8f029bd1-d18d-4e68-8087-067bea1394c0 from queue
+INFO:root:Processed request 4b40d957-572c-4584-b9eb-ca97c805f731
+INFO:root:Widget 90b2a24c-cbc3-4a6a-8cc7-bca2c9961023 placed into table widgets
+INFO:root:Deleted request 4b40d957-572c-4584-b9eb-ca97c805f731 from queue
+INFO:root:Processed request fb8927e1-b51a-4996-9b51-27af842aa8c7
+INFO:root:Widget 168d5c75-92ec-4a1c-83d3-ade73f28a90b placed into table widgets
+INFO:root:Deleted request fb8927e1-b51a-4996-9b51-27af842aa8c7 from queue
+INFO:root:Processed request 2231efb9-27f7-447c-bd97-5f7f332d08c0
+INFO:root:Widget 84763535-a0b6-4106-87aa-d1043d739cf1 placed into table widgets
+INFO:root:Deleted request 2231efb9-27f7-447c-bd97-5f7f332d08c0 from queue
+INFO:root:Processed request ebbcc02f-29f4-456e-b37e-877cecfc0897
+INFO:root:Widget 4d585595-3c1c-4dd0-ba5c-8708c52e57a9 placed into table widgets
+INFO:root:Deleted request ebbcc02f-29f4-456e-b37e-877cecfc0897 from queue
+INFO:root:Processed request 24e00801-ec5b-4872-a3ec-4bc94da3d092
+INFO:root:Widget 221c9819-6b48-4d5b-8077-3376af136500 placed into table widgets
+INFO:root:Deleted request 24e00801-ec5b-4872-a3ec-4bc94da3d092 from queue
+INFO:root:Processed request 03eb7b06-005b-47ee-b3a7-20bdf8689d81
+WARNING:root:Widget cf0d33c5-0947-4196-9dc5-a65804a91f84 not found to delete from table widgets
+INFO:root:Deleted request 03eb7b06-005b-47ee-b3a7-20bdf8689d81 from queue
+INFO:root:Processed request c96e4327-412b-46cc-9b00-e8bd9ce6a828
+INFO:root:Widget d02a35fb-185e-4b6d-83bf-f4c86918174c placed into table widgets
+INFO:root:Deleted request c96e4327-412b-46cc-9b00-e8bd9ce6a828 from queue
+INFO:root:Processed request d8f7538d-7f9e-4712-aa36-746f59e82546
+INFO:root:Widget 60350cd3-54af-4c53-89da-3e02d45e3e9a placed into table widgets
+INFO:root:Deleted request d8f7538d-7f9e-4712-aa36-746f59e82546 from queue
+INFO:root:Processed request 77e7ee45-65e6-484e-bea2-a474d8ecb399
+INFO:root:Widget 266f9e4e-e72d-482f-b8fd-473393afed98 placed into table widgets
+INFO:root:Deleted request 77e7ee45-65e6-484e-bea2-a474d8ecb399 from queue
+INFO:root:Processed request 090e01d2-0f14-417e-b2fb-b912080594fb
+INFO:root:Widget 57826570-c6dd-4b6d-aae8-5c769f2362a0 placed into table widgets
+INFO:root:Deleted request 090e01d2-0f14-417e-b2fb-b912080594fb from queue
+INFO:root:Processed request 12385922-3c5d-44e2-b078-8fc4d32bb342
+INFO:root:Updated widget 6be49fe0-9beb-4fc2-9603-4ebbf0744a13 in table widgets
+INFO:root:Deleted request 12385922-3c5d-44e2-b078-8fc4d32bb342 from queue
+INFO:root:Processed request 4000a2ba-fb03-4645-8990-e439697db71c
+INFO:root:Widget 721e6209-d64f-4b75-809f-2fb8e8c8545b placed into table widgets
+INFO:root:Deleted request 4000a2ba-fb03-4645-8990-e439697db71c from queue
+INFO:root:Processed request 03d7a0aa-c3fc-4706-a3b8-cfdbf498fe3b
+INFO:root:Deleted widget 399b4abf-6e2f-4a96-ad8f-ae0feedd7747 from table widgets
+INFO:root:Deleted request 03d7a0aa-c3fc-4706-a3b8-cfdbf498fe3b from queue
+INFO:root:Processed request a1d8e355-a0a5-4f1c-a6cb-a05c105b0da5
+INFO:root:Widget c91d2780-43e7-4661-8850-9ca73f626bdd placed into table widgets
+INFO:root:Deleted request a1d8e355-a0a5-4f1c-a6cb-a05c105b0da5 from queue
+INFO:root:Processed request ed64aa06-0870-447e-af50-7a9e13181438
+INFO:root:Updated widget 8883d118-66f1-44ff-829e-fa9c9d77c36c in table widgets
+INFO:root:Deleted request ed64aa06-0870-447e-af50-7a9e13181438 from queue
+INFO:root:Processed request c9adeb9d-c923-4bfd-b3bc-209a5f2d64bb
+INFO:root:Widget 5450aedf-60a4-442a-a4a6-0dbed5811f81 placed into table widgets
+INFO:root:Deleted request c9adeb9d-c923-4bfd-b3bc-209a5f2d64bb from queue
+INFO:root:Processed request 96bc1b95-eaf1-4b39-aaf9-18e90e978f39
+INFO:root:Widget 19eb4110-3ed5-48e6-a517-660c0c115d83 placed into table widgets
+INFO:root:Deleted request 96bc1b95-eaf1-4b39-aaf9-18e90e978f39 from queue
+INFO:root:Processed request ae01de96-eb25-4f25-b0a3-b9babb73a1d6
+INFO:root:Widget 20786ae3-e088-4c51-ae04-ecd4b7b95953 placed into table widgets
+INFO:root:Deleted request ae01de96-eb25-4f25-b0a3-b9babb73a1d6 from queue
+INFO:root:Processed request 22acad22-e0d4-49af-af45-69bb4305a629
+INFO:root:Widget dd4a7cb0-42d2-46b2-923d-cacd72e5bbb3 placed into table widgets
+INFO:root:Deleted request 22acad22-e0d4-49af-af45-69bb4305a629 from queue
+INFO:root:Processed request b2f97aec-84fe-45a6-a34e-3537ce881b6c
+INFO:root:Widget 62b07033-9317-421d-b31e-fd96ad13fe15 placed into table widgets
+INFO:root:Deleted request b2f97aec-84fe-45a6-a34e-3537ce881b6c from queue
+INFO:root:Processed request 7e7ae606-7797-48d6-b210-ac553e280862
+INFO:root:Updated widget ca7da1c7-2825-406a-883f-70497deddecd in table widgets
+INFO:root:Deleted request 7e7ae606-7797-48d6-b210-ac553e280862 from queue
+INFO:root:Processed request 11725b3d-3f15-4dd1-909f-79898f661956
+INFO:root:Widget f1a3cffd-5b7d-42a3-a9e5-1ee5ee6a4c69 placed into table widgets
+INFO:root:Deleted request 11725b3d-3f15-4dd1-909f-79898f661956 from queue
+INFO:root:Processed request 1ca21cb7-14e4-4139-b492-4c77dc32c0c8
+INFO:root:Deleted widget 9f5f0ca8-2e7d-4868-bb44-4f18430f8c43 from table widgets
+INFO:root:Deleted request 1ca21cb7-14e4-4139-b492-4c77dc32c0c8 from queue
+INFO:root:Processed request c35d59e3-9b26-4956-8ae9-b74c4a22100d
+INFO:root:Widget e37a104f-a4f8-435e-9858-2ccb935d0e5c placed into table widgets
+INFO:root:Deleted request c35d59e3-9b26-4956-8ae9-b74c4a22100d from queue
+INFO:root:Processed request 8e70e492-5e7c-4275-9328-6360ab04c0d1
+INFO:root:Widget cf0d33c5-0947-4196-9dc5-a65804a91f84 placed into table widgets
+INFO:root:Deleted request 8e70e492-5e7c-4275-9328-6360ab04c0d1 from queue
+INFO:root:Processed request 3a24d735-d0f3-4806-8657-0648abe8b36d
+INFO:root:Widget 673df34d-03fb-4ec9-aad3-f342c6ce4ae8 placed into table widgets
+INFO:root:Deleted request 3a24d735-d0f3-4806-8657-0648abe8b36d from queue
+INFO:root:Processed request ca8fb53e-7d44-4b14-8c78-cea54c998f93
+INFO:root:Deleted widget a6b75ba5-be00-4ac7-8609-ece5fdcc3cc1 from table widgets
+INFO:root:Deleted request ca8fb53e-7d44-4b14-8c78-cea54c998f93 from queue
+INFO:root:Processed request 2fa77a2c-acdc-4580-8220-5011bba9defa
+INFO:root:Widget 76f9f461-30e1-4091-8d66-8780f4f395f1 placed into table widgets
+INFO:root:Deleted request 2fa77a2c-acdc-4580-8220-5011bba9defa from queue
+INFO:root:Processed request 42a4786c-6ffc-48d1-8e51-1145d3057a75
+INFO:root:Widget 3e5a59de-afa6-4850-9490-c2c7ec6fdd16 placed into table widgets
+INFO:root:Deleted request 42a4786c-6ffc-48d1-8e51-1145d3057a75 from queue
+INFO:root:Processed request b1439489-1dec-42c0-8e57-123cc3935aac
+INFO:root:Updated widget 4d355c76-30e7-4095-a02b-fcc82e3b7da5 in table widgets
+INFO:root:Deleted request b1439489-1dec-42c0-8e57-123cc3935aac from queue
+INFO:root:Processed request dc6eb0c2-0cae-4e20-8b42-3db1e6231461
+INFO:root:Widget 60cef4b6-43e6-490a-8c7a-81a3e67d6532 placed into table widgets
+INFO:root:Deleted request dc6eb0c2-0cae-4e20-8b42-3db1e6231461 from queue
+INFO:root:Processed request 1a72d493-a403-4757-bbe5-0f9f56c034cc
+INFO:root:Updated widget 5e846676-d392-420e-b596-88d2569d71ff in table widgets
+INFO:root:Deleted request 1a72d493-a403-4757-bbe5-0f9f56c034cc from queue
+INFO:root:Processed request 669e6499-5a5e-4d2a-bc28-5a5acb14e4a3
+INFO:root:Widget cd3f0bd6-3297-405b-943a-a9c7c798838f placed into table widgets
+INFO:root:Deleted request 669e6499-5a5e-4d2a-bc28-5a5acb14e4a3 from queue
+INFO:root:Processed request b4fc1d06-7419-4113-9c68-55fa069e8590
+INFO:root:Deleted widget c5b317f3-008c-4852-9abf-0255d242a3c0 from table widgets
+INFO:root:Deleted request b4fc1d06-7419-4113-9c68-55fa069e8590 from queue
+INFO:root:Processed request 8db5a164-0465-40b1-865c-3776d0f65b5c
+INFO:root:Widget 16b00e14-c536-497f-9a94-3062d90af899 placed into table widgets
+INFO:root:Deleted request 8db5a164-0465-40b1-865c-3776d0f65b5c from queue
+INFO:root:Processed request 3523c568-ec91-4435-ae01-0b3ea6573f91
+INFO:root:Widget af67cc17-344a-428e-bc0f-f92398725bed placed into table widgets
+INFO:root:Deleted request 3523c568-ec91-4435-ae01-0b3ea6573f91 from queue
+INFO:root:Processed request 01d0b6cb-393f-4b54-888c-dd7df1a0a9d2
+INFO:root:Updated widget cb21acc2-4513-4a9e-b569-f8777d02314d in table widgets
+INFO:root:Deleted request 01d0b6cb-393f-4b54-888c-dd7df1a0a9d2 from queue
+INFO:root:Processed request 2305101e-1561-49aa-b9b2-9605b2842679
+INFO:root:Widget 1be6534c-8dce-47e7-9299-2a0b85134d76 placed into table widgets
+INFO:root:Deleted request 2305101e-1561-49aa-b9b2-9605b2842679 from queue
+INFO:root:Processed request 3e365272-7f59-4db4-b9dd-3252d9d9c694
+INFO:root:Widget 134b7fff-83af-4745-adf6-4b81f92b7fb4 placed into table widgets
+INFO:root:Deleted request 3e365272-7f59-4db4-b9dd-3252d9d9c694 from queue
+INFO:root:Processed request b9048056-f9a0-46b5-8ad6-cc86274c090b
+INFO:root:Widget b00967dd-5183-4a42-9980-3ec828604a47 placed into table widgets
+INFO:root:Deleted request b9048056-f9a0-46b5-8ad6-cc86274c090b from queue
+INFO:root:Processed request f06143d3-bd60-432d-9489-ecd4364d57b7
+INFO:root:Updated widget e37a104f-a4f8-435e-9858-2ccb935d0e5c in table widgets
+INFO:root:Deleted request f06143d3-bd60-432d-9489-ecd4364d57b7 from queue
+INFO:root:Processed request 745b43b5-9651-453b-acb7-24d57201c3a7
+INFO:root:Widget 3d6d7112-8b32-4463-beb6-183127da56aa placed into table widgets
+INFO:root:Deleted request 745b43b5-9651-453b-acb7-24d57201c3a7 from queue
+INFO:root:Processed request 449b847d-d2f7-4ca3-9177-793baef8decc
+INFO:root:Widget 4d355c76-30e7-4095-a02b-fcc82e3b7da5 placed into table widgets
+INFO:root:Deleted request 449b847d-d2f7-4ca3-9177-793baef8decc from queue
+INFO:root:Processed request 38cb0cdc-c8da-4039-aad9-7be4689e8388
+INFO:root:Widget f09a9f50-1fdc-4ad1-b019-f1f624e3f3ce placed into table widgets
+INFO:root:Deleted request 38cb0cdc-c8da-4039-aad9-7be4689e8388 from queue
+INFO:root:Processed request e3303456-48fa-441d-bb36-abb10302f95a
+INFO:root:Updated widget 426f8965-2bf7-473c-80b2-751e801332bb in table widgets
+INFO:root:Deleted request e3303456-48fa-441d-bb36-abb10302f95a from queue
+INFO:root:Processed request 42814943-ec6c-49ea-aa63-f7a237608bfe
+INFO:root:Widget 7a9dfee2-1b7a-4b18-a233-50cbf7a8d07f placed into table widgets
+INFO:root:Deleted request 42814943-ec6c-49ea-aa63-f7a237608bfe from queue
+INFO:root:Processed request 8f9e64c5-3b38-41a0-a476-68967cdf9b47
+INFO:root:Widget 2cde6121-b493-4b4a-b32f-9e1ad24ce20d placed into table widgets
+INFO:root:Deleted request 8f9e64c5-3b38-41a0-a476-68967cdf9b47 from queue
+INFO:root:Processed request 23a3eb36-ca24-4cca-9750-86624e8ee617
+INFO:root:Widget 7b1fe867-4ffd-467d-9c99-7446912ad3ed placed into table widgets
+INFO:root:Deleted request 23a3eb36-ca24-4cca-9750-86624e8ee617 from queue
+INFO:root:Processed request 18341367-40a5-4122-84d6-ac53edca9b52
+INFO:root:Widget 5e97b669-ec75-4a36-b663-209b7660341e placed into table widgets
+INFO:root:Deleted request 18341367-40a5-4122-84d6-ac53edca9b52 from queue
+INFO:root:Processed request 01e3024a-55da-472d-82ae-4598384caff7
+INFO:root:Updated widget 168d5c75-92ec-4a1c-83d3-ade73f28a90b in table widgets
+INFO:root:Deleted request 01e3024a-55da-472d-82ae-4598384caff7 from queue
+INFO:root:Processed request 8262cb0a-576a-4e2f-8002-2af0a2e76c25
+INFO:root:Widget 426f8965-2bf7-473c-80b2-751e801332bb placed into table widgets
+INFO:root:Deleted request 8262cb0a-576a-4e2f-8002-2af0a2e76c25 from queue
+INFO:root:Processed request 19b54577-119e-41da-8470-5c0caaac0b0b
+INFO:root:Widget 6be49fe0-9beb-4fc2-9603-4ebbf0744a13 placed into table widgets
+INFO:root:Deleted request 19b54577-119e-41da-8470-5c0caaac0b0b from queue
+INFO:root:Processed request 91811715-a120-4853-8305-5c9bc216ec0a
+INFO:root:Deleted widget 59741a6e-bb28-4ac8-96e6-a1dd50d6eadb from table widgets
+INFO:root:Deleted request 91811715-a120-4853-8305-5c9bc216ec0a from queue
+INFO:root:Processed request edc300d7-28ec-4d7a-ab34-9c029f9c3d9b
+INFO:root:Updated widget 16b00e14-c536-497f-9a94-3062d90af899 in table widgets
+INFO:root:Deleted request edc300d7-28ec-4d7a-ab34-9c029f9c3d9b from queue
+INFO:root:Processed request 1b08ee7f-f0a4-4026-b06e-0d4d483184ce
+INFO:root:Widget 9b126a0c-f734-445c-a220-d7073800e2cb placed into table widgets
+INFO:root:Deleted request 1b08ee7f-f0a4-4026-b06e-0d4d483184ce from queue
+INFO:root:Processed request 25f27724-1671-4b03-bbd3-366fc025c69f
+INFO:root:Widget abf99026-6b1f-4696-99e0-b1c0496d62c3 placed into table widgets
+INFO:root:Deleted request 25f27724-1671-4b03-bbd3-366fc025c69f from queue
+INFO:root:Processed request 293f6d93-3b8d-4ef6-be14-ac31f3bd2d55
+INFO:root:Updated widget 5f118a3d-504e-4a7c-9c67-ba34f3d9029c in table widgets
+INFO:root:Deleted request 293f6d93-3b8d-4ef6-be14-ac31f3bd2d55 from queue
+INFO:root:Processed request b55a8b19-0b85-46b8-831b-c903e97e05a2
+INFO:root:Widget 60651254-ab10-43a9-8cba-5d29523144b1 placed into table widgets
+INFO:root:Deleted request b55a8b19-0b85-46b8-831b-c903e97e05a2 from queue
+INFO:root:Processed request 6e77f4f5-e388-440d-995b-64ca1d70e3c7
+INFO:root:Widget 6cb1a5a0-b68a-4c7b-b728-2d43301d8d81 placed into table widgets
+INFO:root:Deleted request 6e77f4f5-e388-440d-995b-64ca1d70e3c7 from queue
+INFO:root:Processed request f0a20426-738e-4ac1-a68a-f3af94e00d8c
+INFO:root:Widget d117fbc0-4771-49d5-9354-9fb68b8b7039 placed into table widgets
+INFO:root:Deleted request f0a20426-738e-4ac1-a68a-f3af94e00d8c from queue
+INFO:root:Processed request 4e9f725f-36b4-406d-a6bf-f624f781cef9
+INFO:root:Widget 2e1bfe9b-bc5a-4169-8c58-6e650bb1dfe5 placed into table widgets
+INFO:root:Deleted request 4e9f725f-36b4-406d-a6bf-f624f781cef9 from queue
+INFO:root:Processed request ef729288-7d2b-4dce-aade-631f1a541810
+INFO:root:Widget 4508c815-9f3b-412f-8c56-364ac7e8bcfb placed into table widgets
+INFO:root:Deleted request ef729288-7d2b-4dce-aade-631f1a541810 from queue
+INFO:root:Processed request e231cf08-c829-41fa-a58b-f4f5fc2cddc6
+INFO:root:Widget 24d95ac2-1761-43a6-9346-425ba192425a placed into table widgets
+INFO:root:Deleted request e231cf08-c829-41fa-a58b-f4f5fc2cddc6 from queue
+INFO:root:Processed request 7265562a-d7bf-4728-a393-ca40da047447
+INFO:root:Widget 7ff29cdf-c022-4b0e-992a-6066115f2415 placed into table widgets
+INFO:root:Deleted request 7265562a-d7bf-4728-a393-ca40da047447 from queue
+INFO:root:Processed request 067e8bf6-8731-4a2a-be6c-15437e597bea
+INFO:root:Widget 8883d118-66f1-44ff-829e-fa9c9d77c36c placed into table widgets
+INFO:root:Deleted request 067e8bf6-8731-4a2a-be6c-15437e597bea from queue
+INFO:root:Processed request 13990e5d-a4c6-442e-81bd-2742e5cfbdb8
+INFO:root:Widget cb21acc2-4513-4a9e-b569-f8777d02314d placed into table widgets
+INFO:root:Deleted request 13990e5d-a4c6-442e-81bd-2742e5cfbdb8 from queue
+INFO:root:Processed request 6a8cbcb9-4dc6-4a8e-a2b4-c717aa9e4136
+INFO:root:Widget 775b0b12-1a12-4ca3-b4f7-47beff6d4b57 placed into table widgets
+INFO:root:Deleted request 6a8cbcb9-4dc6-4a8e-a2b4-c717aa9e4136 from queue
+INFO:root:Processed request 7480f990-e7e0-48fa-ab53-ecfa836d52f5
+INFO:root:Deleted widget 9b3c6105-3a0d-4cda-989f-a0a744f85d2f from table widgets
+INFO:root:Deleted request 7480f990-e7e0-48fa-ab53-ecfa836d52f5 from queue
+INFO:root:Processed request 26958c7e-4f1a-40ed-ba96-dc2588da77eb
+INFO:root:Widget db8586a3-39c1-471e-b955-8e08ee071c87 placed into table widgets
+INFO:root:Deleted request 26958c7e-4f1a-40ed-ba96-dc2588da77eb from queue
+INFO:root:Processed request 7b875da8-e5ce-412d-ae7a-b23e6ca1c6f3
+INFO:root:Updated widget 6047d05b-d8a4-4610-a689-67a9dee40f2a in table widgets
+INFO:root:Deleted request 7b875da8-e5ce-412d-ae7a-b23e6ca1c6f3 from queue
+INFO:root:Processed request fd65c1fe-dec1-49eb-991e-59f3602024ce
+INFO:root:Widget 94b8132c-c237-4e9c-8f8e-e9b493fefabc placed into table widgets
+INFO:root:Deleted request fd65c1fe-dec1-49eb-991e-59f3602024ce from queue
+INFO:root:Processed request b405f578-91af-497c-b8a2-45893ef66514
+INFO:root:Updated widget 134b7fff-83af-4745-adf6-4b81f92b7fb4 in table widgets
+INFO:root:Deleted request b405f578-91af-497c-b8a2-45893ef66514 from queue
+INFO:root:Processed request 5684eeab-133a-4ab6-9702-bb5bcd4a79c2
+INFO:root:Widget 23474a1a-44b0-419c-890a-3f02e2e9c9b6 placed into table widgets
+INFO:root:Deleted request 5684eeab-133a-4ab6-9702-bb5bcd4a79c2 from queue
+INFO:root:Processed request 806c83ef-77f7-483e-901e-5035d3d2b47a
+INFO:root:Updated widget c91d2780-43e7-4661-8850-9ca73f626bdd in table widgets
+INFO:root:Deleted request 806c83ef-77f7-483e-901e-5035d3d2b47a from queue
+INFO:root:Processed request 974abe05-7cbd-4870-9011-070f29a3d2b7
+INFO:root:Widget 10fc14ba-162f-49d5-85ae-1feed67cfeef placed into table widgets
+INFO:root:Deleted request 974abe05-7cbd-4870-9011-070f29a3d2b7 from queue
+INFO:root:Processed request adcfda4b-f4c5-486d-bc27-e7fb80324220
+INFO:root:Widget 40532733-ca8e-42d3-943b-7ea7285aaac0 placed into table widgets
+INFO:root:Deleted request adcfda4b-f4c5-486d-bc27-e7fb80324220 from queue
+INFO:root:Processed request 37724cd2-cdcb-400d-b0af-e3d4e3998c81
+INFO:root:Updated widget b00967dd-5183-4a42-9980-3ec828604a47 in table widgets
+INFO:root:Deleted request 37724cd2-cdcb-400d-b0af-e3d4e3998c81 from queue
+INFO:root:Processed request eb722865-a1b8-4e47-9e97-451bc16d2fa4
+INFO:root:Widget 61cd51f6-93c7-4ac9-a9a6-dafcdee98fe8 placed into table widgets
+INFO:root:Deleted request eb722865-a1b8-4e47-9e97-451bc16d2fa4 from queue
+INFO:root:Processed request ae7351a6-0806-45e5-96e2-698e9f4849e5
+INFO:root:Widget fb4f493a-8767-4c12-a4f1-a89b3395d3e9 placed into table widgets
+INFO:root:Deleted request ae7351a6-0806-45e5-96e2-698e9f4849e5 from queue
+INFO:root:Processed request 9ae37a9d-f372-4059-b5bf-007386fdd4e4
+INFO:root:Updated widget 24d95ac2-1761-43a6-9346-425ba192425a in table widgets
+INFO:root:Deleted request 9ae37a9d-f372-4059-b5bf-007386fdd4e4 from queue
+INFO:root:Processed request 59542b49-4b39-418a-b48c-b5b9b9b848da
+INFO:root:Updated widget 61cd51f6-93c7-4ac9-a9a6-dafcdee98fe8 in table widgets
+INFO:root:Deleted request 59542b49-4b39-418a-b48c-b5b9b9b848da from queue
+INFO:root:Processed request a7797203-1962-4600-8aaa-91fc08e0b261
+INFO:root:Deleted widget e5582cd9-9a47-4624-a397-493d4ef63037 from table widgets
+INFO:root:Deleted request a7797203-1962-4600-8aaa-91fc08e0b261 from queue
+INFO:root:Processed request 2a53d719-de82-4cbe-b5fe-a7228ec5757b
+INFO:root:Widget d2bb98ae-f369-4cee-8ff7-7460e852f8ca placed into table widgets
+INFO:root:Deleted request 2a53d719-de82-4cbe-b5fe-a7228ec5757b from queue
+INFO:root:Processed request bb05fcc9-c63a-4261-93ef-763db9b1d01d
+INFO:root:Updated widget e095a283-3011-4f5a-b991-c0042ccfd7f5 in table widgets
+INFO:root:Deleted request bb05fcc9-c63a-4261-93ef-763db9b1d01d from queue
+INFO:root:Processed request 2f9d97df-fefe-4fff-be20-47ee7a91ca87
+INFO:root:Widget 79570385-9c74-4183-bf9f-2e19b9f73e2d placed into table widgets
+INFO:root:Deleted request 2f9d97df-fefe-4fff-be20-47ee7a91ca87 from queue
+INFO:root:Processed request 7101f4c5-1d87-4c94-87d3-7871ebc95b27
+INFO:root:Widget 1a3023f3-fa3f-459a-87ec-002eb5538694 placed into table widgets
+INFO:root:Deleted request 7101f4c5-1d87-4c94-87d3-7871ebc95b27 from queue
+INFO:root:Processed request 65eb0970-e2be-4ec5-bc22-17f993fb76da
+INFO:root:Widget f9055ddd-ad94-4ec9-83b9-e52a8014c2f5 placed into table widgets
+INFO:root:Deleted request 65eb0970-e2be-4ec5-bc22-17f993fb76da from queue
+INFO:root:Processed request c3a56d09-ee42-4208-a15e-a17814dbce0b
+INFO:root:Widget 31c8dfda-98fd-4272-8cea-550e01ce3285 placed into table widgets
+INFO:root:Deleted request c3a56d09-ee42-4208-a15e-a17814dbce0b from queue
+INFO:root:Processed request d0644a13-31ff-4390-ba4b-d28c5d779fdc
+INFO:root:Widget d88475e5-73a4-416f-90cd-e533b3a66cd6 placed into table widgets
+INFO:root:Deleted request d0644a13-31ff-4390-ba4b-d28c5d779fdc from queue
+INFO:root:Processed request b121ffa8-6f8c-4e9d-b512-0210b1047884
+INFO:root:Widget 00329326-356b-4662-9689-66ffeb7d3eed placed into table widgets
+INFO:root:Deleted request b121ffa8-6f8c-4e9d-b512-0210b1047884 from queue
+INFO:root:Processed request 34888426-dfc8-4e4e-97a1-ffd24a1fb0c3
+INFO:root:Updated widget c3582391-ef62-4ab8-8ce0-e2e508a0d7e3 in table widgets
+INFO:root:Deleted request 34888426-dfc8-4e4e-97a1-ffd24a1fb0c3 from queue
+INFO:root:Processed request 01f9772c-9739-44fd-8a8c-adb52ee5696c
+INFO:root:Widget 2f71d697-826f-4d81-9a95-7518303006f1 placed into table widgets
+INFO:root:Deleted request 01f9772c-9739-44fd-8a8c-adb52ee5696c from queue
+INFO:root:Processed request ddfecdb2-1399-4dc7-8785-0dbeb0dda50c
+INFO:root:Widget a6e4108a-1108-42f6-a3d1-76865882d856 placed into table widgets
+INFO:root:Deleted request ddfecdb2-1399-4dc7-8785-0dbeb0dda50c from queue
+INFO:root:Processed request c743dabf-3a53-4229-81fe-c14a39a4c218
+INFO:root:Updated widget 84763535-a0b6-4106-87aa-d1043d739cf1 in table widgets
+INFO:root:Deleted request c743dabf-3a53-4229-81fe-c14a39a4c218 from queue
+INFO:root:Processed request c7b1a376-0276-41f9-9f71-52294e5d273c
+INFO:root:Widget 702cfcfd-6868-46f3-ac9d-86570a671c76 placed into table widgets
+INFO:root:Deleted request c7b1a376-0276-41f9-9f71-52294e5d273c from queue
+INFO:root:Processed request 1724b46f-935f-4179-b4ba-3478f0a0c98c
+INFO:root:Widget 7481c433-2cb5-4896-8319-103e24bfab94 placed into table widgets
+INFO:root:Deleted request 1724b46f-935f-4179-b4ba-3478f0a0c98c from queue
+INFO:root:Processed request 32ab51a5-eef0-4c06-b385-fbc8995ae786
+INFO:root:Deleted widget 702cfcfd-6868-46f3-ac9d-86570a671c76 from table widgets
+INFO:root:Deleted request 32ab51a5-eef0-4c06-b385-fbc8995ae786 from queue
+INFO:root:Processed request 0fdc0e9a-fc03-498a-ab6f-b23d7f8d6add
+INFO:root:Widget 70573b52-543b-4d0c-9ded-86b8a0b3aa55 placed into table widgets
+INFO:root:Deleted request 0fdc0e9a-fc03-498a-ab6f-b23d7f8d6add from queue
+INFO:root:Processed request 75e6ecff-9a37-4f03-b361-79f5bf6c688f
+INFO:root:Widget e96f4849-92e2-4905-a8ba-fea47b8ed71e placed into table widgets
+INFO:root:Deleted request 75e6ecff-9a37-4f03-b361-79f5bf6c688f from queue
+INFO:root:Processed request 6bc366ee-8ab7-4f2a-9a0e-a7b0dc9fe840
+INFO:root:Deleted widget 69fa9499-a11f-4be5-8b42-69eb55d5fae2 from table widgets
+INFO:root:Deleted request 6bc366ee-8ab7-4f2a-9a0e-a7b0dc9fe840 from queue
+INFO:root:Processed request 93b4b4f1-e2f1-4890-949f-6ade3b26efbe
+INFO:root:Widget c5b317f3-008c-4852-9abf-0255d242a3c0 placed into table widgets
+INFO:root:Deleted request 93b4b4f1-e2f1-4890-949f-6ade3b26efbe from queue
+INFO:root:Processed request 08aead5b-7e5f-417a-9a06-67dc4c4aae54
+INFO:root:Widget 1df375ac-6797-4c08-8599-142e9dce8322 placed into table widgets
+INFO:root:Deleted request 08aead5b-7e5f-417a-9a06-67dc4c4aae54 from queue
+INFO:root:Processed request b716e1f5-4152-4c45-b2c1-59759428ffdd
+INFO:root:Updated widget 19bf8fad-551b-4af7-979f-913e32aaa51e in table widgets
+INFO:root:Deleted request b716e1f5-4152-4c45-b2c1-59759428ffdd from queue
+INFO:root:Processed request 56e90cc8-4efd-4de5-834a-4cbd77ef1e6e
+INFO:root:Updated widget b974141f-9e5e-4813-837c-2ea8fac18647 in table widgets
+INFO:root:Deleted request 56e90cc8-4efd-4de5-834a-4cbd77ef1e6e from queue
+INFO:root:Processed request 985f9a49-d16a-4b72-a351-ba005df2057e
+INFO:root:Widget f98f9912-9a29-4d74-8e34-ab7f726b9b69 placed into table widgets
+INFO:root:Deleted request 985f9a49-d16a-4b72-a351-ba005df2057e from queue
+INFO:root:Processed request 11e80ea5-77f0-4de4-afab-f1a71843924f
+INFO:root:Widget 7d247e76-b4c1-488c-8ab8-fcf228b866f6 placed into table widgets
+INFO:root:Deleted request 11e80ea5-77f0-4de4-afab-f1a71843924f from queue
+INFO:root:Processed request 9ae71ee9-3589-4a20-8034-c36dce806c97
+INFO:root:Widget 603de8a1-4765-4d04-823a-aee0f8d0cdb4 placed into table widgets
+INFO:root:Deleted request 9ae71ee9-3589-4a20-8034-c36dce806c97 from queue
+INFO:root:Processed request 5b0833f7-c0c0-42d3-b094-0d2786f75261
+INFO:root:Widget 65dfcce0-5d2f-463b-a0ff-f2f3ac9249a5 placed into table widgets
+INFO:root:Deleted request 5b0833f7-c0c0-42d3-b094-0d2786f75261 from queue
+INFO:root:Processed request 7d914a3a-1b0e-4f1c-a38a-e53ab08923d3
+INFO:root:Widget 1d32c3ae-582c-4315-b767-973414d43afc placed into table widgets
+INFO:root:Deleted request 7d914a3a-1b0e-4f1c-a38a-e53ab08923d3 from queue
+INFO:root:Processed request 6231859e-52cc-49b9-8e0c-9ffe8fcf0876
+INFO:root:Updated widget 7ff29cdf-c022-4b0e-992a-6066115f2415 in table widgets
+INFO:root:Deleted request 6231859e-52cc-49b9-8e0c-9ffe8fcf0876 from queue
+INFO:root:Processed request 7217ab24-09f8-42f1-a2ad-d0928d6c7e62
+INFO:root:Widget 5e846676-d392-420e-b596-88d2569d71ff placed into table widgets
+INFO:root:Deleted request 7217ab24-09f8-42f1-a2ad-d0928d6c7e62 from queue
+INFO:root:Processed request 829a2945-6e70-4eac-8cd0-8c34c73be218
+INFO:root:Widget 471faa02-5743-47c2-a3af-e8396d14b0aa placed into table widgets
+INFO:root:Deleted request 829a2945-6e70-4eac-8cd0-8c34c73be218 from queue
+INFO:root:Processed request 4ec2caf4-3d73-484a-b459-b1eef4ccb17d
+INFO:root:Widget fd27ebd3-de39-459d-9228-45b775606eab placed into table widgets
+INFO:root:Deleted request 4ec2caf4-3d73-484a-b459-b1eef4ccb17d from queue
+INFO:root:Processed request af98882c-29a5-48ab-8a40-84c4a7893b8b
+INFO:root:Updated widget 2e1bfe9b-bc5a-4169-8c58-6e650bb1dfe5 in table widgets
+INFO:root:Deleted request af98882c-29a5-48ab-8a40-84c4a7893b8b from queue
+INFO:root:Processed request 0e6767ec-1269-42c3-9285-7c0b03f6d662
+INFO:root:Widget dc081375-659c-4d46-9a98-d6a47252aae3 placed into table widgets
+INFO:root:Deleted request 0e6767ec-1269-42c3-9285-7c0b03f6d662 from queue
+INFO:root:Processed request c0fb7c8c-749f-49c2-8e77-86ba163381fa
+INFO:root:Updated widget 7ff29cdf-c022-4b0e-992a-6066115f2415 in table widgets
+INFO:root:Deleted request c0fb7c8c-749f-49c2-8e77-86ba163381fa from queue
+INFO:root:Processed request d2be4b06-5b4f-4220-9d08-8d2400933553
+INFO:root:Widget e00c88b1-dbe8-461c-8bf1-c5286f2d02d1 placed into table widgets
+INFO:root:Deleted request d2be4b06-5b4f-4220-9d08-8d2400933553 from queue
+INFO:root:Processed request f4582013-2d92-4b96-b100-9e581057fbbd
+INFO:root:Widget b974141f-9e5e-4813-837c-2ea8fac18647 placed into table widgets
+INFO:root:Deleted request f4582013-2d92-4b96-b100-9e581057fbbd from queue
+INFO:root:Processed request 3a55830c-17a0-45d1-82fc-ed0814e0b5ae
+INFO:root:Widget bb16497c-934a-4102-85f8-8084e729aa35 placed into table widgets
+INFO:root:Deleted request 3a55830c-17a0-45d1-82fc-ed0814e0b5ae from queue
+INFO:root:Timed out from reading requests from queue
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Timed out from reading requests from queue
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request b6bed38f-1bc8-42b5-888b-3f71d572de24
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request c83cebac-2fa9-4f30-a862-be29f72a2fb6
+INFO:root:Updated widget 94b8132c-c237-4e9c-8f8e-e9b493fefabc in table widgets
+INFO:root:Deleted request c83cebac-2fa9-4f30-a862-be29f72a2fb6 from queue
+INFO:root:Processed request 3ae69286-7c11-4d8d-a997-26f4a82e3f18
+INFO:root:Updated widget dd4a7cb0-42d2-46b2-923d-cacd72e5bbb3 in table widgets
+INFO:root:Deleted request 3ae69286-7c11-4d8d-a997-26f4a82e3f18 from queue
+INFO:root:Processed request 65e00890-c1f7-4472-8d02-0f7c9f4ce6fa
+INFO:root:Widget 9008f11f-a85e-4fe9-b5fa-7f4ec288345a placed into table widgets
+INFO:root:Deleted request 65e00890-c1f7-4472-8d02-0f7c9f4ce6fa from queue
+INFO:root:Processed request 114e358c-5026-45f8-b719-62d8cca8a8db
+INFO:root:Widget 52124250-939c-4f85-843a-11d89b168943 placed into table widgets
+INFO:root:Deleted request 114e358c-5026-45f8-b719-62d8cca8a8db from queue
+INFO:root:Processed request 394055f7-4b45-4fde-a75d-a55f89106040
+INFO:root:Widget 04d236a3-90e4-44a8-9478-1dafb2f78543 placed into table widgets
+INFO:root:Deleted request 394055f7-4b45-4fde-a75d-a55f89106040 from queue
+INFO:root:Processed request f57fa271-5d4d-43e8-bee1-71fe418bba71
+INFO:root:Widget 31d5680a-ae54-4a21-a26f-d2cf9cdd9c1f placed into table widgets
+INFO:root:Deleted request f57fa271-5d4d-43e8-bee1-71fe418bba71 from queue
+INFO:root:Processed request 14727679-6854-4901-8563-50c4a176061a
+INFO:root:Widget ae29fce8-ea9c-4b38-adf4-c46f34608dd4 placed into table widgets
+INFO:root:Deleted request 14727679-6854-4901-8563-50c4a176061a from queue
+INFO:root:Processed request 9c86bd13-0db2-41a3-b4c5-c8e5c3c390c0
+INFO:root:Widget 9f5f0ca8-2e7d-4868-bb44-4f18430f8c43 placed into table widgets
+INFO:root:Deleted request 9c86bd13-0db2-41a3-b4c5-c8e5c3c390c0 from queue
+INFO:root:Processed request 1cc0b187-56a8-4423-afe0-2795a4643be4
+INFO:root:Widget 77a9712c-8e66-4404-b74a-a0f930b4deac placed into table widgets
+INFO:root:Deleted request 1cc0b187-56a8-4423-afe0-2795a4643be4 from queue
+INFO:root:Processed request 34a78b4f-1eb7-416a-9b4d-056ce29a4907
+INFO:root:Widget 4e80fffb-0522-4663-9b41-554bd244cdcc placed into table widgets
+INFO:root:Deleted request 34a78b4f-1eb7-416a-9b4d-056ce29a4907 from queue
+INFO:root:Processed request 12cc88f4-fe8f-4ebf-a1bb-db4459ac5911
+INFO:root:Updated widget 2e1bfe9b-bc5a-4169-8c58-6e650bb1dfe5 in table widgets
+INFO:root:Deleted request 12cc88f4-fe8f-4ebf-a1bb-db4459ac5911 from queue
+INFO:root:Processed request 8c0fae70-718c-45be-9b35-49a91b63c2ef
+INFO:root:Widget c2531060-8fca-4065-9295-5f8daac331c7 placed into table widgets
+INFO:root:Deleted request 8c0fae70-718c-45be-9b35-49a91b63c2ef from queue
+INFO:root:Processed request 63e715fb-70e3-4f0c-bc5b-f3d6904bf523
+INFO:root:Widget 47c66729-511b-4d9a-b889-8382fdc6bcd4 placed into table widgets
+INFO:root:Deleted request 63e715fb-70e3-4f0c-bc5b-f3d6904bf523 from queue
+INFO:root:Processed request ecc1d1cf-79ba-403f-a2be-bb1368d2ed3d
+INFO:root:Widget 51f28843-9796-4ea0-86a6-d0c0d7a1c56c placed into table widgets
+INFO:root:Deleted request ecc1d1cf-79ba-403f-a2be-bb1368d2ed3d from queue
+INFO:root:Processed request d513e9d9-3eb0-4683-a4d2-cf3a9e6727e8
+INFO:root:Widget 57dd4b41-00bd-4ab1-b5fb-f7ea4d828188 placed into table widgets
+INFO:root:Deleted request d513e9d9-3eb0-4683-a4d2-cf3a9e6727e8 from queue
+INFO:root:Processed request 398caf85-5eca-4f94-a74f-9293f2755251
+INFO:root:Widget 6a95da51-79a2-4060-81ec-be166d88cd6a placed into table widgets
+INFO:root:Deleted request 398caf85-5eca-4f94-a74f-9293f2755251 from queue
+INFO:root:Processed request 076649e3-77a2-4e57-a352-5a0ed773cca1
+INFO:root:Widget 0c70382d-bbfc-490c-a85b-85a19f48d193 placed into table widgets
+INFO:root:Deleted request 076649e3-77a2-4e57-a352-5a0ed773cca1 from queue
+INFO:root:Processed request 0570dca4-8d5d-4ea3-87d9-213ba9c92b43
+INFO:root:Widget 33e99173-7540-4484-9d43-62b3dd3982fd placed into table widgets
+INFO:root:Deleted request 0570dca4-8d5d-4ea3-87d9-213ba9c92b43 from queue
+INFO:root:Processed request a8dd610d-628f-4ea9-befb-d77ac6ab4cf7
+INFO:root:Widget 4d69c9c0-6e89-4a4d-bd37-0d866e82af78 placed into table widgets
+INFO:root:Deleted request a8dd610d-628f-4ea9-befb-d77ac6ab4cf7 from queue
+INFO:root:Processed request 52d8a7a0-c18d-4571-a74e-9a87415c2dc1
+INFO:root:Widget ca7da1c7-2825-406a-883f-70497deddecd placed into table widgets
+INFO:root:Deleted request 52d8a7a0-c18d-4571-a74e-9a87415c2dc1 from queue
+INFO:root:Processed request 108d5e9a-d0c4-4274-8edd-35adcfb17097
+INFO:root:Widget 9b3c6105-3a0d-4cda-989f-a0a744f85d2f placed into table widgets
+INFO:root:Deleted request 108d5e9a-d0c4-4274-8edd-35adcfb17097 from queue
+INFO:root:Processed request ffee5235-eadb-43dd-be8c-b7da7a12c2cc
+INFO:root:Widget fc4aee1e-895e-4db6-b10b-9a1a4f261968 placed into table widgets
+INFO:root:Deleted request ffee5235-eadb-43dd-be8c-b7da7a12c2cc from queue
+INFO:root:Processed request 30f8c532-18d5-46d4-8983-3031c880e814
+INFO:root:Deleted widget 6a95da51-79a2-4060-81ec-be166d88cd6a from table widgets
+INFO:root:Deleted request 30f8c532-18d5-46d4-8983-3031c880e814 from queue
+INFO:root:Processed request 29c856b8-3fda-4e4b-b5a6-2311c220da1a
+INFO:root:Widget f4ef9dea-61ca-4b56-90d3-2ff731120603 placed into table widgets
+INFO:root:Deleted request 29c856b8-3fda-4e4b-b5a6-2311c220da1a from queue
+INFO:root:Processed request ab139380-a6c0-42cc-9cea-17e1c94be7bf
+INFO:root:Updated widget bb16497c-934a-4102-85f8-8084e729aa35 in table widgets
+INFO:root:Deleted request ab139380-a6c0-42cc-9cea-17e1c94be7bf from queue
+INFO:root:Processed request b386d5be-7572-448a-b5e3-88f0bd9bafeb
+INFO:root:Updated widget 76f9f461-30e1-4091-8d66-8780f4f395f1 in table widgets
+INFO:root:Deleted request b386d5be-7572-448a-b5e3-88f0bd9bafeb from queue
+INFO:root:Processed request 633471c4-767d-44ea-a761-c0aa5d917020
+INFO:root:Widget 399b4abf-6e2f-4a96-ad8f-ae0feedd7747 placed into table widgets
+INFO:root:Deleted request 633471c4-767d-44ea-a761-c0aa5d917020 from queue
+INFO:root:Processed request 7d90d3d3-362c-4711-9fcb-14cd12d6a3d0
+INFO:root:Widget 220b6790-9e2a-4451-a7d2-fc1ec455dac4 placed into table widgets
+INFO:root:Deleted request 7d90d3d3-362c-4711-9fcb-14cd12d6a3d0 from queue
+INFO:root:Processed request e219b39e-7680-4a7a-8f05-92f130acae0b
+INFO:root:Deleted widget 2cde6121-b493-4b4a-b32f-9e1ad24ce20d from table widgets
+INFO:root:Deleted request e219b39e-7680-4a7a-8f05-92f130acae0b from queue
+INFO:root:Processed request e22bf627-ef41-42d9-9e60-7f2dc8aeefad
+INFO:root:Updated widget 426f8965-2bf7-473c-80b2-751e801332bb in table widgets
+INFO:root:Deleted request e22bf627-ef41-42d9-9e60-7f2dc8aeefad from queue
+INFO:root:Processed request 07585c36-95ba-4bb7-a81b-5b2fbad53c93
+INFO:root:Widget 73ee7d74-fe27-4e28-8f14-8270cd2d4f2b placed into table widgets
+INFO:root:Deleted request 07585c36-95ba-4bb7-a81b-5b2fbad53c93 from queue
+INFO:root:Processed request 67a7fd5a-1b5c-4944-bb6d-0ca903f080c3
+INFO:root:Deleted widget d02a35fb-185e-4b6d-83bf-f4c86918174c from table widgets
+INFO:root:Deleted request 67a7fd5a-1b5c-4944-bb6d-0ca903f080c3 from queue
+INFO:root:Processed request 0f602580-074c-43ab-9b78-aea019b5f113
+INFO:root:Updated widget 168d5c75-92ec-4a1c-83d3-ade73f28a90b in table widgets
+INFO:root:Deleted request 0f602580-074c-43ab-9b78-aea019b5f113 from queue
+INFO:root:Processed request b14dc1d9-b07e-414d-981b-c5175fdce645
+INFO:root:Updated widget 1d32c3ae-582c-4315-b767-973414d43afc in table widgets
+INFO:root:Deleted request b14dc1d9-b07e-414d-981b-c5175fdce645 from queue
+INFO:root:Processed request 4ec74ac6-2986-42d0-9533-f2e1c8213b37
+INFO:root:Widget 96eff0c4-17db-4dbb-b08f-9aa01ec5791f placed into table widgets
+INFO:root:Deleted request 4ec74ac6-2986-42d0-9533-f2e1c8213b37 from queue
+INFO:root:Processed request bbbc9a00-9fe2-4ea0-9d36-3d6fa13a73c1
+INFO:root:Widget 5dec4489-1dc6-48fd-a558-55cc45bc0f9f placed into table widgets
+INFO:root:Deleted request bbbc9a00-9fe2-4ea0-9d36-3d6fa13a73c1 from queue
+INFO:root:Processed request 01790b2b-18e1-4120-ba5f-a3a059466702
+INFO:root:Deleted widget 40532733-ca8e-42d3-943b-7ea7285aaac0 from table widgets
+INFO:root:Deleted request 01790b2b-18e1-4120-ba5f-a3a059466702 from queue
+INFO:root:Processed request 2a892da7-93f4-42dd-aba5-94b3f5fa0405
+INFO:root:Updated widget 5f118a3d-504e-4a7c-9c67-ba34f3d9029c in table widgets
+INFO:root:Deleted request 2a892da7-93f4-42dd-aba5-94b3f5fa0405 from queue
+INFO:root:Processed request ebf0f3ac-ad4d-48f9-935f-d0a155278122
+INFO:root:Updated widget 31c8dfda-98fd-4272-8cea-550e01ce3285 in table widgets
+INFO:root:Deleted request ebf0f3ac-ad4d-48f9-935f-d0a155278122 from queue
+INFO:root:Processed request a9ff927e-55ae-4658-a660-3bafa83953be
+INFO:root:Widget 55a11c67-0d9d-4fec-846d-9552c2793365 placed into table widgets
+INFO:root:Deleted request a9ff927e-55ae-4658-a660-3bafa83953be from queue
+INFO:root:Processed request 3713ae4c-f7b6-4272-9e39-e2ff1746badc
+INFO:root:Deleted widget 57dd4b41-00bd-4ab1-b5fb-f7ea4d828188 from table widgets
+INFO:root:Deleted request 3713ae4c-f7b6-4272-9e39-e2ff1746badc from queue
+INFO:root:Processed request e2982dde-eafd-4a12-9051-6e62dcae9eaa
+INFO:root:Widget 59741a6e-bb28-4ac8-96e6-a1dd50d6eadb placed into table widgets
+INFO:root:Deleted request e2982dde-eafd-4a12-9051-6e62dcae9eaa from queue
+INFO:root:Processed request f6fe2668-d9ea-4f77-b684-85cac87d9f78
+INFO:root:Widget 101cbaaf-119d-4038-8d84-12b48415bfe9 placed into table widgets
+INFO:root:Deleted request f6fe2668-d9ea-4f77-b684-85cac87d9f78 from queue
+INFO:root:Processed request d9fbeab9-ffe8-45c6-b250-a3c4c53e418e
+INFO:root:Updated widget 853bd755-9238-4dcb-9f72-e2f2501ebe94 in table widgets
+INFO:root:Deleted request d9fbeab9-ffe8-45c6-b250-a3c4c53e418e from queue
+INFO:root:Processed request 23b795ac-7590-4faa-bb0e-7dee643aaeea
+INFO:root:Widget a1407985-8b08-4027-a4bd-c9c7595dedf2 placed into table widgets
+INFO:root:Deleted request 23b795ac-7590-4faa-bb0e-7dee643aaeea from queue
+INFO:root:Processed request 64fc2674-7d4a-41d4-8d6e-76e8dfdceb33
+INFO:root:Updated widget 85b8bd45-e9a1-4c95-82da-26acb7f01fd0 in table widgets
+INFO:root:Deleted request 64fc2674-7d4a-41d4-8d6e-76e8dfdceb33 from queue
+INFO:root:Processed request 899ff544-691e-4993-99ae-ed690019da36
+INFO:root:Widget 41f9c23d-65a9-4c00-b7e7-eb7b5165b8b8 placed into table widgets
+INFO:root:Deleted request 899ff544-691e-4993-99ae-ed690019da36 from queue
+INFO:root:Processed request 329e3b32-291b-4d34-b4ec-ea6f4e269b08
+INFO:root:Widget a6b75ba5-be00-4ac7-8609-ece5fdcc3cc1 placed into table widgets
+INFO:root:Deleted request 329e3b32-291b-4d34-b4ec-ea6f4e269b08 from queue
+INFO:root:Processed request 256a8f3a-c3af-43ca-9d55-a6a24c3c031c
+INFO:root:Updated widget 603de8a1-4765-4d04-823a-aee0f8d0cdb4 in table widgets
+INFO:root:Deleted request 256a8f3a-c3af-43ca-9d55-a6a24c3c031c from queue
+INFO:root:Processed request f60611eb-1c8b-45c4-9b0b-64961e12a307
+INFO:root:Deleted widget 7481c433-2cb5-4896-8319-103e24bfab94 from table widgets
+INFO:root:Deleted request f60611eb-1c8b-45c4-9b0b-64961e12a307 from queue
+INFO:root:Processed request 42ea5552-51b9-443f-9b33-906123842f80
+INFO:root:Widget c3582391-ef62-4ab8-8ce0-e2e508a0d7e3 placed into table widgets
+INFO:root:Deleted request 42ea5552-51b9-443f-9b33-906123842f80 from queue
+INFO:root:Processed request 5f57ee69-e301-480b-9b5a-68db7616454d
+INFO:root:Updated widget ca7da1c7-2825-406a-883f-70497deddecd in table widgets
+INFO:root:Deleted request 5f57ee69-e301-480b-9b5a-68db7616454d from queue
+INFO:root:Processed request 7d8db7f7-32a5-471f-a6bc-37013b08dfda
+INFO:root:Widget 52d065ef-6f20-4be6-8f48-76cb5004f246 placed into table widgets
+INFO:root:Deleted request 7d8db7f7-32a5-471f-a6bc-37013b08dfda from queue
+INFO:root:Processed request cd084831-955b-4818-ba13-d4805a982002
+INFO:root:Widget e0629524-04a9-4e32-a1fc-b68e86d74c58 placed into table widgets
+INFO:root:Deleted request cd084831-955b-4818-ba13-d4805a982002 from queue
+INFO:root:Processed request 6a8b5bed-0a74-4bf8-b6f9-110a976b1332
+INFO:root:Widget e6327327-6c09-4360-8c42-88b34689030d placed into table widgets
+INFO:root:Deleted request 6a8b5bed-0a74-4bf8-b6f9-110a976b1332 from queue
+INFO:root:Processed request 36bb1afc-d35e-4795-ade4-f6d55cf59e4c
+INFO:root:Widget 45f3ca4b-a9ff-43af-87bd-54aded096d19 placed into table widgets
+INFO:root:Deleted request 36bb1afc-d35e-4795-ade4-f6d55cf59e4c from queue
+INFO:root:Processed request 743b47ab-9a58-465f-9f48-3d8d1591be80
+INFO:root:Widget a6aca38a-55ca-4b53-aed8-59a12f0a9dd6 placed into table widgets
+INFO:root:Deleted request 743b47ab-9a58-465f-9f48-3d8d1591be80 from queue
+INFO:root:Processed request 3ed73427-4e32-4813-a2ff-378e55add6af
+INFO:root:Widget c9970158-53ef-4b75-bfe9-bf9a232dae09 placed into table widgets
+INFO:root:Deleted request 3ed73427-4e32-4813-a2ff-378e55add6af from queue
+INFO:root:Processed request 404ac1d1-09ba-4921-ac90-cacf5ded772c
+INFO:root:Updated widget f9055ddd-ad94-4ec9-83b9-e52a8014c2f5 in table widgets
+INFO:root:Deleted request 404ac1d1-09ba-4921-ac90-cacf5ded772c from queue
+INFO:root:Processed request 25a4cd30-a808-4a73-8d62-a3872bf46ddc
+INFO:root:Widget cad1cf02-4d6a-4531-bf93-026ffe35744a placed into table widgets
+INFO:root:Deleted request 25a4cd30-a808-4a73-8d62-a3872bf46ddc from queue
+INFO:root:Processed request 7bf17447-55a8-42b1-85d5-9244dc96f461
+INFO:root:Widget 9e94ac82-59d5-40df-b992-e999bc22021a placed into table widgets
+INFO:root:Deleted request 7bf17447-55a8-42b1-85d5-9244dc96f461 from queue
+INFO:root:Processed request 32875ee3-8388-48bd-9801-3942f595f1b0
+WARNING:root:Widget 702cfcfd-6868-46f3-ac9d-86570a671c76 not found to update in table widgets
+INFO:root:Deleted request 32875ee3-8388-48bd-9801-3942f595f1b0 from queue
+INFO:root:Processed request 315ee876-0a2f-4e93-bf37-ead1874d31fb
+INFO:root:Widget 6047d05b-d8a4-4610-a689-67a9dee40f2a placed into table widgets
+INFO:root:Deleted request 315ee876-0a2f-4e93-bf37-ead1874d31fb from queue
+INFO:root:Processed request 504fd2ec-7c89-459a-b5df-86f4d4878c91
+INFO:root:Widget 19f087b9-6c89-427a-9968-928a9b7c0dd2 placed into table widgets
+INFO:root:Deleted request 504fd2ec-7c89-459a-b5df-86f4d4878c91 from queue
+INFO:root:Processed request e7c76f65-4675-45b5-b3cb-b5bcabc8ae25
+INFO:root:Updated widget 77a9712c-8e66-4404-b74a-a0f930b4deac in table widgets
+INFO:root:Deleted request e7c76f65-4675-45b5-b3cb-b5bcabc8ae25 from queue
+INFO:root:Processed request ee1bae23-4382-4e42-b45a-869f5d51c437
+INFO:root:Deleted widget 4e80fffb-0522-4663-9b41-554bd244cdcc from table widgets
+INFO:root:Deleted request ee1bae23-4382-4e42-b45a-869f5d51c437 from queue
+INFO:root:Processed request 357191c8-81a5-4ac5-b7ab-9d40a6f0445a
+INFO:root:Widget ef4c7b10-ea2a-427d-a81d-7702c05689aa placed into table widgets
+INFO:root:Deleted request 357191c8-81a5-4ac5-b7ab-9d40a6f0445a from queue
+INFO:root:Processed request 3d247194-1478-4903-8e55-a67bd9b1da22
+INFO:root:Deleted widget 4508c815-9f3b-412f-8c56-364ac7e8bcfb from table widgets
+INFO:root:Deleted request 3d247194-1478-4903-8e55-a67bd9b1da22 from queue
+INFO:root:Processed request d9a9bfab-114f-46a7-bb7c-cb728b6a20be
+INFO:root:Updated widget a1407985-8b08-4027-a4bd-c9c7595dedf2 in table widgets
+INFO:root:Deleted request d9a9bfab-114f-46a7-bb7c-cb728b6a20be from queue
+INFO:root:Processed request 244a448b-c6e7-467c-badf-7202729a6edb
+INFO:root:Deleted widget ae29fce8-ea9c-4b38-adf4-c46f34608dd4 from table widgets
+INFO:root:Deleted request 244a448b-c6e7-467c-badf-7202729a6edb from queue
+INFO:root:Processed request e3303456-48fa-441d-bb36-abb10302f95a
+INFO:root:Updated widget 426f8965-2bf7-473c-80b2-751e801332bb in table widgets
+INFO:root:Deleted request e3303456-48fa-441d-bb36-abb10302f95a from queue
+INFO:root:Processed request 08aead5b-7e5f-417a-9a06-67dc4c4aae54
+INFO:root:Widget 1df375ac-6797-4c08-8599-142e9dce8322 placed into table widgets
+INFO:root:Deleted request 08aead5b-7e5f-417a-9a06-67dc4c4aae54 from queue
+INFO:root:Processed request b716e1f5-4152-4c45-b2c1-59759428ffdd
+INFO:root:Updated widget 19bf8fad-551b-4af7-979f-913e32aaa51e in table widgets
+INFO:root:Deleted request b716e1f5-4152-4c45-b2c1-59759428ffdd from queue
+INFO:root:Processed request 56e90cc8-4efd-4de5-834a-4cbd77ef1e6e
+INFO:root:Updated widget b974141f-9e5e-4813-837c-2ea8fac18647 in table widgets
+INFO:root:Deleted request 56e90cc8-4efd-4de5-834a-4cbd77ef1e6e from queue
+INFO:root:Processed request 985f9a49-d16a-4b72-a351-ba005df2057e
+INFO:root:Widget f98f9912-9a29-4d74-8e34-ab7f726b9b69 placed into table widgets
+INFO:root:Deleted request 985f9a49-d16a-4b72-a351-ba005df2057e from queue
+INFO:root:Processed request 11e80ea5-77f0-4de4-afab-f1a71843924f
+INFO:root:Widget 7d247e76-b4c1-488c-8ab8-fcf228b866f6 placed into table widgets
+INFO:root:Deleted request 11e80ea5-77f0-4de4-afab-f1a71843924f from queue
+INFO:root:Processed request 9ae71ee9-3589-4a20-8034-c36dce806c97
+INFO:root:Widget 603de8a1-4765-4d04-823a-aee0f8d0cdb4 placed into table widgets
+INFO:root:Deleted request 9ae71ee9-3589-4a20-8034-c36dce806c97 from queue
+INFO:root:Processed request 5b0833f7-c0c0-42d3-b094-0d2786f75261
+INFO:root:Widget 65dfcce0-5d2f-463b-a0ff-f2f3ac9249a5 placed into table widgets
+INFO:root:Deleted request 5b0833f7-c0c0-42d3-b094-0d2786f75261 from queue
+INFO:root:Processed request 7d914a3a-1b0e-4f1c-a38a-e53ab08923d3
+INFO:root:Widget 1d32c3ae-582c-4315-b767-973414d43afc placed into table widgets
+INFO:root:Deleted request 7d914a3a-1b0e-4f1c-a38a-e53ab08923d3 from queue
+INFO:root:Processed request 6231859e-52cc-49b9-8e0c-9ffe8fcf0876
+INFO:root:Updated widget 7ff29cdf-c022-4b0e-992a-6066115f2415 in table widgets
+INFO:root:Deleted request 6231859e-52cc-49b9-8e0c-9ffe8fcf0876 from queue
+INFO:root:Processed request c0fb7c8c-749f-49c2-8e77-86ba163381fa
+INFO:root:Updated widget 7ff29cdf-c022-4b0e-992a-6066115f2415 in table widgets
+INFO:root:Deleted request c0fb7c8c-749f-49c2-8e77-86ba163381fa from queue
+INFO:root:Processed request d2be4b06-5b4f-4220-9d08-8d2400933553
+INFO:root:Widget e00c88b1-dbe8-461c-8bf1-c5286f2d02d1 placed into table widgets
+INFO:root:Deleted request d2be4b06-5b4f-4220-9d08-8d2400933553 from queue
+INFO:root:Processed request f4582013-2d92-4b96-b100-9e581057fbbd
+INFO:root:Widget b974141f-9e5e-4813-837c-2ea8fac18647 placed into table widgets
+INFO:root:Deleted request f4582013-2d92-4b96-b100-9e581057fbbd from queue
+INFO:root:Processed request 3a55830c-17a0-45d1-82fc-ed0814e0b5ae
+INFO:root:Widget bb16497c-934a-4102-85f8-8084e729aa35 placed into table widgets
+INFO:root:Deleted request 3a55830c-17a0-45d1-82fc-ed0814e0b5ae from queue
+INFO:root:Processed request 42814943-ec6c-49ea-aa63-f7a237608bfe
+INFO:root:Widget 7a9dfee2-1b7a-4b18-a233-50cbf7a8d07f placed into table widgets
+INFO:root:Deleted request 42814943-ec6c-49ea-aa63-f7a237608bfe from queue
+INFO:root:Processed request 8f9e64c5-3b38-41a0-a476-68967cdf9b47
+INFO:root:Widget 2cde6121-b493-4b4a-b32f-9e1ad24ce20d placed into table widgets
+INFO:root:Deleted request 8f9e64c5-3b38-41a0-a476-68967cdf9b47 from queue
+INFO:root:Processed request 23a3eb36-ca24-4cca-9750-86624e8ee617
+INFO:root:Widget 7b1fe867-4ffd-467d-9c99-7446912ad3ed placed into table widgets
+INFO:root:Deleted request 23a3eb36-ca24-4cca-9750-86624e8ee617 from queue
+INFO:root:Processed request 18341367-40a5-4122-84d6-ac53edca9b52
+INFO:root:Widget 5e97b669-ec75-4a36-b663-209b7660341e placed into table widgets
+INFO:root:Deleted request 18341367-40a5-4122-84d6-ac53edca9b52 from queue
+INFO:root:Processed request 01e3024a-55da-472d-82ae-4598384caff7
+INFO:root:Updated widget 168d5c75-92ec-4a1c-83d3-ade73f28a90b in table widgets
+INFO:root:Deleted request 01e3024a-55da-472d-82ae-4598384caff7 from queue
+INFO:root:Processed request 8262cb0a-576a-4e2f-8002-2af0a2e76c25
+INFO:root:Widget 426f8965-2bf7-473c-80b2-751e801332bb placed into table widgets
+INFO:root:Deleted request 8262cb0a-576a-4e2f-8002-2af0a2e76c25 from queue
+INFO:root:Processed request b7b1c5b0-e606-4555-b6bc-d086dcad7b8f
+INFO:root:Widget ca7fbcd5-c6a8-4031-be1c-46944686412f placed into table widgets
+INFO:root:Deleted request b7b1c5b0-e606-4555-b6bc-d086dcad7b8f from queue
+INFO:root:Processed request 7ee620e4-875e-46ca-bdbb-553d0de5cc17
+INFO:root:Widget 2a9e0bb8-d658-4dee-a620-bacf43682764 placed into table widgets
+INFO:root:Deleted request 7ee620e4-875e-46ca-bdbb-553d0de5cc17 from queue
+INFO:root:Processed request 21ba96a7-5af7-466e-adaa-909cb3db66db
+INFO:root:Widget f110b6f6-cdd1-4ad5-add5-4067d800efda placed into table widgets
+INFO:root:Deleted request 21ba96a7-5af7-466e-adaa-909cb3db66db from queue
+INFO:root:Processed request df5fe648-cc7d-4503-a3a4-3c5c053f1b35
+INFO:root:Widget d1653662-8b34-405c-8040-1ea2a9e92a23 placed into table widgets
+INFO:root:Deleted request df5fe648-cc7d-4503-a3a4-3c5c053f1b35 from queue
+INFO:root:Processed request 91b2ea16-269f-47ae-abd8-a58da386c08d
+INFO:root:Widget 9f1bf4e5-98e8-4e12-8240-e19d1b6fd674 placed into table widgets
+INFO:root:Deleted request 91b2ea16-269f-47ae-abd8-a58da386c08d from queue
+INFO:root:Processed request 681b9f6b-9800-4d3f-86b6-cb905e78fbea
+INFO:root:Widget e5582cd9-9a47-4624-a397-493d4ef63037 placed into table widgets
+INFO:root:Deleted request 681b9f6b-9800-4d3f-86b6-cb905e78fbea from queue
+INFO:root:Processed request a3bff38d-acbc-4558-b561-a1679d65fc62
+INFO:root:Widget 14b6f80b-bba6-4e85-9ab7-b96172239bd4 placed into table widgets
+INFO:root:Deleted request a3bff38d-acbc-4558-b561-a1679d65fc62 from queue
+INFO:root:Processed request 8f029bd1-d18d-4e68-8087-067bea1394c0
+INFO:root:Widget 0486d5e9-6e55-499f-b492-93f495223916 placed into table widgets
+INFO:root:Deleted request 8f029bd1-d18d-4e68-8087-067bea1394c0 from queue
+INFO:root:Processed request 4b40d957-572c-4584-b9eb-ca97c805f731
+INFO:root:Widget 90b2a24c-cbc3-4a6a-8cc7-bca2c9961023 placed into table widgets
+INFO:root:Deleted request 4b40d957-572c-4584-b9eb-ca97c805f731 from queue
+INFO:root:Processed request fb8927e1-b51a-4996-9b51-27af842aa8c7
+INFO:root:Widget 168d5c75-92ec-4a1c-83d3-ade73f28a90b placed into table widgets
+INFO:root:Deleted request fb8927e1-b51a-4996-9b51-27af842aa8c7 from queue
+INFO:root:Processed request 6fdbfcf6-8809-4051-b20c-6fe98e9b34bf
+INFO:root:Widget fca47289-cfff-41e2-9416-95f95fecd128 placed into table widgets
+INFO:root:Deleted request 6fdbfcf6-8809-4051-b20c-6fe98e9b34bf from queue
+INFO:root:Processed request 1062be08-0c3e-4de3-aead-4b5204be1ad7
+INFO:root:Updated widget 7b1fe867-4ffd-467d-9c99-7446912ad3ed in table widgets
+INFO:root:Deleted request 1062be08-0c3e-4de3-aead-4b5204be1ad7 from queue
+INFO:root:Processed request 04e60062-8c3f-48d3-a909-bac379d6aa6c
+INFO:root:Widget b8717d1a-8037-496e-a93f-d21eb152b912 placed into table widgets
+INFO:root:Deleted request 04e60062-8c3f-48d3-a909-bac379d6aa6c from queue
+INFO:root:Processed request 35e60f15-2091-4b0e-a63c-bb696293e676
+INFO:root:Widget 680c4eb6-173a-400c-8259-d70b6e7e53d4 placed into table widgets
+INFO:root:Deleted request 35e60f15-2091-4b0e-a63c-bb696293e676 from queue
+INFO:root:Processed request 95710771-fdc1-4f86-bda0-ce6c882ed28a
+INFO:root:Updated widget 7d247e76-b4c1-488c-8ab8-fcf228b866f6 in table widgets
+INFO:root:Deleted request 95710771-fdc1-4f86-bda0-ce6c882ed28a from queue
+INFO:root:Processed request 9d7627d3-cf1f-421d-beb0-5ef75936a414
+INFO:root:Widget 8c0c84c9-23e0-40a4-9a0c-4625cc3e3087 placed into table widgets
+INFO:root:Deleted request 9d7627d3-cf1f-421d-beb0-5ef75936a414 from queue
+INFO:root:Processed request 16d61a73-ff9b-4993-9cf8-1ab218aa1b44
+INFO:root:Updated widget 0486d5e9-6e55-499f-b492-93f495223916 in table widgets
+INFO:root:Deleted request 16d61a73-ff9b-4993-9cf8-1ab218aa1b44 from queue
+INFO:root:Processed request f8824381-10f8-41ba-867a-b9bc0a126f32
+INFO:root:Widget b6d24945-c9a6-4a55-b370-eade22aa6d51 placed into table widgets
+INFO:root:Deleted request f8824381-10f8-41ba-867a-b9bc0a126f32 from queue
+INFO:root:Processed request 8a86073e-81b0-4494-b742-aaa0e4b8bc38
+INFO:root:Updated widget 9b126a0c-f734-445c-a220-d7073800e2cb in table widgets
+INFO:root:Deleted request 8a86073e-81b0-4494-b742-aaa0e4b8bc38 from queue
+INFO:root:Processed request 9a63a0ab-e3a5-4885-98fc-5f52a3c3cf81
+INFO:root:Updated widget 7ff29cdf-c022-4b0e-992a-6066115f2415 in table widgets
+INFO:root:Deleted request 9a63a0ab-e3a5-4885-98fc-5f52a3c3cf81 from queue
+INFO:root:Processed request 19b54577-119e-41da-8470-5c0caaac0b0b
+INFO:root:Widget 6be49fe0-9beb-4fc2-9603-4ebbf0744a13 placed into table widgets
+INFO:root:Deleted request 19b54577-119e-41da-8470-5c0caaac0b0b from queue
+INFO:root:Processed request 91811715-a120-4853-8305-5c9bc216ec0a
+INFO:root:Deleted widget 59741a6e-bb28-4ac8-96e6-a1dd50d6eadb from table widgets
+INFO:root:Deleted request 91811715-a120-4853-8305-5c9bc216ec0a from queue
+INFO:root:Processed request edc300d7-28ec-4d7a-ab34-9c029f9c3d9b
+INFO:root:Updated widget 16b00e14-c536-497f-9a94-3062d90af899 in table widgets
+INFO:root:Deleted request edc300d7-28ec-4d7a-ab34-9c029f9c3d9b from queue
+INFO:root:Processed request 067e8bf6-8731-4a2a-be6c-15437e597bea
+INFO:root:Widget 8883d118-66f1-44ff-829e-fa9c9d77c36c placed into table widgets
+INFO:root:Deleted request 067e8bf6-8731-4a2a-be6c-15437e597bea from queue
+INFO:root:Processed request 26958c7e-4f1a-40ed-ba96-dc2588da77eb
+INFO:root:Widget db8586a3-39c1-471e-b955-8e08ee071c87 placed into table widgets
+INFO:root:Deleted request 26958c7e-4f1a-40ed-ba96-dc2588da77eb from queue
+INFO:root:Processed request 6a8cbcb9-4dc6-4a8e-a2b4-c717aa9e4136
+INFO:root:Widget 775b0b12-1a12-4ca3-b4f7-47beff6d4b57 placed into table widgets
+INFO:root:Deleted request 6a8cbcb9-4dc6-4a8e-a2b4-c717aa9e4136 from queue
+INFO:root:Processed request fd65c1fe-dec1-49eb-991e-59f3602024ce
+INFO:root:Widget 94b8132c-c237-4e9c-8f8e-e9b493fefabc placed into table widgets
+INFO:root:Deleted request fd65c1fe-dec1-49eb-991e-59f3602024ce from queue
+INFO:root:Processed request b405f578-91af-497c-b8a2-45893ef66514
+INFO:root:Updated widget 134b7fff-83af-4745-adf6-4b81f92b7fb4 in table widgets
+INFO:root:Deleted request b405f578-91af-497c-b8a2-45893ef66514 from queue
+INFO:root:Processed request 13990e5d-a4c6-442e-81bd-2742e5cfbdb8
+INFO:root:Widget cb21acc2-4513-4a9e-b569-f8777d02314d placed into table widgets
+INFO:root:Deleted request 13990e5d-a4c6-442e-81bd-2742e5cfbdb8 from queue
+INFO:root:Processed request 806c83ef-77f7-483e-901e-5035d3d2b47a
+INFO:root:Updated widget c91d2780-43e7-4661-8850-9ca73f626bdd in table widgets
+INFO:root:Deleted request 806c83ef-77f7-483e-901e-5035d3d2b47a from queue
+INFO:root:Processed request 22acad22-e0d4-49af-af45-69bb4305a629
+INFO:root:Widget dd4a7cb0-42d2-46b2-923d-cacd72e5bbb3 placed into table widgets
+INFO:root:Deleted request 22acad22-e0d4-49af-af45-69bb4305a629 from queue
+INFO:root:Processed request b2f97aec-84fe-45a6-a34e-3537ce881b6c
+INFO:root:Widget 62b07033-9317-421d-b31e-fd96ad13fe15 placed into table widgets
+INFO:root:Deleted request b2f97aec-84fe-45a6-a34e-3537ce881b6c from queue
+INFO:root:Processed request 7e7ae606-7797-48d6-b210-ac553e280862
+INFO:root:Updated widget ca7da1c7-2825-406a-883f-70497deddecd in table widgets
+INFO:root:Deleted request 7e7ae606-7797-48d6-b210-ac553e280862 from queue
+INFO:root:Processed request 11725b3d-3f15-4dd1-909f-79898f661956
+INFO:root:Widget f1a3cffd-5b7d-42a3-a9e5-1ee5ee6a4c69 placed into table widgets
+INFO:root:Deleted request 11725b3d-3f15-4dd1-909f-79898f661956 from queue
+INFO:root:Processed request 1ca21cb7-14e4-4139-b492-4c77dc32c0c8
+INFO:root:Deleted widget 9f5f0ca8-2e7d-4868-bb44-4f18430f8c43 from table widgets
+INFO:root:Deleted request 1ca21cb7-14e4-4139-b492-4c77dc32c0c8 from queue
+INFO:root:Processed request c35d59e3-9b26-4956-8ae9-b74c4a22100d
+INFO:root:Widget e37a104f-a4f8-435e-9858-2ccb935d0e5c placed into table widgets
+INFO:root:Deleted request c35d59e3-9b26-4956-8ae9-b74c4a22100d from queue
+INFO:root:Processed request 8e70e492-5e7c-4275-9328-6360ab04c0d1
+INFO:root:Widget cf0d33c5-0947-4196-9dc5-a65804a91f84 placed into table widgets
+INFO:root:Deleted request 8e70e492-5e7c-4275-9328-6360ab04c0d1 from queue
+INFO:root:Processed request 3a24d735-d0f3-4806-8657-0648abe8b36d
+INFO:root:Widget 673df34d-03fb-4ec9-aad3-f342c6ce4ae8 placed into table widgets
+INFO:root:Deleted request 3a24d735-d0f3-4806-8657-0648abe8b36d from queue
+INFO:root:Processed request ca8fb53e-7d44-4b14-8c78-cea54c998f93
+INFO:root:Deleted widget a6b75ba5-be00-4ac7-8609-ece5fdcc3cc1 from table widgets
+INFO:root:Deleted request ca8fb53e-7d44-4b14-8c78-cea54c998f93 from queue
+INFO:root:Processed request 2fa77a2c-acdc-4580-8220-5011bba9defa
+INFO:root:Widget 76f9f461-30e1-4091-8d66-8780f4f395f1 placed into table widgets
+INFO:root:Deleted request 2fa77a2c-acdc-4580-8220-5011bba9defa from queue
+INFO:root:Processed request 8db5a164-0465-40b1-865c-3776d0f65b5c
+INFO:root:Widget 16b00e14-c536-497f-9a94-3062d90af899 placed into table widgets
+INFO:root:Deleted request 8db5a164-0465-40b1-865c-3776d0f65b5c from queue
+INFO:root:Processed request 3523c568-ec91-4435-ae01-0b3ea6573f91
+INFO:root:Widget af67cc17-344a-428e-bc0f-f92398725bed placed into table widgets
+INFO:root:Deleted request 3523c568-ec91-4435-ae01-0b3ea6573f91 from queue
+INFO:root:Processed request 01d0b6cb-393f-4b54-888c-dd7df1a0a9d2
+INFO:root:Updated widget cb21acc2-4513-4a9e-b569-f8777d02314d in table widgets
+INFO:root:Deleted request 01d0b6cb-393f-4b54-888c-dd7df1a0a9d2 from queue
+INFO:root:Processed request 2305101e-1561-49aa-b9b2-9605b2842679
+INFO:root:Widget 1be6534c-8dce-47e7-9299-2a0b85134d76 placed into table widgets
+INFO:root:Deleted request 2305101e-1561-49aa-b9b2-9605b2842679 from queue
+INFO:root:Processed request 3e365272-7f59-4db4-b9dd-3252d9d9c694
+INFO:root:Widget 134b7fff-83af-4745-adf6-4b81f92b7fb4 placed into table widgets
+INFO:root:Deleted request 3e365272-7f59-4db4-b9dd-3252d9d9c694 from queue
+INFO:root:Processed request b9048056-f9a0-46b5-8ad6-cc86274c090b
+INFO:root:Widget b00967dd-5183-4a42-9980-3ec828604a47 placed into table widgets
+INFO:root:Deleted request b9048056-f9a0-46b5-8ad6-cc86274c090b from queue
+INFO:root:Processed request f06143d3-bd60-432d-9489-ecd4364d57b7
+INFO:root:Updated widget e37a104f-a4f8-435e-9858-2ccb935d0e5c in table widgets
+INFO:root:Deleted request f06143d3-bd60-432d-9489-ecd4364d57b7 from queue
+INFO:root:Processed request 745b43b5-9651-453b-acb7-24d57201c3a7
+INFO:root:Widget 3d6d7112-8b32-4463-beb6-183127da56aa placed into table widgets
+INFO:root:Deleted request 745b43b5-9651-453b-acb7-24d57201c3a7 from queue
+INFO:root:Processed request 449b847d-d2f7-4ca3-9177-793baef8decc
+INFO:root:Widget 4d355c76-30e7-4095-a02b-fcc82e3b7da5 placed into table widgets
+INFO:root:Deleted request 449b847d-d2f7-4ca3-9177-793baef8decc from queue
+INFO:root:Processed request 38cb0cdc-c8da-4039-aad9-7be4689e8388
+INFO:root:Widget f09a9f50-1fdc-4ad1-b019-f1f624e3f3ce placed into table widgets
+INFO:root:Deleted request 38cb0cdc-c8da-4039-aad9-7be4689e8388 from queue
+INFO:root:Processed request 974abe05-7cbd-4870-9011-070f29a3d2b7
+INFO:root:Widget 10fc14ba-162f-49d5-85ae-1feed67cfeef placed into table widgets
+INFO:root:Deleted request 974abe05-7cbd-4870-9011-070f29a3d2b7 from queue
+INFO:root:Processed request adcfda4b-f4c5-486d-bc27-e7fb80324220
+INFO:root:Widget 40532733-ca8e-42d3-943b-7ea7285aaac0 placed into table widgets
+INFO:root:Deleted request adcfda4b-f4c5-486d-bc27-e7fb80324220 from queue
+INFO:root:Processed request 37724cd2-cdcb-400d-b0af-e3d4e3998c81
+INFO:root:Updated widget b00967dd-5183-4a42-9980-3ec828604a47 in table widgets
+INFO:root:Deleted request 37724cd2-cdcb-400d-b0af-e3d4e3998c81 from queue
+INFO:root:Processed request eb722865-a1b8-4e47-9e97-451bc16d2fa4
+INFO:root:Widget 61cd51f6-93c7-4ac9-a9a6-dafcdee98fe8 placed into table widgets
+INFO:root:Deleted request eb722865-a1b8-4e47-9e97-451bc16d2fa4 from queue
+INFO:root:Processed request ae7351a6-0806-45e5-96e2-698e9f4849e5
+INFO:root:Widget fb4f493a-8767-4c12-a4f1-a89b3395d3e9 placed into table widgets
+INFO:root:Deleted request ae7351a6-0806-45e5-96e2-698e9f4849e5 from queue
+INFO:root:Processed request 9ae37a9d-f372-4059-b5bf-007386fdd4e4
+INFO:root:Updated widget 24d95ac2-1761-43a6-9346-425ba192425a in table widgets
+INFO:root:Deleted request 9ae37a9d-f372-4059-b5bf-007386fdd4e4 from queue
+INFO:root:Processed request 59542b49-4b39-418a-b48c-b5b9b9b848da
+INFO:root:Updated widget 61cd51f6-93c7-4ac9-a9a6-dafcdee98fe8 in table widgets
+INFO:root:Deleted request 59542b49-4b39-418a-b48c-b5b9b9b848da from queue
+INFO:root:Processed request a7797203-1962-4600-8aaa-91fc08e0b261
+INFO:root:Deleted widget e5582cd9-9a47-4624-a397-493d4ef63037 from table widgets
+INFO:root:Deleted request a7797203-1962-4600-8aaa-91fc08e0b261 from queue
+INFO:root:Processed request 2a53d719-de82-4cbe-b5fe-a7228ec5757b
+INFO:root:Widget d2bb98ae-f369-4cee-8ff7-7460e852f8ca placed into table widgets
+INFO:root:Deleted request 2a53d719-de82-4cbe-b5fe-a7228ec5757b from queue
+INFO:root:Processed request bb05fcc9-c63a-4261-93ef-763db9b1d01d
+INFO:root:Updated widget e095a283-3011-4f5a-b991-c0042ccfd7f5 in table widgets
+INFO:root:Deleted request bb05fcc9-c63a-4261-93ef-763db9b1d01d from queue
+INFO:root:Processed request 2f9d97df-fefe-4fff-be20-47ee7a91ca87
+INFO:root:Widget 79570385-9c74-4183-bf9f-2e19b9f73e2d placed into table widgets
+INFO:root:Deleted request 2f9d97df-fefe-4fff-be20-47ee7a91ca87 from queue
+INFO:root:Processed request 7101f4c5-1d87-4c94-87d3-7871ebc95b27
+INFO:root:Widget 1a3023f3-fa3f-459a-87ec-002eb5538694 placed into table widgets
+INFO:root:Deleted request 7101f4c5-1d87-4c94-87d3-7871ebc95b27 from queue
+INFO:root:Processed request 65eb0970-e2be-4ec5-bc22-17f993fb76da
+INFO:root:Widget f9055ddd-ad94-4ec9-83b9-e52a8014c2f5 placed into table widgets
+INFO:root:Deleted request 65eb0970-e2be-4ec5-bc22-17f993fb76da from queue
+INFO:root:Processed request c3a56d09-ee42-4208-a15e-a17814dbce0b
+INFO:root:Widget 31c8dfda-98fd-4272-8cea-550e01ce3285 placed into table widgets
+INFO:root:Deleted request c3a56d09-ee42-4208-a15e-a17814dbce0b from queue
+INFO:root:Processed request d0644a13-31ff-4390-ba4b-d28c5d779fdc
+INFO:root:Widget d88475e5-73a4-416f-90cd-e533b3a66cd6 placed into table widgets
+INFO:root:Deleted request d0644a13-31ff-4390-ba4b-d28c5d779fdc from queue
+INFO:root:Processed request b121ffa8-6f8c-4e9d-b512-0210b1047884
+INFO:root:Widget 00329326-356b-4662-9689-66ffeb7d3eed placed into table widgets
+INFO:root:Deleted request b121ffa8-6f8c-4e9d-b512-0210b1047884 from queue
+INFO:root:Processed request 34888426-dfc8-4e4e-97a1-ffd24a1fb0c3
+INFO:root:Updated widget c3582391-ef62-4ab8-8ce0-e2e508a0d7e3 in table widgets
+INFO:root:Deleted request 34888426-dfc8-4e4e-97a1-ffd24a1fb0c3 from queue
+INFO:root:Processed request 01f9772c-9739-44fd-8a8c-adb52ee5696c
+INFO:root:Widget 2f71d697-826f-4d81-9a95-7518303006f1 placed into table widgets
+INFO:root:Deleted request 01f9772c-9739-44fd-8a8c-adb52ee5696c from queue
+INFO:root:Processed request ddfecdb2-1399-4dc7-8785-0dbeb0dda50c
+INFO:root:Widget a6e4108a-1108-42f6-a3d1-76865882d856 placed into table widgets
+INFO:root:Deleted request ddfecdb2-1399-4dc7-8785-0dbeb0dda50c from queue
+INFO:root:Processed request c743dabf-3a53-4229-81fe-c14a39a4c218
+INFO:root:Updated widget 84763535-a0b6-4106-87aa-d1043d739cf1 in table widgets
+INFO:root:Deleted request c743dabf-3a53-4229-81fe-c14a39a4c218 from queue
+INFO:root:Processed request fdd43b6d-13b0-4d0f-ba6e-588e1b66ca94
+INFO:root:Deleted widget 7a9dfee2-1b7a-4b18-a233-50cbf7a8d07f from table widgets
+INFO:root:Deleted request fdd43b6d-13b0-4d0f-ba6e-588e1b66ca94 from queue
+INFO:root:Processed request 85f24ab9-6e42-4daa-b2bc-97c02ee77eb3
+INFO:root:Widget e9603069-3042-49d3-a54a-9d105688e308 placed into table widgets
+INFO:root:Deleted request 85f24ab9-6e42-4daa-b2bc-97c02ee77eb3 from queue
+INFO:root:Processed request 197dca07-8042-490c-a18c-16b5dcd25874
+INFO:root:Deleted widget 3d6d7112-8b32-4463-beb6-183127da56aa from table widgets
+INFO:root:Deleted request 197dca07-8042-490c-a18c-16b5dcd25874 from queue
+INFO:root:Processed request 0ef0ff6a-59a7-4d2d-9860-3bda3a0553d4
+INFO:root:Widget d79c1580-54c9-42b1-8a38-e36f11618f77 placed into table widgets
+INFO:root:Deleted request 0ef0ff6a-59a7-4d2d-9860-3bda3a0553d4 from queue
+INFO:root:Processed request 4215b4df-e3dd-4d49-b890-acbb1e6e68d6
+INFO:root:Updated widget 77a9712c-8e66-4404-b74a-a0f930b4deac in table widgets
+INFO:root:Deleted request 4215b4df-e3dd-4d49-b890-acbb1e6e68d6 from queue
+INFO:root:Processed request 04ad7843-a55c-4820-a00c-6476cbe552db
+INFO:root:Widget 19bf8fad-551b-4af7-979f-913e32aaa51e placed into table widgets
+INFO:root:Deleted request 04ad7843-a55c-4820-a00c-6476cbe552db from queue
+INFO:root:Processed request 20fb6998-7be5-49a8-af9e-e9c3568d2706
+INFO:root:Deleted widget 9f1bf4e5-98e8-4e12-8240-e19d1b6fd674 from table widgets
+INFO:root:Deleted request 20fb6998-7be5-49a8-af9e-e9c3568d2706 from queue
+INFO:root:Processed request 777fe2cf-2282-48ba-a73b-24a6be7b151b
+INFO:root:Widget e095a283-3011-4f5a-b991-c0042ccfd7f5 placed into table widgets
+INFO:root:Deleted request 777fe2cf-2282-48ba-a73b-24a6be7b151b from queue
+INFO:root:Processed request 55d03f5d-983f-40d9-953f-6cca526e8e4b
+INFO:root:Widget 25a10f24-0b19-44e2-a2c8-a9218dbcb811 placed into table widgets
+INFO:root:Deleted request 55d03f5d-983f-40d9-953f-6cca526e8e4b from queue
+INFO:root:Processed request e89cc364-e1b6-46cf-a7e9-4da622590ec4
+INFO:root:Updated widget d117fbc0-4771-49d5-9354-9fb68b8b7039 in table widgets
+INFO:root:Deleted request e89cc364-e1b6-46cf-a7e9-4da622590ec4 from queue
+INFO:root:Processed request 0fdc0e9a-fc03-498a-ab6f-b23d7f8d6add
+INFO:root:Widget 70573b52-543b-4d0c-9ded-86b8a0b3aa55 placed into table widgets
+INFO:root:Deleted request 0fdc0e9a-fc03-498a-ab6f-b23d7f8d6add from queue
+INFO:root:Processed request 75e6ecff-9a37-4f03-b361-79f5bf6c688f
+INFO:root:Widget e96f4849-92e2-4905-a8ba-fea47b8ed71e placed into table widgets
+INFO:root:Deleted request 75e6ecff-9a37-4f03-b361-79f5bf6c688f from queue
+INFO:root:Processed request 6bc366ee-8ab7-4f2a-9a0e-a7b0dc9fe840
+WARNING:root:Widget 69fa9499-a11f-4be5-8b42-69eb55d5fae2 not found to delete from table widgets
+INFO:root:Deleted request 6bc366ee-8ab7-4f2a-9a0e-a7b0dc9fe840 from queue
+INFO:root:Processed request 7480f990-e7e0-48fa-ab53-ecfa836d52f5
+INFO:root:Deleted widget 9b3c6105-3a0d-4cda-989f-a0a744f85d2f from table widgets
+INFO:root:Deleted request 7480f990-e7e0-48fa-ab53-ecfa836d52f5 from queue
+INFO:root:Processed request 93b4b4f1-e2f1-4890-949f-6ade3b26efbe
+INFO:root:Widget c5b317f3-008c-4852-9abf-0255d242a3c0 placed into table widgets
+INFO:root:Deleted request 93b4b4f1-e2f1-4890-949f-6ade3b26efbe from queue
+INFO:root:Processed request 5684eeab-133a-4ab6-9702-bb5bcd4a79c2
+INFO:root:Widget 23474a1a-44b0-419c-890a-3f02e2e9c9b6 placed into table widgets
+INFO:root:Deleted request 5684eeab-133a-4ab6-9702-bb5bcd4a79c2 from queue
+INFO:root:Processed request 7b875da8-e5ce-412d-ae7a-b23e6ca1c6f3
+INFO:root:Updated widget 6047d05b-d8a4-4610-a689-67a9dee40f2a in table widgets
+INFO:root:Deleted request 7b875da8-e5ce-412d-ae7a-b23e6ca1c6f3 from queue
+INFO:root:Processed request 42a4786c-6ffc-48d1-8e51-1145d3057a75
+INFO:root:Widget 3e5a59de-afa6-4850-9490-c2c7ec6fdd16 placed into table widgets
+INFO:root:Deleted request 42a4786c-6ffc-48d1-8e51-1145d3057a75 from queue
+INFO:root:Processed request b1439489-1dec-42c0-8e57-123cc3935aac
+INFO:root:Updated widget 4d355c76-30e7-4095-a02b-fcc82e3b7da5 in table widgets
+INFO:root:Deleted request b1439489-1dec-42c0-8e57-123cc3935aac from queue
+INFO:root:Processed request dc6eb0c2-0cae-4e20-8b42-3db1e6231461
+INFO:root:Widget 60cef4b6-43e6-490a-8c7a-81a3e67d6532 placed into table widgets
+INFO:root:Deleted request dc6eb0c2-0cae-4e20-8b42-3db1e6231461 from queue
+INFO:root:Processed request 1a72d493-a403-4757-bbe5-0f9f56c034cc
+INFO:root:Updated widget 5e846676-d392-420e-b596-88d2569d71ff in table widgets
+INFO:root:Deleted request 1a72d493-a403-4757-bbe5-0f9f56c034cc from queue
+INFO:root:Processed request 669e6499-5a5e-4d2a-bc28-5a5acb14e4a3
+INFO:root:Widget cd3f0bd6-3297-405b-943a-a9c7c798838f placed into table widgets
+INFO:root:Deleted request 669e6499-5a5e-4d2a-bc28-5a5acb14e4a3 from queue
+INFO:root:Processed request b4fc1d06-7419-4113-9c68-55fa069e8590
+INFO:root:Deleted widget c5b317f3-008c-4852-9abf-0255d242a3c0 from table widgets
+INFO:root:Deleted request b4fc1d06-7419-4113-9c68-55fa069e8590 from queue
+INFO:root:Processed request e85b0c1f-6dc1-4241-be8d-64c3c6ce2f48
+INFO:root:Widget 69fa9499-a11f-4be5-8b42-69eb55d5fae2 placed into table widgets
+INFO:root:Deleted request e85b0c1f-6dc1-4241-be8d-64c3c6ce2f48 from queue
+INFO:root:Processed request 7837c07e-b4a5-4c5b-9876-660f0be2db3b
+INFO:root:Widget b97d450d-c1a0-4483-a123-f85261f36613 placed into table widgets
+INFO:root:Deleted request 7837c07e-b4a5-4c5b-9876-660f0be2db3b from queue
+INFO:root:Processed request cff11df1-36b7-41db-86fd-bd43200df9b5
+INFO:root:Widget 683db7c2-67d7-4f61-a03a-27a71d1a14b1 placed into table widgets
+INFO:root:Deleted request cff11df1-36b7-41db-86fd-bd43200df9b5 from queue
+INFO:root:Processed request b9cb2bbd-bdb2-4e8d-af5c-dc24f5bb0c55
+INFO:root:Widget 85b8bd45-e9a1-4c95-82da-26acb7f01fd0 placed into table widgets
+INFO:root:Deleted request b9cb2bbd-bdb2-4e8d-af5c-dc24f5bb0c55 from queue
+INFO:root:Processed request 5bff020c-f98e-40fa-a50d-8b7cc69ea62b
+INFO:root:Widget 44ce8fda-77a2-489b-ad7e-2f7538dfb8f3 placed into table widgets
+INFO:root:Deleted request 5bff020c-f98e-40fa-a50d-8b7cc69ea62b from queue
+INFO:root:Processed request 0db98bf4-c693-4d2a-bed6-4ab889b6882a
+INFO:root:Widget 853bd755-9238-4dcb-9f72-e2f2501ebe94 placed into table widgets
+INFO:root:Deleted request 0db98bf4-c693-4d2a-bed6-4ab889b6882a from queue
+INFO:root:Processed request b6bed38f-1bc8-42b5-888b-3f71d572de24
+INFO:root:Updated widget 40cb25cb-d7fa-4e08-9d29-d76d38cf742a in table widgets
+INFO:root:Deleted request b6bed38f-1bc8-42b5-888b-3f71d572de24 from queue
+INFO:root:Processed request c0938e53-1cfc-4cf8-a2d6-2c3f91b109ff
+INFO:root:Updated widget 5450aedf-60a4-442a-a4a6-0dbed5811f81 in table widgets
+INFO:root:Deleted request c0938e53-1cfc-4cf8-a2d6-2c3f91b109ff from queue
+INFO:root:Processed request ba1fdecd-f7db-47cc-848a-8d3ae097af3a
+INFO:root:Deleted widget 04d236a3-90e4-44a8-9478-1dafb2f78543 from table widgets
+INFO:root:Deleted request ba1fdecd-f7db-47cc-848a-8d3ae097af3a from queue
+INFO:root:Processed request 62a17dfc-0586-451f-b0e9-d4fd2c2a71f3
+INFO:root:Widget d8730b3a-c051-492b-ab08-1aaaf2ac7520 placed into table widgets
+INFO:root:Deleted request 62a17dfc-0586-451f-b0e9-d4fd2c2a71f3 from queue
+INFO:root:Processed request 2b2e2762-ca4d-4405-9ff0-378de8ac1a95
+INFO:root:Deleted widget f4ef9dea-61ca-4b56-90d3-2ff731120603 from table widgets
+INFO:root:Deleted request 2b2e2762-ca4d-4405-9ff0-378de8ac1a95 from queue
+INFO:root:Processed request 7f1096e7-f040-4248-875a-83e7407542d4
+INFO:root:Widget 8891d832-3ef8-4dd5-a616-6ae009feba1b placed into table widgets
+INFO:root:Deleted request 7f1096e7-f040-4248-875a-83e7407542d4 from queue
+INFO:root:Processed request 556e5b5d-f221-4667-9650-1ed7cda5775b
+INFO:root:Widget 40cb25cb-d7fa-4e08-9d29-d76d38cf742a placed into table widgets
+INFO:root:Deleted request 556e5b5d-f221-4667-9650-1ed7cda5775b from queue
+INFO:root:Processed request f0129b97-8910-4087-85b6-b9d575250b49
+INFO:root:Deleted widget 65dfcce0-5d2f-463b-a0ff-f2f3ac9249a5 from table widgets
+INFO:root:Deleted request f0129b97-8910-4087-85b6-b9d575250b49 from queue
+INFO:root:Processed request 92342b8e-7adc-4750-b9c0-e5484e73e367
+INFO:root:Widget 5f118a3d-504e-4a7c-9c67-ba34f3d9029c placed into table widgets
+INFO:root:Deleted request 92342b8e-7adc-4750-b9c0-e5484e73e367 from queue
+INFO:root:Processed request 5321b9d1-bf02-4bd6-8afb-669518e1956d
+INFO:root:Widget 12ac3d28-e182-4cdf-ac22-bfbf00ac06bb placed into table widgets
+INFO:root:Deleted request 5321b9d1-bf02-4bd6-8afb-669518e1956d from queue
+INFO:root:Processed request 5f3f61d1-b321-4e73-b2f8-b5dd459cec90
+INFO:root:Updated widget 8891d832-3ef8-4dd5-a616-6ae009feba1b in table widgets
+INFO:root:Deleted request 5f3f61d1-b321-4e73-b2f8-b5dd459cec90 from queue
+INFO:root:Processed request 171cd5d9-53e1-4a9f-ba33-d91498c0f99a
+INFO:root:Widget 3bc3e41a-c400-4ec2-8def-26f8527144db placed into table widgets
+INFO:root:Deleted request 171cd5d9-53e1-4a9f-ba33-d91498c0f99a from queue
+INFO:root:Processed request 2075eee4-8cb2-4897-a4e4-6e96da58a4ef
+INFO:root:Widget adb67b3b-97b6-42e8-a814-679bcfb310ee placed into table widgets
+INFO:root:Deleted request 2075eee4-8cb2-4897-a4e4-6e96da58a4ef from queue
+INFO:root:Processed request 41972ff5-685d-40da-ba69-ceac2d3d645d
+INFO:root:Deleted widget e00c88b1-dbe8-461c-8bf1-c5286f2d02d1 from table widgets
+INFO:root:Deleted request 41972ff5-685d-40da-ba69-ceac2d3d645d from queue
+INFO:root:Processed request 9e5087d5-2a5e-49ac-b482-195065583e36
+INFO:root:Updated widget 60651254-ab10-43a9-8cba-5d29523144b1 in table widgets
+INFO:root:Deleted request 9e5087d5-2a5e-49ac-b482-195065583e36 from queue
+INFO:root:Processed request 3dc0eb76-8870-46cf-a7f2-13b40500b1ac
+INFO:root:Widget 9a084340-cb48-4db0-b782-c00ca683b5d6 placed into table widgets
+INFO:root:Deleted request 3dc0eb76-8870-46cf-a7f2-13b40500b1ac from queue
+INFO:root:Processed request cef56878-217b-483b-a4f0-fadf0abff0aa
+INFO:root:Widget 48c826b0-c237-440a-9b45-93bcd194fc79 placed into table widgets
+INFO:root:Deleted request cef56878-217b-483b-a4f0-fadf0abff0aa from queue
+INFO:root:Processed request 2231efb9-27f7-447c-bd97-5f7f332d08c0
+INFO:root:Widget 84763535-a0b6-4106-87aa-d1043d739cf1 placed into table widgets
+INFO:root:Deleted request 2231efb9-27f7-447c-bd97-5f7f332d08c0 from queue
+INFO:root:Processed request ebbcc02f-29f4-456e-b37e-877cecfc0897
+INFO:root:Widget 4d585595-3c1c-4dd0-ba5c-8708c52e57a9 placed into table widgets
+INFO:root:Deleted request ebbcc02f-29f4-456e-b37e-877cecfc0897 from queue
+INFO:root:Processed request 24e00801-ec5b-4872-a3ec-4bc94da3d092
+INFO:root:Widget 221c9819-6b48-4d5b-8077-3376af136500 placed into table widgets
+INFO:root:Deleted request 24e00801-ec5b-4872-a3ec-4bc94da3d092 from queue
+INFO:root:Processed request 03eb7b06-005b-47ee-b3a7-20bdf8689d81
+INFO:root:Deleted widget cf0d33c5-0947-4196-9dc5-a65804a91f84 from table widgets
+INFO:root:Deleted request 03eb7b06-005b-47ee-b3a7-20bdf8689d81 from queue
+INFO:root:Processed request c96e4327-412b-46cc-9b00-e8bd9ce6a828
+INFO:root:Widget d02a35fb-185e-4b6d-83bf-f4c86918174c placed into table widgets
+INFO:root:Deleted request c96e4327-412b-46cc-9b00-e8bd9ce6a828 from queue
+INFO:root:Processed request d8f7538d-7f9e-4712-aa36-746f59e82546
+INFO:root:Widget 60350cd3-54af-4c53-89da-3e02d45e3e9a placed into table widgets
+INFO:root:Deleted request d8f7538d-7f9e-4712-aa36-746f59e82546 from queue
+INFO:root:Processed request 77e7ee45-65e6-484e-bea2-a474d8ecb399
+INFO:root:Widget 266f9e4e-e72d-482f-b8fd-473393afed98 placed into table widgets
+INFO:root:Deleted request 77e7ee45-65e6-484e-bea2-a474d8ecb399 from queue
+INFO:root:Processed request 090e01d2-0f14-417e-b2fb-b912080594fb
+INFO:root:Widget 57826570-c6dd-4b6d-aae8-5c769f2362a0 placed into table widgets
+INFO:root:Deleted request 090e01d2-0f14-417e-b2fb-b912080594fb from queue
+INFO:root:Processed request 12385922-3c5d-44e2-b078-8fc4d32bb342
+INFO:root:Updated widget 6be49fe0-9beb-4fc2-9603-4ebbf0744a13 in table widgets
+INFO:root:Deleted request 12385922-3c5d-44e2-b078-8fc4d32bb342 from queue
+INFO:root:Processed request 4000a2ba-fb03-4645-8990-e439697db71c
+INFO:root:Widget 721e6209-d64f-4b75-809f-2fb8e8c8545b placed into table widgets
+INFO:root:Deleted request 4000a2ba-fb03-4645-8990-e439697db71c from queue
+INFO:root:Processed request 03d7a0aa-c3fc-4706-a3b8-cfdbf498fe3b
+INFO:root:Deleted widget 399b4abf-6e2f-4a96-ad8f-ae0feedd7747 from table widgets
+INFO:root:Deleted request 03d7a0aa-c3fc-4706-a3b8-cfdbf498fe3b from queue
+INFO:root:Processed request a1d8e355-a0a5-4f1c-a6cb-a05c105b0da5
+INFO:root:Widget c91d2780-43e7-4661-8850-9ca73f626bdd placed into table widgets
+INFO:root:Deleted request a1d8e355-a0a5-4f1c-a6cb-a05c105b0da5 from queue
+INFO:root:Processed request ed64aa06-0870-447e-af50-7a9e13181438
+INFO:root:Updated widget 8883d118-66f1-44ff-829e-fa9c9d77c36c in table widgets
+INFO:root:Deleted request ed64aa06-0870-447e-af50-7a9e13181438 from queue
+INFO:root:Processed request c9adeb9d-c923-4bfd-b3bc-209a5f2d64bb
+INFO:root:Widget 5450aedf-60a4-442a-a4a6-0dbed5811f81 placed into table widgets
+INFO:root:Deleted request c9adeb9d-c923-4bfd-b3bc-209a5f2d64bb from queue
+INFO:root:Processed request 96bc1b95-eaf1-4b39-aaf9-18e90e978f39
+INFO:root:Widget 19eb4110-3ed5-48e6-a517-660c0c115d83 placed into table widgets
+INFO:root:Deleted request 96bc1b95-eaf1-4b39-aaf9-18e90e978f39 from queue
+INFO:root:Processed request ae01de96-eb25-4f25-b0a3-b9babb73a1d6
+INFO:root:Widget 20786ae3-e088-4c51-ae04-ecd4b7b95953 placed into table widgets
+INFO:root:Deleted request ae01de96-eb25-4f25-b0a3-b9babb73a1d6 from queue
+INFO:root:Processed request 7217ab24-09f8-42f1-a2ad-d0928d6c7e62
+INFO:root:Widget 5e846676-d392-420e-b596-88d2569d71ff placed into table widgets
+INFO:root:Deleted request 7217ab24-09f8-42f1-a2ad-d0928d6c7e62 from queue
+INFO:root:Processed request 829a2945-6e70-4eac-8cd0-8c34c73be218
+INFO:root:Widget 471faa02-5743-47c2-a3af-e8396d14b0aa placed into table widgets
+INFO:root:Deleted request 829a2945-6e70-4eac-8cd0-8c34c73be218 from queue
+INFO:root:Processed request 4ec2caf4-3d73-484a-b459-b1eef4ccb17d
+INFO:root:Widget fd27ebd3-de39-459d-9228-45b775606eab placed into table widgets
+INFO:root:Deleted request 4ec2caf4-3d73-484a-b459-b1eef4ccb17d from queue
+INFO:root:Processed request af98882c-29a5-48ab-8a40-84c4a7893b8b
+INFO:root:Updated widget 2e1bfe9b-bc5a-4169-8c58-6e650bb1dfe5 in table widgets
+INFO:root:Deleted request af98882c-29a5-48ab-8a40-84c4a7893b8b from queue
+INFO:root:Processed request d84b9f4e-93ce-4f9b-bca0-db2a3c4c6b80
+INFO:root:Updated widget bb16497c-934a-4102-85f8-8084e729aa35 in table widgets
+INFO:root:Deleted request d84b9f4e-93ce-4f9b-bca0-db2a3c4c6b80 from queue
+INFO:root:Processed request 569c834f-64c6-44d6-88a9-678cb97262a8
+INFO:root:Widget 1e0f2088-90f4-4fae-afa1-a859d370417b placed into table widgets
+INFO:root:Deleted request 569c834f-64c6-44d6-88a9-678cb97262a8 from queue
+INFO:root:Processed request 72409ab3-9a8a-4c88-a2f1-d2e87dbc6a9f
+INFO:root:Updated widget 1df375ac-6797-4c08-8599-142e9dce8322 in table widgets
+INFO:root:Deleted request 72409ab3-9a8a-4c88-a2f1-d2e87dbc6a9f from queue
+INFO:root:Processed request dec1cf7c-8041-47ad-84cf-ecf1b981098f
+INFO:root:Widget 39a91305-1c34-4b11-b397-9d48104f418e placed into table widgets
+INFO:root:Deleted request dec1cf7c-8041-47ad-84cf-ecf1b981098f from queue
+INFO:root:Processed request a5e9fde8-ca8f-45c1-8c94-48d312b9871d
+INFO:root:Deleted widget 9e94ac82-59d5-40df-b992-e999bc22021a from table widgets
+INFO:root:Deleted request a5e9fde8-ca8f-45c1-8c94-48d312b9871d from queue
+INFO:root:Processed request bf0cde7f-d0fa-47af-b428-f02bf1c5a904
+INFO:root:Widget a0711d6d-a9dc-42ee-a79b-63726c14f027 placed into table widgets
+INFO:root:Deleted request bf0cde7f-d0fa-47af-b428-f02bf1c5a904 from queue
+INFO:root:Processed request b2538737-3155-4e23-9294-0a23fb475df2
+INFO:root:Widget 9497db51-87a6-4cda-becb-d8988a995226 placed into table widgets
+INFO:root:Deleted request b2538737-3155-4e23-9294-0a23fb475df2 from queue
+INFO:root:Processed request 8ce22d46-1fc2-4fe1-8d63-9776bfb5a790
+INFO:root:Updated widget 5e97b669-ec75-4a36-b663-209b7660341e in table widgets
+INFO:root:Deleted request 8ce22d46-1fc2-4fe1-8d63-9776bfb5a790 from queue
+INFO:root:Processed request dc7e5d70-55f8-4896-9a64-370e9a457192
+INFO:root:Widget 5e8b148e-8490-4519-9c73-3fcb14c25a9e placed into table widgets
+INFO:root:Deleted request dc7e5d70-55f8-4896-9a64-370e9a457192 from queue
+INFO:root:Processed request 1cf94244-05a7-424f-a615-c736eddea91c
+INFO:root:Widget a8fa67de-8e75-44ce-8f25-be039a035b1c placed into table widgets
+INFO:root:Deleted request 1cf94244-05a7-424f-a615-c736eddea91c from queue
+INFO:root:Processed request 0e6767ec-1269-42c3-9285-7c0b03f6d662
+INFO:root:Widget dc081375-659c-4d46-9a98-d6a47252aae3 placed into table widgets
+INFO:root:Deleted request 0e6767ec-1269-42c3-9285-7c0b03f6d662 from queue
+INFO:root:Processed request c52212d6-3219-4d80-afe9-c65f1675b1a7
+INFO:root:Widget b23adbdb-3f2b-4ddd-bc28-c6f4722597d8 placed into table widgets
+INFO:root:Deleted request c52212d6-3219-4d80-afe9-c65f1675b1a7 from queue
+INFO:root:Processed request a30c44c9-c4d8-4e33-9051-1e5ebdaa3db0
+INFO:root:Widget f034a3d1-8453-4860-9ad0-79af4c2ca804 placed into table widgets
+INFO:root:Deleted request a30c44c9-c4d8-4e33-9051-1e5ebdaa3db0 from queue
+INFO:root:Processed request c6af0e79-267a-49d4-912e-960283a0e657
+INFO:root:Deleted widget 101cbaaf-119d-4038-8d84-12b48415bfe9 from table widgets
+INFO:root:Deleted request c6af0e79-267a-49d4-912e-960283a0e657 from queue
+INFO:root:Processed request a8a169aa-2403-4452-b69d-c0a2c1e0afe2
+INFO:root:Widget 6964a1e4-c564-4d9d-9910-f499653f9905 placed into table widgets
+INFO:root:Deleted request a8a169aa-2403-4452-b69d-c0a2c1e0afe2 from queue
+INFO:root:Processed request 1b08ee7f-f0a4-4026-b06e-0d4d483184ce
+INFO:root:Widget 9b126a0c-f734-445c-a220-d7073800e2cb placed into table widgets
+INFO:root:Deleted request 1b08ee7f-f0a4-4026-b06e-0d4d483184ce from queue
+INFO:root:Processed request 293f6d93-3b8d-4ef6-be14-ac31f3bd2d55
+INFO:root:Updated widget 5f118a3d-504e-4a7c-9c67-ba34f3d9029c in table widgets
+INFO:root:Deleted request 293f6d93-3b8d-4ef6-be14-ac31f3bd2d55 from queue
+INFO:root:Processed request b55a8b19-0b85-46b8-831b-c903e97e05a2
+INFO:root:Widget 60651254-ab10-43a9-8cba-5d29523144b1 placed into table widgets
+INFO:root:Deleted request b55a8b19-0b85-46b8-831b-c903e97e05a2 from queue
+INFO:root:Processed request 6e77f4f5-e388-440d-995b-64ca1d70e3c7
+INFO:root:Widget 6cb1a5a0-b68a-4c7b-b728-2d43301d8d81 placed into table widgets
+INFO:root:Deleted request 6e77f4f5-e388-440d-995b-64ca1d70e3c7 from queue
+INFO:root:Processed request f0a20426-738e-4ac1-a68a-f3af94e00d8c
+INFO:root:Widget d117fbc0-4771-49d5-9354-9fb68b8b7039 placed into table widgets
+INFO:root:Deleted request f0a20426-738e-4ac1-a68a-f3af94e00d8c from queue
+INFO:root:Processed request 4e9f725f-36b4-406d-a6bf-f624f781cef9
+INFO:root:Widget 2e1bfe9b-bc5a-4169-8c58-6e650bb1dfe5 placed into table widgets
+INFO:root:Deleted request 4e9f725f-36b4-406d-a6bf-f624f781cef9 from queue
+INFO:root:Processed request ef729288-7d2b-4dce-aade-631f1a541810
+INFO:root:Widget 4508c815-9f3b-412f-8c56-364ac7e8bcfb placed into table widgets
+INFO:root:Deleted request ef729288-7d2b-4dce-aade-631f1a541810 from queue
+INFO:root:Processed request e231cf08-c829-41fa-a58b-f4f5fc2cddc6
+INFO:root:Widget 24d95ac2-1761-43a6-9346-425ba192425a placed into table widgets
+INFO:root:Deleted request e231cf08-c829-41fa-a58b-f4f5fc2cddc6 from queue
+INFO:root:Processed request 7265562a-d7bf-4728-a393-ca40da047447
+INFO:root:Widget 7ff29cdf-c022-4b0e-992a-6066115f2415 placed into table widgets
+INFO:root:Deleted request 7265562a-d7bf-4728-a393-ca40da047447 from queue
+INFO:root:Processed request c7b1a376-0276-41f9-9f71-52294e5d273c
+INFO:root:Widget 702cfcfd-6868-46f3-ac9d-86570a671c76 placed into table widgets
+INFO:root:Deleted request c7b1a376-0276-41f9-9f71-52294e5d273c from queue
+INFO:root:Processed request 1724b46f-935f-4179-b4ba-3478f0a0c98c
+INFO:root:Widget 7481c433-2cb5-4896-8319-103e24bfab94 placed into table widgets
+INFO:root:Deleted request 1724b46f-935f-4179-b4ba-3478f0a0c98c from queue
+INFO:root:Processed request 32ab51a5-eef0-4c06-b385-fbc8995ae786
+INFO:root:Deleted widget 702cfcfd-6868-46f3-ac9d-86570a671c76 from table widgets
+INFO:root:Deleted request 32ab51a5-eef0-4c06-b385-fbc8995ae786 from queue
+INFO:root:Processed request 25f27724-1671-4b03-bbd3-366fc025c69f
+INFO:root:Widget abf99026-6b1f-4696-99e0-b1c0496d62c3 placed into table widgets
+INFO:root:Deleted request 25f27724-1671-4b03-bbd3-366fc025c69f from queue
+INFO:root:Timed out from reading requests from queue
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:Processed request 3ae69286-7c11-4d8d-a997-26f4a82e3f18

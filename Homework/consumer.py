@@ -117,7 +117,6 @@ def process_request_type(widget_contents, wb, wt):
     object_dict = json.loads(widget_contents)
     logging.info(f"Processed request {object_dict['requestId']}")
     request_type = object_dict['type']
-    print(request_type)
     if request_type == 'create':
         if wb != None:
             store_widget_in_bucket(wb, object_dict, request_type)
@@ -132,7 +131,7 @@ def process_request_type(widget_contents, wb, wt):
         if wb != None:
             store_widget_in_bucket(wb, object_dict, request_type)
         if wt != None:
-            update_widget_in_table(wb, object_dict)
+            update_widget_in_table(wt, object_dict)
 
 
 # Stores widget in S3 bucket. Will also update an object if an object of the same key already exists
@@ -203,7 +202,44 @@ def delete_widget_from_table(wt, widget_contents):
   
 #Updates a widget's attributes in a table, if it is found 
 def update_widget_in_table(wt, widget_contents):
-    return
+    widget_id = widget_contents['widgetId']
+    attributes_to_update = widget_contents.get('otherAttributes', {})
+    remove_attribute_list = [] #Used to join strings of attributes to remove
+    update_attribute_list = [] #Used to join strings of attributes to be updated
+    update_expression_list = [] #Used to join the two larger strings into isolated segments in case no REMOVE or SET operation is needed
+    expression_attribute_names = {}
+    expression_attribute_values = {}
+    
+    for attribute in attributes_to_update:
+        name = attribute['name'].replace('-', '_') #Hyphens resulted in invalid key, replace with underscores
+        value = attribute['value']
+        
+        if value == None:
+            remove_attribute_list.append(f'#{name}')
+        else:
+            update_attribute_list.append(f'#{name}=:{name}')
+            expression_attribute_names[f"#{name}"] = f"attributes.{name}"
+            expression_attribute_values[f":{name}"] = value
+    
+    #Joining together strings into total update expression
+    if len(remove_attribute_list) != 0:
+        update_expression_list.append('REMOVE ' + (', '.join(remove_attribute_list)) + ' ')
+    if len(update_attribute_list) != 0:
+        update_expression_list.append('SET ' + (', '.join(update_attribute_list)))
+    update_expression = ' '.join(update_expression_list)
+    
+    
+    try:
+        updated_widget = wt.update_item(
+            Key={'id': widget_id},
+            UpdateExpression=update_expression,
+            ExpressionAttributeNames=expression_attribute_names,
+            ExpressionAttributeValues=expression_attribute_values,
+            ConditionExpression='attribute_exists(id)'
+        )
+        logging.info(f'Updated widget {widget_id} in table {wt.name}')
+    except wt.meta.client.exceptions.ConditionalCheckFailedException as e:
+        logging.warning(f'Widget {widget_id} not found to update in table {wt.name}')
 
 
 # Returns a list of strings of existing bucket names
