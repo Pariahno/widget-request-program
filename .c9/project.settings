@@ -1,6 +1,7 @@
 {
     "extensions": {
         "@aws.profile": "",
+        "@aws.samcli.lambdaTimeout": 90000,
         "@editor.acceptSuggestionOnEnter": "on",
         "@editor.snippetSuggestions": "top",
         "@editor.suggest.preview": true,
