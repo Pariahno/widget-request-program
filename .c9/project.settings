@@ -1,5 +1,10 @@
 {
     "extensions": {
+        "@aws.lambda.recentlyUploaded": {
+            "profile:default": {
+                "us-east-1": "widget-request-handler"
+            }
+        },
         "@aws.profile": "",
         "@aws.samcli.lambdaTimeout": 90000,
         "@editor.acceptSuggestionOnEnter": "on",
