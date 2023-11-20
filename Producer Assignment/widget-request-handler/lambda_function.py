@@ -7,5 +7,5 @@ def lambda_handler(event, context):
     
     return {
         'statusCode': 200,
-        'body': processed_request
+        'body': json.dumps('Request sent successfully')
     }
