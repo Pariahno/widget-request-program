@@ -3,7 +3,8 @@ import widget_producer
 
 def lambda_handler(event, context):
     
-    processed_request = widget_producer.create_request(event)
+    event_body = event['body']
+    processed_request = widget_producer.create_request(event['body'])
     
     return {
         'statusCode': 200,
